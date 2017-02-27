@@ -28,6 +28,32 @@ for i in range(0, n_users):
 print utility
 
 def pcs(x, y):
-    return 0
+    A = utility[x-1]
+    B = utility[y-1]
+    avg_rx = user[x-1].avg_r
+    avg_ry = user[y-1].avg_r
+    I =  [(ri, rj) for (ri, rj) in zip(A, B) if ri > 0 and rj > 0]
+    if len(I) > 0:
+        sxy = sum([(rxi-avg_rx) * (ryi-avg_ry) for (rxi, ryi) in I])
+        sx = sum([(rxi-avg_rx) ** 2 for (rxi, ryi) in I])
+        sy = sum([(ryi-avg_ry) ** 2 for (rxi, ryi) in I])
+        sx = sqrt(sx)
+        sy = sqrt(sy)
+        if (sx*sy) != 0:
+            return sxy/(sx*sy)
+    return 0.0
+
 def guess(user_id, i_id, top_n):
-    return 0
+    similarity = []
+    for i in range(n_users):
+        if i+1 != user_id:
+            similarity.append((pcs(user_id, i+1), i+1))
+    similarity.sort(key = lambda x : x[0], reverse = True)
+    r_similar, indexes = zip(*similarity[:top_n])
+    rating_top = [ (index, utility[index-1][i_id-1]) for index in indexes if utility[index-1][i_id-1] > 0]
+    rating_top_avg = [ v-user[i-1].avg_r for i, v in rating_top ]
+    avg_rating_diff = mean(rating_top_avg) if len(rating_top_avg) > 0 else 0
+    ans = abs(user[user_id-1].avg_r + avg_rating_diff)
+    return ans
+
+print guess(1, 2, 4)
