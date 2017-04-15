@@ -1,0 +1,7 @@
+import requests
+CONFIG_PATTERN = 'http://api.themoviedb.org/3/configuration?api_key={key}'
+KEY = '<your_api_key>'
+
+url = CONFIG_PATTERN.format(key=KEY)
+r = requests.get(url)
+config = r.json()

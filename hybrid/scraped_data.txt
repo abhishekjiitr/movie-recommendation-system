@@ -1,0 +1,1159 @@
+1|Tom Hanks, Tim Allen, Don Rickles, Jim Varney|USA|John Lasseter|Animation, Adventure, Comedy|English|8.3|1995|Buena Vista
+2|Pierce Brosnan, Sean Bean, Izabella Scorupco, Famke Janssen|UK, USA|Martin Campbell|Action, Adventure, Thriller|English, Russian, Spanish|7.2|1995|MGM/UA
+3|Sammi Davis, Amanda De Cadenet, Valeria Golino, Madonna|USA|Allison Anders, Alexandre Rockwell, Robert Rodriguez, Quentin Tarantino|Comedy|English|6.7|1995|Miramax Films
+4|John Travolta, Gene Hackman, Rene Russo, Danny DeVito|USA|Barry Sonnenfeld|Comedy, Crime, Thriller|English|6.9|1995|MGM
+5|Sigourney Weaver, Holly Hunter, Dermot Mulroney, William McNamara|USA|Jon Amiel|Crime, Drama, Mystery|English|6.6|1995|Warner Home Video
+6|Li Gong, Baotian Li, Xiaoxiao Wang, Xuejian Li|France, China|Yimou Zhang|Crime, Drama, Romance|Mandarin|7.2|1995|Sony Pictures Home Entertainment
+7|Joseph Melito, Bruce Willis, Jon Seda, Michael Chance|USA|Terry Gilliam|Mystery, Sci-Fi, Thriller|English, French|8.0|1995|Universal Pictures
+8|Christine Cavanaugh, Miriam Margolyes, Danny Mann, Hugo Weaving|Australia, USA|Chris Noonan|Comedy, Drama, Family|English|6.8|1995|Universal Pictures
+9|Susan Sarandon, Sean Penn, Robert Prosky, Raymond J. Barry|UK, USA|Tim Robbins|Crime, Drama|English|7.6|1995|Gramercy Pictures
+10|Ian McKellen, Annette Bening, Jim Broadbent, Robert Downey Jr.|UK, USA|Richard Loncraine|Drama, War|English|7.5|1995|United Artists
+11|Will Smith, Rosario Dawson, Woody Harrelson, Michael Ealy|USA|Gabriele Muccino|Drama, Romance|English, Spanish|7.7|2008|Sony Pictures
+13|Pamela Blair, Rene Ceballos, Elie Chaib, George De La Pena|USA|Woody Allen|Comedy, Fantasy, Romance|English, Latin|7.1|1995|Miramax Films
+15|Richard Dreyfuss, Glenne Headly, Jay Thomas, Olympia Dukakis|USA|Stephen Herek|Drama, Music|English, American Sign Language|7.3|1995|N/A
+16|Victoria Abril, Josiane Balasko, Alain Chabat, Ticky Holgado|France|Josiane Balasko|Comedy|French, Spanish|6.4|1995|Canal +
+17|George Clooney, Quentin Tarantino, Harvey Keitel, Juliette Lewis|USA|Robert Rodriguez|Action, Crime, Horror|English, Spanish|7.3|1996|Dimension Films
+19|Willeke van Ammelrooy, Els Dottermans, Dora van der Groen, Veerle van Overloop|Netherlands, Belgium, UK, France|Marleen Gorris|Comedy, Drama|Dutch|7.5|1995|BMG
+20|Mark Rylance, Kristin Scott Thomas, Patsy Kensit, Jeremy Kemp|UK, USA|Philip Haas|Drama, Romance|English|7.0|1995|MGM Home Entertainment
+21|Tim Curry, Billy Connolly, Jennifer Saunders, Kevin Bishop|USA|Brian Henson|Action, Adventure, Comedy|English|6.9|1996|Buena Vista
+22|James Robinson, Sean Lawlor, Sandy Nelson, James Cosmo|USA|Mel Gibson|Biography, Drama, History|English, French, Latin, Scottish Gaelic|8.4|1995|Paramount Pictures
+23|Diahnne Abbott, Frank Adu, Victor Argo, Gino Ardito|USA|Martin Scorsese|Crime, Drama|English, Spanish|8.3|1976|Columbia Pictures
+27|Lisa Boyle, Will Smith, Martin Lawrence, Michael Taliferro|USA|Michael Bay|Action, Comedy, Crime|English|6.8|1995|Sony Pictures Home Entertainment
+28|Tom Hanks, Bill Paxton, Kevin Bacon, Gary Sinise|USA|Ron Howard|Adventure, Drama, History|English|7.6|1995|Universal Pictures
+29|Val Kilmer, Tommy Lee Jones, Jim Carrey, Nicole Kidman|USA|Joel Schumacher|Action, Adventure, Fantasy|English|5.4|1995|Warner Bros. Pictures
+31|Denzel Washington, Gene Hackman, Matt Craven, George Dzundza|USA|Tony Scott|Action, Drama, Thriller|English|7.3|1995|Buena Vista Internationa
+32|Robert Crumb, Aline Kominsky, Charles Crumb, Maxon Crumb|USA|Terry Zwigoff|Documentary, Biography, Comedy|English|8.0|1994|Sony Pictures Home Entertainment
+33|Antonio Banderas, Salma Hayek, Joaquim de Almeida, Cheech Marin|USA|Robert Rodriguez|Action, Thriller|English|7.2|1995|Sony Pictures Home Entertainment
+35|Jason James Richter, Francis Capra, Mary Kate Schellhardt, August Schellenberg|France, USA|Dwight H. Little|Adventure, Drama, Family|English, Malay, Indonesian|4.9|1995|WARNER BROTHERS PICTURES
+36|Chris O'Donnell, Drew Barrymore, Matthew Lillard, Richard Chaim|USA|Antonia Bird|Drama, Romance|English|5.3|1995|A-Pix
+38|Leo Benvenuti, Jeremy Bergman, Elliott Cho, Mike Ditka|USA|N/A|Documentary, Short|English|5.5|2005|N/A
+39|Ralph Fiennes, Angela Bassett, Juliette Lewis, Tom Sizemore|USA|Kathryn Bigelow|Action, Crime, Drama|English|7.2|1995|Twentieth Century Fox Home Entertainment
+41|Adam Sandler, Darren McGavin, Bridgette Wilson-Sampras, Bradley Whitford|USA|Tamra Davis|Comedy|English, French, Spanish|6.4|1995|MCA Universal Home Video
+42|Brian O'Halloran, Jeff Anderson, Marilyn Ghigliotti, Lisa Spoonauer|USA|Kevin Smith|Comedy|English|7.8|1994|Miramax Films
+43|Michael Douglas, Demi Moore, Donald Sutherland, Caroline Goodall|USA|Barry Levinson|Drama, Thriller|English|6.0|1994|Warner Home Video
+44|Kathy Bates, Jennifer Jason Leigh, Judy Parfitt, Christopher Plummer|USA|Taylor Hackford|Crime, Drama, Mystery|English|7.4|1995|Sony Pictures Home Entertainment
+45|Sihung Lung, Yu-Wen Wang, Chien-Lien Wu, Kuei-Mei Yang|Taiwan, USA|Ang Lee|Comedy, Drama, Romance|Mandarin, French|7.8|1994|Samuel Goldwyn Films
+46|David Hemblen, Calvin Green, Don McKellar, Peter Krantz|Canada|Atom Egoyan|Drama|English, Hebrew|7.2|1994|ARP
+47|Johnny Depp, Martin Landau, Sarah Jessica Parker, Patricia Arquette|USA|Tim Burton|Biography, Comedy, Drama|English|7.9|1994|Buena Vista Pictures
+48|William Gates, Arthur Agee, Emma Gates, Curtis Gates|USA|Steve James|Documentary, Drama, Sport|English|8.3|1994|Fine Line Features
+49|Tim Robbins, Meg Ryan, Walter Matthau, Lou Jacobi|USA|Fred Schepisi|Comedy, Romance|English, German|6.2|1994|Paramount Home Video
+51|Brad Pitt, Anthony Hopkins, Aidan Quinn, Julia Ormond|USA|Edward Zwick|Drama, Romance, War|English, Cornish|7.5|1994|N/A
+53|Woody Harrelson, Juliette Lewis, Tom Sizemore, Rodney Dangerfield|USA|Oliver Stone|Crime, Drama|English, Navajo, Japanese|7.3|1994|Warner Bros. Pictures
+54|Dustin Hoffman, Rene Russo, Morgan Freeman, Kevin Spacey|USA|Wolfgang Petersen|Action, Drama, Thriller|English, Korean, French|6.6|1995|Warner Home Video
+56|Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta|USA|Quentin Tarantino|Crime, Drama|English, Spanish, French|8.9|1994|Miramax Films
+57|Paul Bettany, Karl Urban, Cam Gigandet, Maggie Q|USA|Scott Stewart|Action, Fantasy, Horror|English|5.7|2011|Screen Gems/SONY PICTURES
+58|John Turturro, Rob Morrow, Ralph Fiennes, Paul Scofield|USA|Robert Redford|Biography, Drama, History|English|7.5|1994|Buena Vista Internationa
+61|Zbigniew Zamachowski, Julie Delpy, Janusz Gajos, Jerzy Stuhr|Switzerland, France, Poland|Krzysztof Kieslowski|Comedy, Drama, Romance|Polish, French|7.7|1994|Miramax Films
+62|Kurt Russell, James Spader, Jaye Davidson, Viveca Lindfors|France, USA|Roland Emmerich|Action, Adventure, Sci-Fi|English, Norwegian, Swedish, Egyptian (Ancient), Arabic|7.1|1994|Artisan Home Entertainment
+66|Sandra Bullock, Bill Pullman, Peter Gallagher, Peter Boyle|USA|Jon Turteltaub|Comedy, Drama, Romance|English|6.7|1995|Buena Vista Pictures
+67|Jim Carrey, Courteney Cox, Sean Young, Tone Loc|USA|Tom Shadyac|Comedy|English|6.9|1994|Warner Bros. Pictures
+68|Jared Bergenstal|USA|Joie Estrella|Drama|English|N/A|2016|N/A
+69|Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys|USA|Robert Zemeckis|Comedy, Drama, Romance|English|8.8|1994|Paramount Pictures
+70|Hugh Grant, James Fleet, Simon Callow, John Hannah|UK|Mike Newell|Comedy, Drama, Romance|English, British Sign Language|7.1|1994|Gramercy Pictures
+72|Nathan Baesel, Angela Goethals, Robert Englund, Scott Wilson|USA|Scott Glosserman|Comedy, Horror, Thriller|English|6.8|2006|Anchor Bay
+73|Mel Gibson, Jodie Foster, James Garner, Graham Greene|USA|Richard Donner|Action, Adventure, Comedy|English|7.0|1994|Warner Bros. Pictures
+74|Tura Satana, Haji, Lori Williams, Ray Barlow|USA|Russ Meyer|Action, Comedy|English|6.8|1965|Eve Productions
+75|Peter Bailey, Roscoe Lee Browne, John Henrik Clarke, Louis Farrakhan|USA|Jefri Aalmuhammed, Jack Baxter|Documentary|English|7.3|1994|N/A
+76|Al Pacino, Sean Penn, Penelope Ann Miller, John Leguizamo|USA|Brian De Palma|Crime, Drama, Thriller|English, Spanish|7.9|1993|MCA Universal Home Video
+78|Jason James Richter, Lori Petty, Jayne Atkinson, August Schellenberg|USA, France|Simon Wincer|Adventure, Drama, Family|English|5.9|1993|Warner Bros. Pictures
+79|George Bush, Jimmy Carter, Jean-Daniel Lafond, Richard Nixon|Canada, Iran|Jean-Daniel Lafond|Documentary|Arabic, English|7.2|2006|N/A
+80|Charlie Sheen, Lloyd Bridges, Valeria Golino, Richard Crenna|USA|Jim Abrahams|Action, Comedy|English|6.6|1993|Twentieth Century Fox Home Entertainment
+82|Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough|USA|Steven Spielberg|Adventure, Sci-Fi, Thriller|English, Spanish|8.1|1993|Universal City Studios
+83|Richard Briers, Kate Beckinsale, Imelda Staunton, Jimmy Yuill|UK, USA|Kenneth Branagh|Comedy, Drama, Romance|English|7.4|1993|Screenvision
+86|Kazuo Ishiguro, James Ivory, Ismail Merchant, John Calley|USA|Meg Staahl|Documentary, Short|English|6.7|2001|N/A
+87|Max Pomeranc, Joe Mantegna, Joan Allen, Ben Kingsley|USA|Steven Zaillian|Biography, Drama|English|7.5|1993|Paramount Home Video
+88|Tom Hanks, Ross Malinger, Rita Wilson, Victor Garber|USA|Nora Ephron|Comedy, Drama, Romance|English|6.8|1993|TriStar Pictures
+89|Harrison Ford, Rutger Hauer, Sean Young, Edward James Olmos|USA, Hong Kong, UK|Ridley Scott|Sci-Fi, Thriller|English, German, Cantonese, Japanese, Hungarian|8.2|1982|Warner Bros. Pictures
+90|Mike Myers, Nancy Travis, Anthony LaPaglia, Amanda Plummer|USA|Thomas Schlamme|Comedy, Romance|English, Russian|6.4|1993|TriStar Pictures
+92|Christian Slater, Patricia Arquette, Dennis Hopper, Val Kilmer|USA, France|Tony Scott|Crime, Drama, Romance|English, Italian|8.0|1993|Warner Bros.
+93|Heather Matarazzo, Victoria Davis, Christina Brucato, Christina Vidal|USA|Todd Solondz|Comedy, Drama|English|7.5|1995|Sony Pictures Classics
+94|Macaulay Culkin, Joe Pesci, Daniel Stern, John Heard|USA|Chris Columbus|Comedy, Family|English|7.5|1990|Twentieth Century Fox
+95|Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman|USA|Ron Clements, John Musker|Animation, Adventure, Comedy|English|8.0|1992|Buena Vista Distribution Compa
+96|Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick|USA, France|James Cameron|Action, Sci-Fi, Thriller|English, Spanish|8.5|1991|TriStar Pictures
+97|Kevin Costner, Mary McDonnell, Graham Greene, Rodney A. Grant|USA, UK|Kevin Costner|Adventure, Drama, Western|English, Sioux, Pawnee|8.0|1990|Orion Pictures
+99|Roy Atwell, Stuart Buchanan, Adriana Caselotti, Hall Johnson Choir|USA|William Cottrell, David Hand, Wilfred Jackson, Larry Morey, Perce Pearce, Ben Sharpsteen|Animation, Family, Fantasy|English|7.6|1937|N/A
+101|Don Francks, Caroline Semple, Richard Romanus, Susan Roman|Canada|Gerald Potterton, John Halas, Julian Harris, Jimmy T. Murakami, Barrie Nelson, Paul Sabella, Jack Stokes, Pino Van Lamsweerde, Harold Whitaker|Animation, Adventure, Fantasy|English|6.7|1981|Columbia Pictures
+103|Bebe Neuwirth, Ernest Borgnine, Charlie Sheen, Hamilton Camp|USA|Larry Leker, Paul Sabella|Animation, Adventure, Family|English|5.4|1996|MGM Home Entertainment
+104|Whoopi Goldberg, Armin Mueller-Stahl, Juliet Landau, Bud Cort|USA|Jonathan R. Betuel|Action, Comedy, Family|English|2.4|1995|New Line Cinema
+105|Steve Martin, Dan Aykroyd, Phil Hartman, Glenne Headly|USA|Jonathan Lynn|Comedy|English|5.7|1996|MCA Universal Home Video
+107|Robin Wright, Morgan Freeman, Stockard Channing, John Lynch|USA|Pen Densham|Drama, Romance|English|6.5|1996|MGM Home Entertainment
+108|Dave Foley, Bruce McCulloch, Kevin McDonald, Mark McKinney|Canada, USA|Kelly Makin|Comedy|English|6.8|1996|Paramount Pictures
+109|Trace Beaulieu, Michael J. Nelson, Jim Mallon, Kevin Murphy|USA|Jim Mallon|Comedy, Sci-Fi|English|7.4|1996|MCA Universal Home Video
+110|Danny Glover, Ray Liotta, Denis Leary, Doug E. Doug|USA|Simon Wincer|Action, Adventure, Comedy|English, Vietnamese|4.9|1995|Buena Vista
+111|Uma Thurman, Janeane Garofalo, Ben Chaplin, Jamie Foxx|USA|Michael Lehmann|Comedy, Romance|English|6.3|1996|Twentieth Century Fox Home Entertainment
+112|Elijah Wood, Paul Hogan, Jonathan Banks, Robert Deacon|USA|Alan Shapiro|Family, Adventure|English|5.2|1996|MCA Universal Home Video
+114|George Demas, Nina Hellman, Annie Parisse, Dallas Roberts|USA|Ian McCulloch|Short, Comedy, Drama|English|9.3|2014|N/A
+116|Eileen Atkins, Kate Beckinsale, Sheila Burrell, Stephen Fry|UK|John Schlesinger|Comedy, Romance|English|7.3|1995|Universal Pictures
+117|Bill Murray, Bruce Willis, Kate Hudson, Zooey Deschanel|USA|Barry Levinson|Comedy, Music, War|English|5.5|2015|Open Road Films
+118|Helen Hunt, Bill Paxton, Cary Elwes, Jami Gertz|USA|Jan de Bont|Action, Adventure, Drama|English|6.3|1996|Warner Bros. Pictures
+119|Maya Lin|USA|Freida Lee Mock|Documentary, Biography|English|7.5|1994|Docurama
+120|Demi Moore, Burt Reynolds, Armand Assante, Ving Rhames|USA|Andrew Bergman|Comedy, Crime, Drama|English|4.3|1996|Sony Pictures Home Entertainment
+121|Will Smith, Bill Pullman, Jeff Goldblum, Mary McDonnell|USA|Roland Emmerich|Action, Adventure, Sci-Fi|English|6.9|1996|20th Century Fox
+125|John Travolta, Kyra Sedgwick, Forest Whitaker, Robert Duvall|USA|Jon Turteltaub|Drama, Fantasy, Romance|English|6.4|1996|Disney
+127|Mehmood Akhtar, Nafisa Ali, Amrita Arora, Hrishitaa Bhatt|Pakistan|Hriday Shetty|Action|Urdu|5.6|2007|N/A
+128|Bunmi Hazzan, Taryn Stein|UK|Bunmi Hazzan|Short, Action, Comedy|English|N/A|2006|N/A
+129|Jennifer Tilly, Gina Gershon, Joe Pantoliano, John P. Ryan|USA|Lana Wachowski, Lilly Wachowski|Crime, Romance, Thriller|English|7.4|1996|Republic Pictures Home Video
+130|Jennifer Jason Leigh, Miranda Richardson, Harry Belafonte, Michael Murphy|France, USA|Robert Altman|Crime, Drama, Music|English|6.3|1996|Fine Line
+131|Audrey Hepburn, George Peppard, Patricia Neal, Buddy Ebsen|USA|Blake Edwards|Comedy, Drama, Romance|English, Portuguese|7.7|1961|Paramount Pictures
+132|Alice Smith, Kris Noel Pearson, Kimberly Crystal, Xavier Garcia|USA|Robert V. Barron|Short, Adventure, Animation|English|5.8|1986|N/A
+133|Thomas Mitchell, Barbara O'Neil, Vivien Leigh, Evelyn Keyes|USA|Victor Fleming, George Cukor, Sam Wood|Drama, History, Romance|English|8.2|1939|Loew's Inc.
+134|Joseph Cotten, Dorothy Comingore, Agnes Moorehead, Ruth Warrick|USA|Orson Welles|Drama, Mystery|English|8.4|1941|RKO Radio Pictures
+135|Keir Dullea, Gary Lockwood, William Sylvester, Daniel Richter|UK, USA|Stanley Kubrick|Adventure, Sci-Fi|English, Russian|8.3|1968|Warner Bros. Pictures
+136|Jean Arthur, James Stewart, Claude Rains, Edward Arnold|USA|Frank Capra|Comedy, Drama|English|8.2|1939|ITVS
+137|Marc Anthony, Tony Shalhoub, Stanley Tucci, Larry Block|USA|Campbell Scott, Stanley Tucci|Drama, Romance|English, Italian|7.3|1996|Samuel Goldwyn Films
+138|Emilio Estevez, Jeffrey Nordling, David Selby, Heidi Kling|USA|Robert Lieberman|Action, Comedy, Drama|English|5.3|1996|Buena Vista Pictures
+140|Don Alder, Ed Bernard, Kevin Chevalia, Anne Christianson|USA|Duwayne Dunham|Adventure, Comedy, Drama|English|6.9|1993|Disney
+141|Kirk Douglas, James Mason, Paul Lukas, Peter Lorre|USA|Richard Fleischer|Adventure, Drama, Family|English|7.2|1954|Disney
+142|Angela Lansbury, David Tomlinson, Roddy McDowall, Sam Jaffe|USA, UK|Robert Stevenson|Animation, Adventure, Comedy|English, German|7.0|1971|Buena Vista Pictures
+144|Bruce Willis, Bonnie Bedelia, Reginald VelJohnson, Paul Gleason|USA|John McTiernan|Action, Thriller|English, German, Italian|8.2|1988|20th Century Fox
+149|Christopher Eccleston, Kate Winslet, Liam Cunningham, Rachel Griffiths|UK|Michael Winterbottom|Drama, Romance|English, Latin|7.0|1996|USA Home Entertainment
+150|Jon Favreau, Vince Vaughn, Ron Livingston, Patrick Van Horn|USA|Doug Liman|Comedy, Drama|English|7.4|1996|Miramax Films
+151|Jessica Fildes, James Fildes|UK|N/A|Short, Comedy, Fantasy|English|5.8|2012|N/A
+152|Woody Allen, Diane Keaton, John Beck, Mary Gregory|USA|Woody Allen|Comedy, Sci-Fi|English, Yiddish|7.3|1973|United Artists
+155|Jennifer Grey, Patrick Swayze, Jerry Orbach, Cynthia Rhodes|USA|Emile Ardolino|Drama, Music, Romance|English|6.9|1987|Vestron Pictures
+156|Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn|USA|Quentin Tarantino|Crime, Drama, Thriller|English|8.3|1992|Miramax Films
+157|Tom Berenger, Keith David, Willem Dafoe, Forest Whitaker|UK, USA|Oliver Stone|Drama, War|English, Vietnamese|8.1|1986|Orion Pictures
+158|Andrew McCarthy, Jonathan Silverman, Catherine Mary Stewart, Terry Kiser|USA|Ted Kotcheff|Adventure, Comedy, Crime|English|6.3|1989|20th Century Fox
+159|Michael Douglas, Sharon Stone, George Dzundza, Jeanne Tripplehorn|France, USA|Paul Verhoeven|Drama, Mystery, Thriller|English|6.9|1992|Artisan Entertainment
+160|Al Pacino, Jack Lemmon, Alec Baldwin, Alan Arkin|USA|James Foley|Crime, Drama, Mystery|English|7.8|1992|Artisan Home Entertainment
+161|Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards|USA|Tony Scott|Action, Drama, Romance|English|6.9|1986|Paramount Pictures
+162|Katharine Hepburn, Henry Fonda, Jane Fonda, Doug McKeon|UK, USA|Mark Rydell|Drama|English|7.7|1981|Twentieth Century Fox Home Entertainment
+164|Rodney Benson, Carlo Campbell, Michael Gaudioso, Mike Gaudioso|USA|Nicole Ayers|Short, Drama|English|N/A|2014|N/A
+167|Goldie Hawn, Eileen Brennan, Armand Assante, Robert Webber|USA|Howard Zieff|Comedy, War|English|6.1|1980|Warner Bros. Pictures
+168|Graham Chapman, John Cleese, Eric Idle, Terry Gilliam|UK|Terry Gilliam, Terry Jones|Adventure, Comedy, Fantasy|English, French, Latin|8.3|1975|Almi Cinema 5
+170|Antonella Attili, Enzo Cannavale, Isa Danieli, Leo Gullotta|Italy, France|Giuseppe Tornatore|Drama|Italian|8.5|1988|Miramax Films
+171|Pascal Benezech, Dominique Pinon, Marie-Laure Dougnac, Jean-Claude Dreyfus|France|Marc Caro, Jean-Pierre Jeunet|Comedy, Crime|French|7.7|1991|Lionsgate
+174|Harrison Ford, Karen Allen, Paul Freeman, Ronald Lacey|USA|Steven Spielberg|Action, Adventure|English, German, Hebrew, Spanish, Arabic, Nepali|8.5|1981|Paramount Pictures
+175|Jonathan Pryce, Robert De Niro, Katherine Helmond, Ian Holm|UK|Terry Gilliam|Drama, Sci-Fi|English|8.0|1985|Universal Pictures
+176|Sigourney Weaver, Carrie Henn, Michael Biehn, Paul Reiser|USA, UK|James Cameron|Action, Adventure, Sci-Fi|English|8.4|1986|20th Century Fox Film Corporat
+178|Martin Balsam, John Fiedler, Lee J. Cobb, E.G. Marshall|USA|Sidney Lumet|Crime, Drama|English|8.9|1957|Criterion Collection
+180|Marlon Brando, Martin Sheen, Robert Duvall, Frederic Forrest|USA|Francis Ford Coppola|Drama, War|English, French, Vietnamese|8.5|1979|United Artists
+181|Scott Allen, Michael Bender, Seth Green, Mark Hamil|USA|N/A|Short|N/A|N/A|2013|N/A
+182|Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco|USA|Martin Scorsese|Biography, Crime, Drama|English, Italian|8.7|1990|Warner Bros.
+183|Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton|UK, USA|Ridley Scott|Horror, Sci-Fi|English, Spanish|8.5|1979|20th Century Fox
+184|Bruce Campbell, Embeth Davidtz, Marcus Gilbert, Ian Abercrombie|USA|Sam Raimi|Comedy, Horror|English|7.6|1992|Universal Pictures
+185|Anthony Perkins, Vera Miles, John Gavin, Janet Leigh|USA|Alfred Hitchcock|Horror, Mystery, Thriller|English|8.5|1960|Paramount Pictures
+188|Matthew Modine, Adam Baldwin, Vincent D'Onofrio, R. Lee Ermey|UK, USA|Stanley Kubrick|Drama, War|English, Vietnamese|8.3|1987|Warner Bros.
+190|Derek Jacobi, Kenneth Branagh, Simon Shepherd, James Larkin|UK|Kenneth Branagh|Action, Biography, Drama|English, French|7.7|1989|MGM Home Entertainment
+191|F. Murray Abraham, Tom Hulce, Elizabeth Berridge, Roy Dotrice|USA, France|Milos Forman|Biography, Drama, History|English, Italian, Latin, German|8.3|1984|Warner Bros. Pictures
+192|Robert De Niro, Cathy Moriarty, Joe Pesci, Frank Vincent|USA|Martin Scorsese|Biography, Drama, Sport|English|8.2|1980|United Artists
+195|N/A|USA|John Goodwin|Animation, Short, Comedy|English|N/A|2013|N/A
+196|Robin Williams, Robert Sean Leonard, Ethan Hawke, Josh Charles|USA|Peter Weir|Comedy, Drama|English, Latin|8.0|1989|Buena Vista Pictures
+200|Bob Marley|USA|Migel Delgado|Music|English|7.5|1999|N/A
+201|Bruce Campbell, Sarah Berry, Dan Hicks, Kassie Wesley DePaiva|USA|Sam Raimi|Comedy, Horror|English, Latin|7.8|1987|Rosebud Communications Releasing
+202|Bill Murray, Andie MacDowell, Chris Elliott, Stephen Tobolowsky|USA|Harold Ramis|Comedy, Fantasy, Romance|English, French, Italian|8.0|1993|Columbia Pictures
+203|Clint Eastwood, Gene Hackman, Morgan Freeman, Richard Harris|USA|Clint Eastwood|Drama, Western|English|8.3|1992|Warner Bros. Pictures
+204|Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover|USA|Robert Zemeckis|Adventure, Comedy, Sci-Fi|English|8.5|1985|Universal Pictures
+205|George C. Scott, Karl Malden, Stephen Young, Michael Strong|USA|Franklin J. Schaffner|Biography, Drama, War|English, German, French, Russian, Arabic, Italian|8.0|1970|Twentieth Century Fox Home Entertainment
+208|Gene Wilder, Peter Boyle, Marty Feldman, Madeline Kahn|USA|Mel Brooks|Comedy|English, German|8.0|1974|20th Century Fox
+209|Rob Reiner, Kimberly Stringer, Chazz Dominguez, Shari Hall|USA|Rob Reiner|Comedy, Music|English|8.0|1984|MGM
+210|Harrison Ford, Sean Connery, Denholm Elliott, Alison Doody|USA|Steven Spielberg|Action, Adventure, Fantasy|English, German, Greek, Arabic|8.3|1989|Paramount Pictures
+214|Bob Geldof, Christine Hargreaves, James Laurenson, Eleanor David|UK|Alan Parker|Animation, Drama, Fantasy|English|8.0|1982|United Artists
+215|Kevin Costner, Amy Madigan, Gaby Hoffmann, Ray Liotta|USA|Phil Alden Robinson|Drama, Family, Fantasy|English|7.5|1989|Universal Pictures
+216|Billy Crystal, Meg Ryan, Carrie Fisher, Bruno Kirby|USA|Rob Reiner|Comedy, Drama, Romance|English|7.6|1989|Columbia Pictures
+217|Gary Oldman, Winona Ryder, Anthony Hopkins, Keanu Reeves|USA|Francis Ford Coppola|Fantasy, Horror|English, Romanian, Greek, Bulgarian, Latin|7.5|1992|Columbia Pictures
+218|Robert De Niro, Nick Nolte, Jessica Lange, Juliette Lewis|USA|Martin Scorsese|Crime, Thriller|English|7.3|1991|MCA/Universal Pictures
+222|Patrick Stewart, Jonathan Frakes, Brent Spiner, LeVar Burton|USA|Jonathan Frakes|Action, Adventure, Drama|English|7.6|1996|Paramount Pictures
+223|Billy Bob Thornton, Dwight Yoakam, J.T. Walsh, John Ritter|USA|Billy Bob Thornton|Drama|English|8.0|1996|Miramax Films
+225|Rod Taylor, J. Pat O'Malley, Betty Lou Gerson, Martha Wentworth|USA|Clyde Geronimi, Hamilton Luske, Wolfgang Reitherman|Animation, Adventure, Comedy|English|7.2|1961|Buena Vista
+226|Bruce Willis, Bonnie Bedelia, William Atherton, Reginald VelJohnson|USA|Renny Harlin|Action, Thriller|English, Spanish|7.1|1990|20th Century Fox
+227|William Shatner, Leonard Nimoy, DeForest Kelley, James Doohan|USA|Nicholas Meyer|Action, Adventure, Sci-Fi|English, Klingon|7.2|1991|Paramount Pictures
+229|William Shatner, Leonard Nimoy, DeForest Kelley, James Doohan|USA|Leonard Nimoy|Action, Adventure, Sci-Fi|English, Klingon, Russian, French|6.6|1984|Paramount Pictures
+230|William Shatner, Leonard Nimoy, DeForest Kelley, James Doohan|USA|Leonard Nimoy|Adventure, Comedy, Sci-Fi|English, Finnish|7.3|1986|Paramount Pictures
+231|Michael Keaton, Danny DeVito, Michelle Pfeiffer, Christopher Walken|USA, UK|Tim Burton|Action|English|7.0|1992|Warner Bros. Pictures
+232|Emilio Estevez, Kiefer Sutherland, Lou Diamond Phillips, Charlie Sheen|USA|Christopher Cain|Action, Crime, Drama|English|6.8|1988|Artisan Entertainment
+233|Steven Seagal, Damian Chapa, Troy Evans, David McKnight|France, USA|Andrew Davis|Action, Thriller|English, Italian|6.4|1992|Warner Home Video
+234|Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary|USA|Steven Spielberg|Adventure, Drama, Thriller|English|8.0|1975|Universal Pictures
+235|Jack Nicholson, Glenn Close, Annette Bening, Pierce Brosnan|USA|Tim Burton|Comedy, Sci-Fi|English, French|6.3|1996|Warner Home Video
+236|Laura Dern, Swoosie Kurtz, Kurtwood Smith, Mary Kay Place|USA|Alexander Payne|Comedy, Drama|English|7.0|1996|Miramax
+238|Nicolas Cage, Holly Hunter, Trey Wilson, John Goodman|USA|Joel Coen, Ethan Coen|Comedy, Crime|English|7.4|1987|20th Century Fox
+239|Jo Marr, Gary Hershberger, Robert Redford, Sidney Poitier|USA|Phil Alden Robinson|Comedy, Crime, Drama|English, Russian, Chinese|7.1|1992|Universal Pictures
+240|Mike Judge, Bruce Willis, Demi Moore, Cloris Leachman|USA|Mike Judge, Mike de Seve, Brian Mulroney, Yvette Kaplan|Animation, Adventure, Comedy|English, Spanish, Hindi|6.8|1996|Paramount Home Video
+244|Ona Fletcher, Julia Ormond, Agga Olsen, Patrick Field|Denmark, Germany, Sweden|Bille August|Action, Drama, Sci-Fi|English, Inuktitut|6.4|1997|Fox Searchlight Pictures
+246|Ethan Suplee, Ben Affleck, Scott Mosier, Jason Lee|USA|Kevin Smith|Comedy, Drama, Romance|English|7.3|1997|Miramax Films
+247|Jon Simanton, Kai Doi, Greg Collins, Steve Cardenas|USA, Japan|Shuki Levy, David Winning|Action, Adventure, Family|English|3.4|1997|Fox
+248|John Cusack, Minnie Driver, Alan Arkin, Dan Aykroyd|USA|George Armitage|Action, Comedy, Crime|English|7.4|1997|Buena Vista Internationa
+249|Mike Myers, Elizabeth Hurley, Michael York, Mimi Rogers|USA, Germany|Jay Roach|Comedy, Crime|English|7.0|1997|New Line Home Entertainment
+254|Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl|USA, UK|Tim Burton|Action, Adventure|English, French|7.6|1989|Warner Bros. Pictures
+255|Julia Roberts, Dermot Mulroney, Cameron Diaz, Rupert Everett|USA|P.J. Hogan|Comedy, Drama, Romance|English, French, Italian|6.3|1997|Sony Pictures Entertainment
+257|Tommy Lee Jones, Will Smith, Linda Fiorentino, Vincent D'Onofrio|USA|Barry Sonnenfeld|Adventure, Comedy, Family|English, Spanish|7.3|1997|Columbia TriStar International
+258|Jena Malone, David Morse, Jodie Foster, Geoffrey Blake|USA|Robert Zemeckis|Drama, Mystery, Sci-Fi|English, Spanish, German, Russian|7.4|1997|Warner Home Video
+259|Brendan Fraser, Leslie Mann, Thomas Haden Church, Richard Roundtree|USA|Sam Weisman|Action, Adventure, Comedy|English, Spanish|5.4|1997|Disney
+260|Laurence Fishburne, Sam Neill, Kathleen Quinlan, Joely Richardson|UK, USA|Paul W.S. Anderson|Horror, Sci-Fi, Thriller|English, Latin|6.7|1997|Paramount Home Video
+261|Michael Jeter, Kevin Zegers, Wendy Makkena, Bill Cobbs|USA, Canada|Charles Martin Smith|Comedy, Drama, Family|English|5.1|1997|Keystone Pictures
+262|Aaron Eckhart, Stacy Edwards, Matt Malloy, Michael Martin|Canada, USA|Neil LaBute|Comedy, Drama|English, American Sign Language|7.3|1997|Sony Pictures Classics
+263|Shaquille O'Neal, Annabeth Gish, Judd Nelson, Richard Roundtree|USA|Kenneth Johnson|Action, Crime, Sci-Fi|English|2.8|1997|Warner Home Video
+264|Mira Sorvino, Jeremy Northam, Alexander Goodwin, Giancarlo Giannini|USA|Guillermo del Toro|Horror, Sci-Fi|English, Italian|5.9|1997|LionsGate Entertainment
+266|Kevin Sorbo, Tia Carrere, Thomas Ian Griffith, Litefoot|USA|John Nicolella|Fantasy, Action, Adventure|English|4.8|1997|Universal Pictures
+268|Ethan Suplee, Ben Affleck, Scott Mosier, Jason Lee|USA|Kevin Smith|Comedy, Drama, Romance|English|7.3|1997|Miramax Films
+270|Ethan Hawke, Uma Thurman, Gore Vidal, Xander Berkeley|USA|Andrew Niccol|Drama, Sci-Fi, Thriller|English, Esperanto|7.8|1997|Columbia Pictures
+271|Casper Van Dien, Dina Meyer, Denise Richards, Jake Busey|USA|Paul Verhoeven|Action, Adventure, Sci-Fi|English|7.2|1997|Sony Pictures Home Entertainment
+273|Al Pacino, Robert De Niro, Val Kilmer, Jon Voight|USA|Michael Mann|Action, Crime, Drama|English, Spanish|8.2|1995|Warner Bros.
+274|Humphrey Bogart, Audrey Hepburn, William Holden, Walter Hampden|USA|Billy Wilder|Comedy, Drama, Romance|English, French|7.7|1954|Paramount Home Video
+275|James Fleet, Tom Wilkinson, Harriet Walter, Kate Winslet|USA, UK|Ang Lee|Drama, Romance|English, French|7.7|1995|Columbia Pictures
+276|Nicolas Cage, Elisabeth Shue, Julian Sands, Richard Lewis|USA|Mike Figgis|Drama, Romance|English, Russian|7.6|1995|United Artists
+277|Robert Downey Jr., Sam Neill, David Thewlis, Polly Walker|USA, UK|Michael Hoffman|Biography, Drama, History|English, Latin|6.7|1995|Miramax
+278|Christian Slater, Mary Stuart Masterson, Pamela Adlon, Josh Brolin|USA|Michael Goldenberg|Romance, Drama|English|6.1|1996|New Line Home Entertainment
+279|Al Freeman Jr., Phylicia Rashad, Leon, Paula Kelly|USA|Tim Reid|Drama, Romance|English|7.2|1995|Republic Pictures Home Video
+283|Gwyneth Paltrow, James Cosmo, Greta Scacchi, Alan Cumming|UK, USA|Douglas McGrath|Comedy, Drama, Romance|English|6.8|1996|A&E Television Networks
+284|Kevin Costner, Rene Russo, Don Johnson, Cheech Marin|USA|Ron Shelton|Comedy, Drama, Romance|English|6.3|1996|New Line Home Entertainment
+285|Bryan Fox, Lindsay Gareth, Casey Graf, Najarra Townsend|USA|Jeff Warden|Short, Drama, Romance|English|5.3|2007|N/A
+287|Meryl Streep, Leonardo DiCaprio, Diane Keaton, Robert De Niro|USA|Jerry Zaks|Drama|English|6.7|1996|Miramax Films
+288|Drew Barrymore, Roger Jackson, Kevin Patrick Walls, David Booth|USA|Wes Craven|Horror, Mystery|English|7.2|1996|Miramax Films
+289|Madonna, Antonio Banderas, Jonathan Pryce, Jimmy Nail|USA|Alan Parker|Biography, Drama, History|English|6.3|1996|Buena Vista
+290|John Cleese, Jamie Lee Curtis, Kevin Kline, Michael Palin|UK, USA|Fred Schepisi, Robert Young|Comedy|English|6.4|1997|MCA Universal Home Video
+291|Clint Eastwood, Gene Hackman, Ed Harris, Laura Linney|USA|Clint Eastwood|Action, Crime, Drama|English, Spanish|6.7|1997|Warner Home Video
+292|Jon Voight, Ving Rhames, Don Cheadle, Bruce McGill|USA|John Singleton|Action, Drama, History|English|7.2|1997|Warner Home Video
+293|Al Pacino, Johnny Depp, Michael Madsen, Bruno Kirby|USA|Mike Newell|Biography, Crime, Drama|English, Italian, Japanese|7.8|1997|TriStar
+294|Jim Carrey, Maura Tierney, Justin Cooper, Cary Elwes|USA|Tom Shadyac|Comedy, Fantasy|English|6.8|1997|Universal Pictures
+295|Kurt Russell, J.T. Walsh, Kathleen Quinlan, M.C. Gainey|USA|Jonathan Mostow|Action, Crime, Drama|English|6.9|1997|Paramount Pictures
+297|Peter Fonda, Patricia Richardson, Christine Dunford, Tom Wood|USA|Victor Nunez|Drama|English|7.1|1997|MGM
+298|John Travolta, Nicolas Cage, Joan Allen, Alessandro Nivola|USA|John Woo|Action, Crime, Sci-Fi|English, Latin|7.3|1997|Paramount Pictures
+299|Laurence Fishburne, Tim Roth, Vanessa Williams, Andy Garcia|USA|Bill Duke|Crime, Drama|English|6.2|1997|905 Corporation
+300|Harrison Ford, Gary Oldman, Glenn Close, Wendy Crewson|USA, Germany|Wolfgang Petersen|Action, Adventure, Drama|English, Russian|6.4|1997|Columbia Pictures
+301|Tommy Lee Jones, Will Smith, Linda Fiorentino, Vincent D'Onofrio|USA|Barry Sonnenfeld|Adventure, Comedy, Family|English, Spanish|7.3|1997|Columbia TriStar International
+302|Kevin Spacey, Russell Crowe, Guy Pearce, James Cromwell|USA|Curtis Hanson|Crime, Drama, Mystery|English|8.3|1997|Warner Bros. Pictures
+303|Peter Fonda, Patricia Richardson, Christine Dunford, Tom Wood|USA|Victor Nunez|Drama|English|7.1|1997|MGM
+304|Jeff Daniels, Anna Paquin, Dana Delany, Terry Kinney|USA|Carroll Ballard|Adventure, Drama, Family|English|6.8|1996|Columbia TriStar
+305|Ted Barton, Yelena Berezhnaya, Sandra Bezic, Sonia Bianchetti|Canada|Richard Martyn|Documentary|English|7.1|2006|N/A
+306|Judi Dench, Billy Connolly, Geoffrey Palmer, Antony Sher|UK, Ireland, USA|John Madden|Biography, Drama, History|English|7.3|1997|Miramax Films
+308|Harvey Keitel, Jason Salkey, Peter O'Toole, Lara Morgan|UK, USA|Charles Sturridge|Drama, Family, Fantasy|English|6.5|1997|Paramount Pictures
+312|John Cusack, Kevin Spacey, Jack Thompson, Irma P. Hall|USA|Clint Eastwood|Crime, Drama, Mystery|English, French|6.6|1997|Warner Home Video
+313|Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates|USA|James Cameron|Drama, Romance|English, Swedish|7.7|1997|Paramount Pictures
+314|Hulk Hogan, Loni Anderson, Jim Varney, Mathew Botuchis|USA|Sean McNamara|Action, Adventure, Comedy|English|2.8|1998|Sony Pictures Home Entertainment
+315|Brad Renfro, Ian McKellen, Joshua Jackson, Mickey Cottrell|USA, France|Bryan Singer|Crime, Drama, Thriller|English, German|6.7|1998|TriStar Pictures
+316|Jack Nicholson, Helen Hunt, Greg Kinnear, Cuba Gooding Jr.|USA|James L. Brooks|Comedy, Drama, Romance|English|7.7|1997|TriStar Pictures
+317|Alison Crosbie, Daniel Day-Lewis, Philip King, Emma Thompson|Ireland, UK, USA|Jim Sheridan|Biography, Drama|English|8.1|1993|Universal Pictures
+318|Liam Neeson, Ben Kingsley, Ralph Fiennes, Caroline Goodall|USA|Steven Spielberg|Biography, Drama, History|English, Hebrew, German, Polish|8.9|1993|Universal Pictures
+319|Edward Norton, Drew Barrymore, Diva Gray, Ami Almendral|USA|Woody Allen|Comedy, Musical, Romance|English|6.8|1996|Sweetland Films
+320|Tony Brooks, Diana Davis, Terry Wood, Dick Clay|USA|Joe Berlinger, Bruce Sinofsky|Documentary, Crime, Drama|English|8.4|1996|Docurama
+321|Hye-ja Kim, Bin Won, Ku Jin, Je-mun Yun|South Korea|Joon-ho Bong|Crime, Drama, Mystery|Korean|7.8|2009|Magnolia Pictures
+322|Wesley Snipes, Diane Lane, Daniel Benzali, Dennis Miller|USA|Dwight H. Little|Action, Crime, Drama|English|6.1|1997|Warner Home Video
+324|Bill Pullman, Patricia Arquette, John Roselius, Louis Eppolito|France, USA|David Lynch|Mystery, Thriller|English|7.6|1997|Universal Pictures
+325|Karina Arroyave, Dato Bakhtadze, Sandra Bullock, Don Cheadle|Germany, USA|Paul Haggis|Crime, Drama, Thriller|English, Persian, Spanish, Mandarin, Korean|7.8|2004|Lions Gate Films
+326|Demi Moore, Viggo Mortensen, Anne Bancroft, Jason Beghe|USA, UK|Ridley Scott|Action, Drama, War|English|5.9|1997|Hollywood Pictures
+327|Sylvester Stallone, Harvey Keitel, Ray Liotta, Robert De Niro|USA|James Mangold|Crime, Drama, Thriller|English|6.9|1997|Miramax
+328|Mel Gibson, Julia Roberts, Patrick Stewart, Cylk Cozart|USA|Richard Donner|Action, Mystery, Thriller|English|6.7|1997|Warner Home Video
+329|Michael Keaton, Andy Garcia, Brian Cox, Marcia Gay Harden|USA|Barbet Schroeder|Action, Crime, Drama|English|6.1|1998|Sony Pictures Home Entertainment
+330|Hecht Amar, Mattia Bianchi|USA|Hecht Amar|Short, Crime|English|N/A|2016|N/A
+331|Kathy Bates, Zach Staenberg, Jodie Foster, Michael Tronick|USA, Japan, UK|Wendy Apple|Documentary|English|7.8|2004|Cinemax
+332|Morgan Freeman, Ashley Judd, Cary Elwes, Alex McArthur|USA|Gary Fleder|Crime, Drama, Mystery|English, Mandarin|6.6|1997|Paramount Home Video
+333|N/A|USA|N/A|Short|English|N/A|2005|N/A
+334|Sean Penn, Billy Bob Thornton, Abraham Benrubi, Richard Rutowski|France, USA|Oliver Stone|Crime, Drama, Thriller|English|6.8|1997|Sony Pictures Home Entertainment
+335|Bill Bellamy, Natalie Desselle Reid, Lark Voorhies, Mari Morrow|USA|Lionel C. Martin|Comedy|English|5.3|1997|PolyGram Video
+336|David Duchovny, Timothy Hutton, Angelina Jolie, Michael Massee|USA|Andy Wilson|Crime, Thriller, Drama|English, Russian|5.6|1997|Touchstone Pictures
+338|Rowan Atkinson, Peter MacNicol, John Mills, Pamela Reed|UK, USA|Mel Smith|Adventure, Comedy, Family|English|6.4|1997|Universal Pictures
+339|John Travolta, Dustin Hoffman, Mia Kirshner, Alan Alda|USA|Costa-Gavras|Crime, Drama, Thriller|English|6.2|1997|Warner Home Video
+341|James Spader, Kyra Sedgwick, Helen Mirren, Anne Bancroft|Australia, USA|Sidney Lumet|Comedy, Drama|English|6.0|1997|Live Home Video
+343|Sigourney Weaver, Winona Ryder, Dominique Pinon, Ron Perlman|USA|Jean-Pierre Jeunet|Action, Horror, Sci-Fi|English|6.3|1997|Twentieth Century Fox Home Entertainment
+345|Judy Davis, Julia Louis-Dreyfus, Stephanie Roth Haberle, Dan Frazer|USA|Woody Allen|Comedy|English, Hebrew|7.4|1997|New Line Home Entertainment
+346|Pam Grier, Samuel L. Jackson, Robert Forster, Bridget Fonda|USA|Quentin Tarantino|Crime, Thriller|English|7.5|1997|Miramax Films
+347|Dustin Hoffman, Robert De Niro, Anne Heche, Denis Leary|USA|Barry Levinson|Comedy, Drama|English, Albanian|7.1|1997|New Line Cinema
+348|Michael Keaton, Andy Garcia, Brian Cox, Marcia Gay Harden|USA|Barbet Schroeder|Action, Crime, Drama|English|6.1|1998|Sony Pictures Home Entertainment
+349|Morgan Freeman, Christian Slater, Randy Quaid, Minnie Driver|USA, UK, Denmark, France, Japan, New Zealand, Germany, Australia|Mikael Salomon|Action, Crime, Drama|English|5.8|1998|Paramount Home Video
+350|Denzel Washington, John Goodman, Donald Sutherland, Embeth Davidtz|USA|Gregory Hoblit|Action, Crime, Drama|English, Syriac, Assyrian Neo-Aramaic|7.0|1998|Warner Home Video
+352|Melanie Brown, Emma Bunton, Melanie C, Geri Horner|UK|Bob Spiers|Comedy, Family, Music|English|3.4|1997|Sony Pictures Entertainment
+353|Treat Williams, Famke Janssen, Anthony Heald, Kevin J. O'Connor|USA, Canada|Stephen Sommers|Action, Adventure, Horror|English, Korean|6.0|1998|Hollywood Pictures
+355|Dustin Hoffman, Sharon Stone, Samuel L. Jackson, Peter Coyote|USA|Barry Levinson|Drama, Horror, Mystery|English|6.0|1998|Warner Home Video
+357|Michael Berryman, Peter Brocco, Dean R. Brooks, Alonzo Brown|USA|Milos Forman|Drama|English|8.7|1975|United Artists
+359|N/A|USA|Consuelo Gonzales, Mike Haley|News|English|N/A|1992|N/A
+360|Kate Bosworth, Carrie Fisher, Val Kilmer, Kim Marriner|Canada, USA|James Cox|Crime, Drama, Mystery|English|6.6|2003|Lions Gate Releasing
+362|Walter Levine, Dan Aykroyd, Tom Davis, Frank Oz|USA|John Landis|Action, Comedy, Crime|English, Russian|4.8|1998|Universal Pictures
+363|Jean-Claude Van Damme, Powers Boothe, Raymond J. Barry, Whittni Wright|USA|Peter Hyams|Action, Crime, Thriller|English|5.7|1995|MCA Universal Home Video
+364|Jim Carrey, Ian McNeice, Simon Callow, Maynard Eziashi|USA|Steve Oedekerk|Adventure, Comedy, Crime|English|6.3|1995|Warner Home Video
+365|Mary Steenburgen, Sean Patrick Flanery, Lance Henriksen, Jeff Goldblum|USA|Victor Salva|Drama, Fantasy, Mystery|English|6.5|1995|Hollywood Pictures
+366|Michelle Pfeiffer, George Dzundza, Courtney B. Vance, Robin Bartlett|USA|John N. Smith|Biography, Drama|English|6.4|1995|Disney
+367|Alicia Silverstone, Stacey Dash, Brittany Murphy, Paul Rudd|USA|Amy Heckerling|Comedy, Romance|English, Spanish|6.8|1995|N/A
+368|William Atherton, Denise Dowse, Dara Tomanovich, Kevin West|USA|Jason Bloom|Comedy|English|4.4|1996|MGM/United Artists
+369|Nathan Meister, Peter Feeney, Danielle Mason, Tammy Davis|New Zealand|Jonathan King|Comedy, Horror, Sci-Fi|English|5.8|2006|IFC Films
+370|Julia Roberts, John Malkovich, George Cole, Michael Gambon|USA, UK|Stephen Frears|Drama, Horror, Romance|English|5.8|1996|Sony Pictures Home Entertainment
+372|Steven Weber, Peter Jacobson, Tom Cayler, David Thornton|USA|Christopher Ashley|Comedy, Drama|English|6.7|1995|Westchester Films
+374|Karan Ashley, Johnny Yong Bosch, Steve Cardenas, Jason David Frank|USA, Japan, Australia|Bryan Spicer|Action, Adventure, Family|English|5.1|1995|20th Century Fox Film Corporation
+375|Elizabeth Berkley, Kyle MacLachlan, Gina Gershon, Glenn Plummer|France, USA|Paul Verhoeven|Drama|English|4.6|1995|MGM Home Entertainment
+376|Sinbad, Phil Hartman, Kim Greist, Kim Murphy|USA|Randall Miller|Comedy|English|5.9|1995|N/A
+378|Maureen O'Hara, John Payne, Edmund Gwenn, Gene Lockhart|USA|George Seaton|Comedy, Crime, Drama|English, Dutch|7.9|1947|20th Century Fox
+380|Patrick Stewart, Jonathan Frakes, Brent Spiner, LeVar Burton|USA|David Carson|Action, Adventure, Mystery|English, Klingon|6.6|1994|Paramount Pictures
+381|Sophie Lee, Roz Hammond, Toni Collette, Belinda Jarrett|Australia, France|P.J. Hogan|Comedy, Drama, Romance|English|7.2|1994|Miramax
+384|Leslie Nielsen, Priscilla Presley, George Kennedy, O.J. Simpson|USA|Peter Segal|Comedy, Crime|English|6.4|1994|Paramount Home Video
+385|Arnold Schwarzenegger, Jamie Lee Curtis, Tom Arnold, Bill Paxton|USA|James Cameron|Action, Comedy, Thriller|English, French, Arabic, German|7.2|1994|20th Century Fox
+386|Anjelica Huston, Raul Julia, Christopher Lloyd, Joan Cusack|USA|Barry Sonnenfeld|Comedy, Fantasy|English|6.6|1993|Paramount Home Video
+388|Eddie Murphy, Jon Tenney, Joey Travolta, Eugene Collier|USA|John Landis|Action, Comedy, Crime|English|5.5|1994|Paramount Home Video
+389|Docs Keepin Time, Alan Cumming, Sean Bean, David Thewlis|USA, UK|Caroline Thompson|Adventure, Drama, Family|English|6.6|1994|N/A
+390|Mark Christopher Lawrence, Larry B. Scott, Rusty Cundieff, Kasi Lemmons|USA, UK|Rusty Cundieff|Comedy, Music|English|7.2|1993|Samuel Goldwyn Company
+391|Arnold Schwarzenegger, F. Murray Abraham, Art Carney, Charles Dance|USA|John McTiernan|Action, Adventure, Comedy|English|6.2|1993|Sony Pictures Home Entertainment
+393|Robin Williams, Sally Field, Pierce Brosnan, Harvey Fierstein|USA|Chris Columbus|Comedy, Drama, Family|English|6.9|1993|20th Century Fox
+394|Brian Benben, Mary Stuart Masterson, Ned Beatty, George Burns|USA|Mel Smith|Comedy, Crime, Drama|English|6.2|1994|Universal Studios Home Video
+395|Cary Elwes, Richard Lewis, Roger Rees, Amy Yasbeck|France, USA|Mel Brooks|Adventure, Comedy, Musical|English|6.7|1993|Twentieth Century Fox Home Entertainment
+396|Kathleen Turner, Sam Waterston, Ricki Lake, Matthew Lillard|USA|John Waters|Comedy, Crime, Horror|English|6.7|1994|HBO Video
+397|Bruce Willis, Sarah Jessica Parker, Dennis Farina, Tom Sizemore|USA|Rowdy Herrington|Action, Crime, Mystery|English|5.8|1993|Sony Pictures Home Entertainment
+398|Bob Hoskins, John Leguizamo, Dennis Hopper, Samantha Mathis|UK, USA|Annabel Jankel, Rocky Morton|Adventure, Comedy, Family|English|4.0|1993|Buena Vista
+402|Patrick Swayze, Demi Moore, Whoopi Goldberg, Tony Goldwyn|USA|Jerry Zucker|Drama, Fantasy, Romance|English|7.0|1990|Paramount Pictures
+403|Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl|USA, UK|Tim Burton|Action, Adventure|English, French|7.6|1989|Warner Bros. Pictures
+404|Mel Blanc, Don Brodie, Walter Catlett, Marion Darlington|USA|Norman Ferguson, T. Hee, Wilfred Jackson, Jack Kinney, Hamilton Luske, Bill Roberts, Ben Sharpsteen|Animation, Comedy, Family|English|7.5|1940|RKO
+406|Robert John Burke, Lucinda Jenney, Bethany Joy Lenz, Time Winters|USA|Tom Holland|Fantasy, Horror|English|5.7|1996|Republic Pictures Home Video
+407|Leslie Nielsen, Nicollette Sheridan, Charles Durning, Marcia Gay Harden|USA|Rick Friedberg|Comedy, Action|English, French, Spanish|5.3|1996|Hollywood Pictures
+409|Robin Williams, Diane Lane, Brian Kerwin, Jennifer Lopez|USA|Francis Ford Coppola|Comedy, Drama, Fantasy|English, Spanish|5.8|1996|Hollywood Pictures
+410|Woody Harrelson, Randy Quaid, Vanessa Angel, Bill Murray|USA|Bobby Farrelly, Peter Farrelly|Comedy, Sport|English|6.9|1996|MGM Home Entertainment
+414|Peter O'Toole, Mark Linn-Baker, Jessica Harper, Joseph Bologna|USA|Richard Benjamin|Comedy|English|7.4|1982|MGM Home Entertainment
+416|Dorothy McGuire, Fess Parker, Jeff York, Chuck Connors|USA|Robert Stevenson|Family, Drama, Adventure|English|7.3|1957|Buena Vista Pictures
+418|Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carter|USA, UK|Kenneth Branagh|Drama, Family, Fantasy|English|7.0|2015|Walt Disney Pictures
+419|Julie Andrews, Dick Van Dyke, David Tomlinson, Glynis Johns|USA|Robert Stevenson|Comedy, Family, Fantasy|English|7.8|1964|Walt Disney Productions
+420|Johnny Depp, Mia Wasikowska, Helena Bonham Carter, Anne Hathaway|USA|Tim Burton|Adventure, Family, Fantasy|English|6.5|2010|Walt Disney Pictures
+422|Val Bettin, Jim Cummings, Gilbert Gottfried, Linda Larkin|USA|Tad Stones|Animation, Adventure, Comedy|English|6.4|1996|Warner Home Video
+423|Dee Wallace, Henry Thomas, Peter Coyote, Robert MacNaughton|USA|Steven Spielberg|Family, Sci-Fi|English|7.9|1982|Universal Pictures
+425|Tim Robbins, Giancarlo Esposito, Alan Rickman, Ray Wise|USA, UK|Tim Robbins|Comedy, Drama|English|7.0|1992|Paramount
+426|George M. O'Connor, Alexander Wardach, Aakash Patel, Sarah Wardach|USA|George M. O'Connor|Short, Action, Comedy|English|N/A|2015|N/A
+427|Gregory Peck, John Megna, Frank Overton, Rosemary Murphy|USA|Robert Mulligan|Crime, Drama|English|8.3|1962|Universal International Pictur
+428|Ruth Gordon, Bud Cort, Vivian Pickles, Cyril Cusack|USA|Hal Ashby|Comedy, Drama, Romance|English|8.0|1971|Paramount Pictures
+430|The Marx Brothers, Groucho Marx, Harpo Marx, Chico Marx|USA|Leo McCarey|Comedy, Musical, War|English|8.0|1933|Paramount Pictures
+431|Christopher Lambert, Roxanne Hart, Clancy Brown, Sean Connery|UK|Russell Mulcahy|Action, Adventure, Fantasy|English|7.2|1986|20th Century Fox
+432|Leopold Stokowski, Deems Taylor|USA|James Algar, Samuel Armstrong, Ford Beebe Jr., Norman Ferguson, Jim Handley, T. Hee, Wilfred Jackson, Hamilton Luske, Bill Roberts, Paul Satterfield, Ben Sharpsteen|Animation, Comedy, Family|English|7.8|1940|Walt Disney Productions
+433|Winona Ryder, Christian Slater, Shannen Doherty, Lisanne Falk|USA|Michael Lehmann|Comedy|English|7.3|1988|New World Video
+434|Walter Pidgeon, Anne Francis, Leslie Nielsen, Warren Stevens|USA|Fred M. Wilcox|Action, Adventure, Sci-Fi|English|7.7|1956|MGM Home Entertainment
+435|Paul Newman, Robert Redford, Katharine Ross, Strother Martin|USA|George Roy Hill|Biography, Crime, Drama|English, Spanish|8.1|1969|20th Century Fox
+438|Tony Roberts, Tess Harper, Robert Joy, Candy Clark|USA|Richard Fleischer|Horror|English|4.0|1983|Dino De Laurentiis Company
+439|Ross Partridge, Julia Nickson, Lala Sloatman, David Naughton|USA|John Murlowski|Horror|English|3.6|1993|Republic Pictures Home Video
+440|James Olson, Burt Young, Rutanya Alda, Jack Magner|Mexico, USA, Italy|Damiano Damiani|Horror|English|5.4|1982|MGM
+443|Virna Lisi, Gastone Moschin, Alberto Lionello, Olga Villi|Italy, France|Pietro Germi|Comedy|Italian|7.7|1966|N/A
+446|Karen Black, Oliver Reed, Burgess Meredith, Eileen Heckart|USA, Italy|Dan Curtis|Horror, Mystery, Thriller|English|6.5|1976|Produzioni Europee Associati
+447|Sissy Spacek, Piper Laurie, Amy Irving, William Katt|USA|Brian De Palma|Horror|English|7.4|1976|United Artists
+449|William Shatner, Leonard Nimoy, DeForest Kelley, James Doohan|USA|Robert Wise|Adventure, Mystery, Sci-Fi|English, Klingon|6.4|1979|Paramount Home Video
+450|William Shatner, Leonard Nimoy, DeForest Kelley, James Doohan|USA|William Shatner|Action, Adventure, Fantasy|English, Klingon|5.4|1989|Paramount Pictures
+451|John Travolta, Olivia Newton-John, Stockard Channing, Jeff Conaway|USA|Randal Kleiser|Musical, Romance|English|7.2|1978|Paramount Pictures
+452|Roy Scheider, Lorraine Gary, Murray Hamilton, Joseph Mascolo|USA|Jeannot Szwarc|Adventure, Drama, Horror|English|5.7|1978|MCA Universal Home Video
+453|Dennis Quaid, Bess Armstrong, Simon MacCorkindale, Louis Gossett Jr.|USA|Joe Alves|Adventure, Horror, Thriller|English|3.6|1983|MCA Universal Home Video
+454|Jennifer Jason Leigh, Ron Eldard, Glenne Headly, Lyle Lovett|USA|Anjelica Huston|Drama|English|7.5|1996|Winstar
+456|Chris Farley, Nicollette Sheridan, Robin Shou, Nathaniel Parker|USA|Dennis Dugan|Action, Comedy|English|5.5|1997|Sony Pictures Home Entertainment
+457|Jason James Richter, August Schellenberg, Annie Corley, Vincent Berry|USA|Sam Pillsbury|Adventure, Drama, Family|English|4.6|1997|Warner Home Video
+458|Anthony Hopkins, Joan Allen, Powers Boothe, Ed Harris|USA|Oliver Stone|Biography, Drama, History|English, Mandarin, Russian|7.1|1995|Buena Vista Pictures
+459|James Earl Jones, Richard Harris, Vusi Kunene, Charles S. Dutton|South Africa, USA|Darrell Roodt|Drama, Thriller|English|6.9|1995|Miramax
+464|Phoebe Brand, Lynn Cohen, George Gaynes, Jerry Mayer|USA|Louis Malle|Comedy, Drama, Romance|English|7.5|1994|Sony Pictures Home Entertainment
+466|Nicolas Cage, Craig Reay, Vance Johnson, Robert Apel|USA|John Dahl|Crime, Drama, Thriller|English|7.0|1993|Sony Pictures Home Entertainment
+468|Sean Astin, Jon Favreau, Ned Beatty, Greta Lind|USA|David Anspaugh|Biography, Drama, Sport|English, Spanish|7.5|1993|Sony Pictures Home Entertainment
+469|Andie MacDowell, Bruce Davison, Jack Lemmon, Zane Cassidy|USA|Robert Altman|Comedy, Drama|English|7.7|1993|Fine Line Features
+470|Kurt Russell, Val Kilmer, Sam Elliott, Bill Paxton|USA|George P. Cosmatos, Kevin Jarre|Action, Biography, Drama|English, Latin|7.8|1993|Buena Vista
+471|Denzel Washington, Meg Ryan, Lou Diamond Phillips, Michael Moriarty|USA|Edward Zwick|Action, Drama, Mystery|English, Arabic|6.6|1996|Columbia Pictures
+472|Dennis Quaid, David Thewlis, Pete Postlethwaite, Dina Meyer|USA|Rob Cohen|Action, Adventure, Fantasy|English|6.4|1996|MCA Universal Home Video
+473|Simon Callow, Richard Dreyfuss, Jane Leeves, Joanna Lumley|UK, USA|Henry Selick|Animation, Adventure, Family|English|6.7|1996|Buena Vista Pictures
+474|Peter Sellers, George C. Scott, Sterling Hayden, Keenan Wynn|USA, UK|Stanley Kubrick|Comedy|English, Russian|8.5|1964|Sony Pictures
+475|Ewan McGregor, Ewen Bremner, Jonny Lee Miller, Kevin McKidd|UK|Danny Boyle|Drama|English|8.2|1996|Miramax Films
+477|Mara Wilson, Danny DeVito, Rhea Perlman, Embeth Davidtz|USA|Danny DeVito|Comedy, Family, Fantasy|English|6.8|1996|Sony Pictures Home Entertainment
+479|James Stewart, Kim Novak, Barbara Bel Geddes, Tom Helmore|USA|Alfred Hitchcock|Mystery, Romance, Thriller|English|8.4|1958|Paramount Pictures
+480|Cary Grant, Eva Marie Saint, James Mason, Jessie Royce Landis|USA|Alfred Hitchcock|Action, Adventure, Mystery|English|8.4|1959|Turner Entertainment
+481|Emmanuel Aponte, Ray Bendana, Scarlett Bermingham, Brian Bersuder|USA|Steve Jambeck|Short, Comedy|English|N/A|2009|N/A
+482|Marilyn Monroe, Tony Curtis, Jack Lemmon, George Raft|USA|Billy Wilder|Comedy, Romance|English|8.3|1959|United Artists
+483|Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains|USA|Michael Curtiz|Drama, Romance, War|English, French, German, Italian|8.5|1942|Warner Bros. Pictures
+485|Audrey Hepburn, Rex Harrison, Stanley Holloway, Wilfrid Hyde-White|USA|George Cukor|Drama, Family, Musical|English|7.9|1964|Warner Bros. Pictures
+486|Humphrey Bogart, Audrey Hepburn, William Holden, Walter Hampden|USA|Billy Wilder|Comedy, Drama, Romance|English, French|7.7|1954|Paramount Home Video
+487|Gregory Peck, Audrey Hepburn, Eddie Albert, Hartley Power|USA|William Wyler|Comedy, Romance|English, Italian, German|8.1|1953|Paramount Pictures
+488|Victoria Ullmann|USA, Germany|Ulli Lommel|Drama|English|5.2|2012|N/A
+489|Cary Grant, Ingrid Bergman, Claude Rains, Louis Calhern|USA|Alfred Hitchcock|Drama, Film-Noir, Romance|English, French, Portuguese|8.0|1946|RKO Radio Pictures
+490|Cary Grant, Grace Kelly, Jessie Royce Landis, John Williams|USA|Alfred Hitchcock|Crime, Mystery, Romance|English, French|7.5|1955|Paramount Pictures
+492|Julie Harris, James Dean, Raymond Massey, Burl Ives|USA|Elia Kazan|Drama|English|8.0|1955|Warner Bros. Pictures
+494|Cary Grant, Rosalind Russell, Ralph Bellamy, Gene Lockhart|USA|Howard Hawks|Comedy, Drama, Romance|English, French|8.0|1940|Columbia Pictures
+496|James Stewart, Donna Reed, Lionel Barrymore, Thomas Mitchell|USA|Frank Capra|Drama, Family, Fantasy|English|8.6|1946|Liberty Films
+497|Katharine Hepburn, Cary Grant, Charles Ruggles, Walter Catlett|USA|Howard Hawks|Comedy, Family, Romance|English|8.0|1938|Turner Home Entertainment
+499|Elizabeth Taylor, Paul Newman, Burl Ives, Jack Carson|USA|Richard Brooks|Drama, Romance|English|8.1|1958|MGM Home Entertainment
+500|Jeff Daniels, Anna Paquin, Dana Delany, Terry Kinney|USA|Carroll Ballard|Adventure, Drama, Family|English|6.8|1996|Columbia TriStar
+501|James Baskett, Herman Bing, Billy Bletcher, Edward Brophy|USA|Samuel Armstrong, Norman Ferguson, Wilfred Jackson, Jack Kinney, Bill Roberts, Ben Sharpsteen, John Elliotte|Animation, Drama, Family|English|7.3|1941|Walt Disney Productions
+503|N/A|USA|Kevin Antoine|Documentary, Short, Biography|English|N/A|2007|N/A
+504|Warren Beatty, Faye Dunaway, Michael J. Pollard, Gene Hackman|USA|Arthur Penn|Action, Biography, Crime|English|7.9|1967|Warner Brothers/Seven Arts
+505|Ray Milland, Grace Kelly, Robert Cummings, John Williams|USA|Alfred Hitchcock|Crime, Film-Noir, Thriller|English|8.2|1954|Warner Bros. Pictures
+506|James Dean, Natalie Wood, Sal Mineo, Jim Backus|USA|Nicholas Ray|Drama|English|7.8|1955|Warner Bros. Pictures
+509|Daniel Day-Lewis, Brenda Fricker, Alison Whelan, Kirsten Sheridan|Ireland, UK|Jim Sheridan|Biography, Drama|English|7.9|1989|HBO Video
+510|Roger Birnbaum, Todd Black, Antoine Fuqua, Chris Pratt|USA|N/A|Documentary, Short|English|N/A|2016|N/A
+511|Peter O'Toole, Alec Guinness, Anthony Quinn, Jack Hawkins|UK, USA|David Lean|Adventure, Biography, Drama|English, Arabic, Turkish|8.3|1962|Columbia Pictures
+512|Bruno Ganz, Solveig Dommartin, Otto Sander, Curt Bois|West Germany, France|Wim Wenders|Drama, Fantasy, Romance|German, English, French, Turkish, Hebrew, Spanish, Japanese|8.1|1987|Criterion Collection
+514|Woody Allen, Diane Keaton, Tony Roberts, Carol Kane|USA|Woody Allen|Comedy, Romance|English, German|8.1|1977|United Artists
+516|Burt Lancaster, Peter Riegert, Fulton Mackay, Denis Lawson|UK|Bill Forsyth|Comedy, Drama|English, Russian, Japanese|7.5|1983|Warner Home Video
+517|Woody Allen, Diane Keaton, Michael Murphy, Mariel Hemingway|USA|Woody Allen|Comedy, Drama, Romance|English|8.0|1979|United Artists
+518|Gabriel Byrne, Marcia Gay Harden, John Turturro, Jon Polito|USA|Joel Coen, Ethan Coen|Crime, Drama, Thriller|English, Italian, Irish, Yiddish|7.8|1990|20th Century Fox
+520|Derek Jacobi, Connor Williams, Richard Campbell, Mark Wainwright|UK|Steven Clarke|Documentary, Drama, War|English|7.4|2001|N/A
+522|Tom Waits, John Lurie, Roberto Benigni, Nicoletta Braschi|USA, West Germany|Jim Jarmusch|Comedy, Crime, Drama|English, Italian|7.8|1986|Twentieth Century Fox Home Entertainment
+523|Paul Newman, George Kennedy, J.D. Cannon, Lou Antonio|USA|Stuart Rosenberg|Crime, Drama|English|8.2|1967|Warner Bros.
+524|Jeffrey Vance|USA|Abbey Lustgarten|Short|English|6.8|2011|N/A
+526|Charlton Heston, Jack Hawkins, Haya Harareet, Stephen Boyd|USA|William Wyler|Adventure, Drama, History|English|8.1|1959|MGM
+527|Ben Kingsley, Candice Bergen, Edward Fox, John Gielgud|UK, India, USA|Richard Attenborough|Biography, Drama, History|English|8.1|1982|Columbia Pictures
+531|Geoffrey Rush, Justin Braine, Sonia Todd, Chris Haywood|Australia|Scott Hicks|Biography, Drama, Music|English, Yiddish|7.7|1996|New Line Home Entertainment
+532|Indira Varma, Sarita Choudhury, Ramon Tikaram, Naveen Andrews|USA, India, UK, Japan, Germany|Mira Nair|Crime, Drama, History|English, Italian|6.0|1996|Trimark
+534|Bill Paxton, Mark Wahlberg, Julianna Margulies, James Gammon|USA|Jack N. Green|Crime, Drama, Romance|English|6.2|1997|Evergreen
+537|River Phoenix, Keanu Reeves, James Russo, William Richert|USA|Gus Van Sant|Drama|English, Italian, German|7.1|1991|Fine Line Features
+538|Meg Ryan, John Cusack, Kelsey Grammer, Christopher Lloyd|USA|Don Bluth, Gary Goldman|Animation, Adventure, Drama|English, Russian, French|7.1|1997|20th Century Fox
+540|Wesley Snipes, Woody Harrelson, Jennifer Lopez, Robert Blake|USA|Joseph Ruben|Action, Comedy, Crime|English|5.6|1995|Sony Pictures Home Entertainment
+541|Christopher Lambert, Robin Shou, Linden Ashby, Cary-Hiroyuki Tagawa|USA|Paul W.S. Anderson|Action, Adventure, Fantasy|English|5.8|1995|New Line Home Entertainment
+542|Irene Bedard, Judy Kuhn, Mel Gibson, David Ogden Stiers|USA|Mike Gabriel, Eric Goldberg|Animation, Adventure, Drama|English, Algonquin|6.7|1995|Buena Vista Distribution Compa
+544|Andy Garcia, Christopher Lloyd, William Forsythe, Bill Nunn|USA|Gary Fleder|Crime, Drama|English|6.8|1995|Miramax
+545|Eddie Murphy, Angela Bassett, Allen Payne, Kadeem Hardison|USA|Wes Craven|Comedy, Fantasy, Horror|English|4.5|1995|Paramount
+546|John Travolta, Christian Slater, Samantha Mathis, Delroy Lindo|USA|John Woo|Action, Crime, Thriller|English|6.0|1996|Twentieth Century Fox Home Entertainment
+549|Liam Neeson, Jessica Lange, John Hurt, Tim Roth|USA, UK|Michael Caton-Jones|Adventure, Biography, History|English|6.9|1995|MGM Home Entertainment
+550|Bruce Willis, Jeremy Irons, Samuel L. Jackson, Graham Greene|USA|John McTiernan|Action, Adventure, Thriller|English, German, Romanian|7.6|1995|Twentieth Century Fox Home Entertainment
+551|Scott Bakula, Kevin J. O'Connor, Joseph Latimore, Sheila Tousey|USA|Clive Barker|Horror, Mystery, Thriller|English|6.0|1995|MGM Home Entertainment
+552|Ben Kingsley, Michael Madsen, Alfred Molina, Forest Whitaker|USA|Roger Donaldson|Action, Horror, Sci-Fi|English|5.8|1995|MGM Home Entertainment
+554|Kevin Costner, Chaim Jeraffi, Rick Aviles, R.D. Call|USA|Kevin Reynolds|Action, Adventure, Sci-Fi|English|6.1|1995|MCA Universal Home Video
+555|John Travolta, Harry Belafonte, Kelly Lynch, Margaret Avery|France, USA|Desmond Nakano|Drama, Thriller|English|5.2|1995|HBO Video
+556|Charlie Creed-Miles, Will Poulter, Sammy Williams, Iwan Rheon|UK|Dexter Fletcher|Drama|English|7.2|2011|Cinedigm
+558|Melanie Lynskey, Kate Winslet, Sarah Peirse, Diana Kent|New Zealand, Germany|Peter Jackson|Biography, Crime, Drama|English, French|7.4|1994|Miramax Films
+559|Brad Pitt, Christian Slater, Virginia McCollam, John McConnell|USA|Neil Jordan|Drama, Fantasy, Horror|English, French|7.6|1994|Warner Home Video
+561|Robert De Niro, Kenneth Branagh, Tom Hulce, Helena Bonham Carter|USA, Japan, UK|Kenneth Branagh|Drama, Horror, Romance|English|6.4|1994|Sony Pictures Home Entertainment
+564|Clarence Williams III, Joe Torry, De'aundre Bonds, Samuel Monroe Jr.|USA|Rusty Cundieff|Crime, Horror, Thriller|English|6.2|1995|HBO Video
+566|Harrison Ford, Willem Dafoe, Anne Archer, Joaquim de Almeida|USA|Phillip Noyce|Action, Crime, Drama|English|6.9|1994|Paramount Home Video
+568|Keanu Reeves, Dennis Hopper, Sandra Bullock, Joe Morton|USA|Jan de Bont|Action, Adventure, Crime|English|7.2|1994|20th Century Fox
+569|Jack Nicholson, Michelle Pfeiffer, James Spader, Kate Nelligan|USA|Mike Nichols|Drama, Horror, Romance|English, Spanish|6.2|1994|Columbia Pictures
+570|Kevin Costner, Dennis Quaid, Gene Hackman, David Andrews|USA|Lawrence Kasdan|Adventure, Biography, Crime|English, Spanish|6.6|1994|Warner Home Video
+571|Richard Dreyfuss, Emilio Estevez, Rosie O'Donnell, Dennis Farina|USA|John Badham|Action, Comedy, Crime|English|5.5|1993|Buena Vista
+572|Jeff Bridges, Tommy Lee Jones, Suzy Amis, Lloyd Bridges|USA|Stephen Hopkins|Action, Crime, Drama|English, Irish|6.2|1994|MGM Home Entertainment
+573|Terry Kinney, Meg Tilly, Gabrielle Anwar, Reilly Murphy|USA|Abel Ferrara|Horror, Sci-Fi|English|5.9|1993|Warner Home Video
+574|Julian Sands, Sherilyn Fenn, Bill Paxton, Kurtwood Smith|USA|Jennifer Lynch|Drama, Mystery, Romance|English|4.6|1993|Orion Classics
+575|Billy Crystal, Daniel Stern, Jon Lovitz, Jack Palance|USA|Paul Weiland|Comedy, Western|English|5.4|1994|Sony Pictures Home Entertainment
+576|Sylvester Stallone, John Lithgow, Michael Rooker, Janine Turner|USA, Italy, France|Renny Harlin|Action, Adventure, Thriller|English|6.4|1993|Sony Pictures Home Entertainment
+577|Robert Knott, Jonathan Penner, Whip Hubley, Dan Aykroyd|USA|Steve Barron|Comedy, Sci-Fi|English|5.2|1993|Paramount Vantage
+578|Sylvester Stallone, Wesley Snipes, Sandra Bullock, Nigel Hawthorne|USA|Marco Brambilla|Action, Crime, Sci-Fi|English|6.6|1993|Warner Home Video
+579|Armand Assante, Sherilyn Fenn, Kate Nelligan, Sean Young|USA|Carl Reiner|Comedy, Crime, Thriller|English, Yiddish|5.7|1993|MGM Home Entertainment
+581|Brad Pitt, Kathy Larson, David Milford, David Duchovny|USA|Dominic Sena|Crime, Drama, Thriller|English|6.7|1993|PolyGram Video
+582|Brittany Morrill, Andrew Parker Peterson|USA|Samuel Curtis|Short, Drama, Music|English|N/A|2013|N/A
+583|Gary Oldman, Wallace Wood, Juliette Lewis, David Proval|UK, USA|Peter Medak|Action, Crime, Drama|English|6.6|1993|MGM Home Entertainment
+585|Pauly Shore, Carla Gugino, Lane Smith, Cindy Pickett|USA|Steve Rash|Comedy, Drama, Romance|English|5.7|1993|Buena Vista
+586|Charlie Sheen, Nastassja Kinski, James Gandolfini, Christopher McDonald|USA, Canada|Deran Sarafian|Action, Comedy, Mystery|English|5.4|1994|Buena Vista
+588|Robby Benson, Jesse Corti, Rex Everhart, Angela Lansbury|USA|Gary Trousdale, Kirk Wise|Animation, Family, Fantasy|English, French|8.0|1991|Buena Vista
+590|Bruce Ramsay, Valentina Vargas, Doug Bradley, Charlotte Chatton|USA|Kevin Yagher|Horror, Sci-Fi|English|5.1|1996|Miramax Films
+591|Richard Gere, Laura Linney, John Mahoney, Alfre Woodard|USA|Gregory Hoblit|Crime, Drama, Mystery|English, Spanish|7.7|1996|Paramount Pictures
+592|Clint Eastwood, Isaiah Washington, LisaGay Hamilton, James Woods|USA|Clint Eastwood|Crime, Drama, Mystery|English|6.6|1999|Warner Bros. Pictures
+593|Dominique Horwitz, Thomas Kretschmann, Jochen Nickel, Sebastian Rudolph|Germany|Joseph Vilsmaier|Drama, War|German, Russian|7.5|1993|Fox Lorber
+594|Pruitt Taylor Vince, Shelley Winters, Liv Tyler, Debbie Harry|USA|James Mangold|Drama, Romance|English|7.0|1995|Sony Pictures Home Entertainment
+595|Connie Chan, Kai Yu, Wen Lai, Fung Lee|Hong Kong|Zhigang Feng|N/A|Cantonese|N/A|1968|N/A
+597|Arnold Schwarzenegger, James Caan, Vanessa Williams, James Coburn|USA|Chuck Russell|Action, Drama, Mystery|English|6.1|1996|Warner Home Video
+603|James Stewart, Grace Kelly, Wendell Corey, Thelma Ritter|USA|Alfred Hitchcock|Mystery, Thriller|English|8.5|1954|Paramount Pictures
+604|Clark Gable, Claudette Colbert, Walter Connolly, Roscoe Karns|USA|Frank Capra|Comedy, Romance|English|8.2|1934|Sony Pictures Home Entertainment
+605|Judy Garland, Margaret O'Brien, Mary Astor, Lucille Bremer|USA|Vincente Minnelli|Comedy, Drama, Family|English|7.7|1944|MGM
+606|Bette Davis, Anne Baxter, George Sanders, Celeste Holm|USA|Joseph L. Mankiewicz|Drama|English, French|8.3|1950|20th Century Fox
+607|Laurence Olivier, Joan Fontaine, George Sanders, Judith Anderson|USA|Alfred Hitchcock|Drama, Mystery, Romance|English, French|8.2|1940|United Artists
+608|Ingrid Bergman, Gregory Peck, Michael Chekhov, Leo G. Carroll|USA|Alfred Hitchcock|Film-Noir, Mystery, Romance|English|7.6|1945|Twentieth Century Fox Home Entertainment
+609|Steve Martin, Diane Keaton, Kimberly Williams-Paisley, Kieran Culkin|USA|Charles Shyer|Comedy, Family, Romance|English|6.5|1991|Touchstone Pictures
+610|Leslie Caron, Maurice Chevalier, Louis Jourdan, Hermione Gingold|USA|Vincente Minnelli|Comedy, Musical, Romance|English, French|6.9|1958|MGM Home Entertainment
+611|Gene Tierney, Dana Andrews, Clifton Webb, Vincent Price|USA|Otto Preminger|Crime, Drama, Film-Noir|English|8.1|1944|20th Century Fox
+612|Ronald Colman, Jane Wyatt, Edward Everett Horton, John Howard|USA|Frank Capra|Adventure, Drama, Fantasy|English, Mandarin|7.8|1937|Sony Pictures Home Entertainment
+613|William Powell, Carole Lombard, Alice Brady, Gail Patrick|USA|Gregory La Cava|Comedy, Drama, Romance|English, Russian|8.1|1936|Universal Pictures
+614|Elizabeth Taylor, Rock Hudson, James Dean, Carroll Baker|USA|George Stevens|Drama, Western|English, Spanish|7.7|1956|Warner Bros. Pictures
+616|Duane Jones, Judith O'Dea, Karl Hardman, Marilyn Eastman|USA|George A. Romero|Horror|English|7.9|1968|Continental Distributing Inc.
+618|William Holden, Kim Novak, Betty Field, Susan Strasberg|USA|Joshua Logan|Drama, Romance|English|7.2|1955|Sony Pictures Home Entertainment
+619|Hugh Grant, Gene Hackman, Sarah Jessica Parker, David Morse|USA|Michael Apted|Crime, Drama, Mystery|English|6.1|1996|Sony Pictures Home Entertainment
+620|Chia-Hui Liu, Eagle Han, Yuet Sang Chin, Jeong-il Choi|Hong Kong|Yang Ming Tsai|Action|Cantonese|5.7|1982|N/A
+621|Fess Parker, Buddy Ebsen, Basil Ruysdael, Hans Conried|USA|Norman Foster|Family, Western, Adventure|English, Spanish|7.1|1955|Buena Vista
+622|John Mills, Dorothy McGuire, James MacArthur, Janet Munro|USA|Ken Annakin|Adventure, Family|English|7.2|1960|Buena Vista Pictures
+623|Danny Glover, Brenda Fricker, Tony Danza, Christopher Lloyd|USA|William Dear|Comedy, Family, Fantasy|English|6.1|1994|Buena Vista Pictures
+626|Burl Ives, Beulah Bondi, Bobby Driscoll, Luana Patten|USA|Harold D. Schuster, Hamilton Luske|Animation, Drama, Family|English|7.2|1948|Walt Disney Productions
+627|Kevin Costner, Morgan Freeman, Mary Elizabeth Mastrantonio, Christian Slater|USA|Kevin Reynolds|Action, Adventure, Drama|English|6.9|1991|Warner Bros. Pictures
+628|Kevin Bacon, Billy Crudup, Robert De Niro, Ron Eldard|USA|Barry Levinson|Crime, Drama, Thriller|English|7.6|1996|Warner Bros. Pictures
+629|Julie Andrews, Tony Roberts, Michael Nouri, Rachel York|Japan, USA|Matthew Diamond, Blake Edwards, Goro Kobayashi|Comedy, Musical|English|7.8|1995|N/A
+632|Meryl Streep, Kevin Kline, Peter MacNicol, Rita Karin|UK, USA|Alan J. Pakula|Drama, Romance|English, Polish, German, French, Russian|7.7|1982|Twentieth Century Fox Home Entertainment
+635|N/A|USA|Allan Siegel|Documentary|English|N/A|1995|N/A
+636|Kurt Russell, Lee Van Cleef, Ernest Borgnine, Donald Pleasence|UK, USA|John Carpenter|Action, Sci-Fi|English|7.2|1981|MGM Home Entertainment
+640|Richard Bohringer, Michael Gambon, Helen Mirren, Alan Howard|Netherlands, UK, France|Peter Greenaway|Crime, Drama|English|7.6|1989|Trimark
+641|Kirk Douglas, Ralph Meeker, Adolphe Menjou, George Macready|USA|Stanley Kubrick|Drama, War|English, German, Latin|8.5|1957|United Artists
+643|Anthony Hopkins, Isabella Rossellini, Campbell Scott, Ronald Nitschke|Germany, UK|John Schlesinger|Drama|English|5.7|1993|N/A
+644|Mike Anama, Corty Anderson, T.J. Armstrong, John Carson|USA|N/A|Documentary, Short|English|N/A|2008|N/A
+646|Claudia Cardinale, Henry Fonda, Jason Robards, Charles Bronson|Italy, USA|Sergio Leone|Western|Italian, Spanish|8.6|1968|Paramount Pictures
+648|Andrew V. McLaglen, Maureen O'Hara, Patrick Wayne|USA|Michael Gillis|Documentary, Short|English|7.0|2002|N/A
+649|Robert De Niro, James Woods, Elizabeth McGovern, Joe Pesci|Italy, USA|Sergio Leone|Crime, Drama|English, Italian, French|8.4|1984|Warner Home Video
+651|Matthew Broderick, Denzel Washington, Cary Elwes, Morgan Freeman|USA|Edward Zwick|Biography, Drama, History|English|7.9|1989|TriStar
+653|Charlton Heston, Janet Leigh, Orson Welles, Joseph Calleia|USA|Orson Welles|Crime, Drama, Film-Noir|English, Spanish|8.1|1958|October Films
+654|Jack Nicholson, Faye Dunaway, John Huston, Perry Lopez|USA|Roman Polanski|Drama, Mystery, Thriller|English, Cantonese, Spanish|8.2|1974|Paramount Pictures
+655|Wil Wheaton, River Phoenix, Corey Feldman, Jerry O'Connell|USA|Rob Reiner|Adventure, Drama|English|8.1|1986|MCA Universal Home Video
+656|Peter Lorre, Ellen Widmann, Inge Landgut, Otto Wernicke|Germany|Fritz Lang|Crime, Drama, Mystery|German|8.4|1931|Foremco
+658|Christian Slater, Annie Ross, Andy Romano, Scott Paulin|Canada, USA|Allan Moyle|Comedy, Drama, Music|English|7.1|1990|Sony Pictures Home Entertainment
+659|Cary Grant, Priscilla Lane, Raymond Massey, Jack Carson|USA|Frank Capra|Comedy, Crime, Thriller|English, German|8.0|1944|Warner Bros. Pictures
+660|Kathy Bates, Mary Stuart Masterson, Mary-Louise Parker, Jessica Tandy|USA|Jon Avnet|Drama|English|7.7|1991|Universal Pictures
+661|Gary Cooper, Thomas Mitchell, Lloyd Bridges, Katy Jurado|USA|Fred Zinnemann|Drama, Thriller, Western|English, Spanish|8.0|1952|United Artists
+662|Christopher Reeve, Jane Seymour, Christopher Plummer, Teresa Wright|USA|Jeannot Szwarc|Drama, Fantasy, Romance|English|7.3|1980|MCA Universal Home Video
+663|Peter Sellers, Shirley MacLaine, Melvyn Douglas, Jack Warden|USA|Hal Ashby|Comedy, Drama|English, Russian, Italian|8.0|1979|Twentieth Century Fox Home Entertainment
+664|Harry Dean Stanton, Sam Berry, Bernhard Wicki, Dean Stockwell|UK, France, West Germany|Wim Wenders|Drama|English|8.1|1984|20th Century Fox
+665|Sigourney Weaver, Charles S. Dutton, Charles Dance, Paul McGann|USA|David Fincher|Action, Horror, Sci-Fi|English|6.4|1992|Twentieth Century Fox Home Entertainment
+666|Joe Dallesandro, Udo Kier, Vittorio De Sica, Maxime McKendry|Italy, France|Paul Morrissey|Comedy, Horror|English|6.2|1974|Bryanston Pictures
+667|Marsha Mason, Anthony Hopkins, John Beck, Susan Swift|USA|Robert Wise|Drama, Fantasy, Horror|English|5.9|1977|United Artists
+668|David Huffman, Marianna Hill, Burt Young, Otis Young|USA|Jeffrey Bloom|Comedy, Horror, Sci-Fi|English|4.3|1980|Jensen Farley Pictures
+669|Jeff Fahey, Lindsay Duncan, Kim Delaney, Zakes Mokae|USA|Eric Red|Horror, Thriller|English|5.5|1991|Paramount Home Video
+670|Terry Kinney, Meg Tilly, Gabrielle Anwar, Reilly Murphy|USA|Abel Ferrara|Horror, Sci-Fi|English|5.9|1993|Warner Home Video
+671|Boris Karloff, Colin Clive, Valerie Hobson, Ernest Thesiger|USA|James Whale|Comedy, Drama, Horror|English|7.9|1935|NCM
+672|Virginia Madsen, Tony Todd, Xander Berkeley, Kasi Lemmons|USA, UK|Bernard Rose|Fantasy, Horror, Thriller|English|6.6|1992|Sony Pictures Home Entertainment
+673|Robert De Niro, Nick Nolte, Jessica Lange, Juliette Lewis|USA|Martin Scorsese|Crime, Thriller|English|7.3|1991|MCA/Universal Pictures
+674|Nastassja Kinski, Malcolm McDowell, John Heard, Annette O'Toole|USA|Paul Schrader|Fantasy, Horror, Thriller|English|6.1|1982|Universal Pictures
+677|Buddy Ebsen, Ron Howard, Julie Carmen, Rossie Harris|USA|Donald Wrye|Drama|English|7.3|1981|N/A
+678|Tommy Lee Jones, Anne Heche, Gaby Hoffmann, Don Cheadle|USA|Mick Jackson|Action, Drama, Sci-Fi|English, Spanish, German|5.4|1997|Twentieth Century Fox Home Entertainment
+679|Arnold Schwarzenegger, James Earl Jones, Max von Sydow, Sandahl Bergman|USA|John Milius|Adventure, Fantasy|English|6.9|1982|Universal Pictures
+680|Kevin Sorbo, Tia Carrere, Thomas Ian Griffith, Litefoot|USA|John Nicolella|Fantasy, Action, Adventure|English|4.8|1997|Universal Pictures
+681|Tammy Lauren, Andrew Divoff, Robert Englund, Chris Lemmon|USA|Robert Kurtzman|Fantasy, Horror|English|5.7|1997|Live Home Video
+682|Jennifer Love Hewitt, Sarah Michelle Gellar, Ryan Phillippe, Freddie Prinze Jr.|USA|Jim Gillespie|Horror, Mystery, Thriller|English|5.6|1997|Sony Pictures Home Entertainment
+684|Clint Eastwood, John Malkovich, Rene Russo, Dylan McDermott|USA|Wolfgang Petersen|Action, Drama, Thriller|English|7.2|1993|Sony Pictures Home Entertainment
+685|Kurt Russell, Steven Seagal, Halle Berry, John Leguizamo|USA|Stuart Baird|Action, Adventure, Thriller|English|6.4|1996|Warner Home Video
+687|Tom Arnold, Dean Stockwell, Debra Messing, David Alan Grier|USA|Bryan Spicer|Action, Comedy|English|4.4|1997|Universal Pictures
+689|Ali Mneimneh, Layal Ghanem, Jad Badran, Fidel Badran|Lebanon|Oualid Mouaness|Short, Drama|Arabic|N/A|2015|N/A
+690|Brad Pitt, David Thewlis, BD Wong, Mako|USA, UK|Jean-Jacques Annaud|Adventure, Biography, Drama|English, German, Mandarin, Tibetan, Hindi|7.0|1997|Sony Pictures Home Entertainment
+691|Rufus Sewell, William Hurt, Kiefer Sutherland, Jennifer Connelly|Australia, USA|Alex Proyas|Mystery, Sci-Fi, Thriller|English|7.7|1998|York
+693|Robert De Niro, Sharon Stone, Joe Pesci, James Woods|France, USA|Martin Scorsese|Biography, Crime, Drama|English|8.2|1995|Universal Pictures
+694|Sally Hawkins, Alice Krige, Anthony Head, Julia Davis|UK, USA|Adrian Shergold|Drama, Romance|English|7.6|2007|Warner Home Video
+695|Josh Hamilton, Samuel Gould, Catherine Kellner, Jonathan Baumbach|USA|Noah Baumbach|Comedy, Drama, Romance|English|7.0|1995|Trimark
+696|Al Pacino, John Cusack, Bridget Fonda, Danny Aiello|USA|Harold Becker|Drama|English|6.2|1996|Sony Pictures Home Entertainment
+699|Winona Ryder, Gabriel Byrne, Trini Alvarado, Samantha Mathis|USA, Canada|Gillian Armstrong|Drama, Family, Romance|English, German, French|7.3|1994|N/A
+700|Sarah Jessica Parker, Gil Bellows, Antonio Banderas, Mia Farrow|USA|David Frankel|Comedy|English|5.4|1995|Hollywood Pictures
+702|Taylor Nichols, Chris Eigeman, Tushka Bergen, Mira Sorvino|USA|Whit Stillman|Comedy, Drama, Romance|English, Spanish|7.0|1994|Turner Home Entertainment
+703|Mia Farrow, Joan Plowright, Natasha Richardson, Adrian Dunbar|UK, Ireland|John Irvin|Comedy, Crime, Mystery|Irish, English|6.8|1994|Sony Pictures Home Entertainment
+705|Gene Kelly, Donald O'Connor, Debbie Reynolds, Jean Hagen|USA|Stanley Donen, Gene Kelly|Comedy, Musical, Romance|English|8.3|1952|MGM
+707|Josie Lawrence, Miranda Richardson, Alfred Molina, Neville Phillips|UK|Mike Newell|Drama|English, Italian|7.4|1991|Miramax
+708|James Spader, Andie MacDowell, Peter Gallagher, Laura San Giacomo|USA|Steven Soderbergh|Drama|English|7.2|1989|Sony Pictures Home Entertainment
+709|Paul Mercurio, Tara Morice, Bill Hunter, Pat Thomson|Australia|Baz Luhrmann|Comedy, Drama, Romance|English, Spanish|7.2|1992|N/A
+710|John Cusack, David Ogden Stiers, Kim Darby, Demian Slade|USA|Savage Steve Holland|Comedy, Romance|English|7.2|1985|CBS Entertainment Production
+712|Richard Dreyfuss, Danny DeVito, Barbara Hershey, John Mahoney|USA|Barry Levinson|Comedy, Drama|English|6.5|1987|N/A
+714|Emma Thompson, Jonathan Pryce, Steven Waddington, Samuel West|UK, France|Christopher Hampton|Biography, Drama, Romance|English|6.9|1995|MGM Home Entertainment
+715|Nicole Kidman, Matt Dillon, Joaquin Phoenix, Casey Affleck|USA, UK, Canada|Gus Van Sant|Comedy, Crime, Drama|English|6.8|1995|Columbia Pictures
+716|Holly Hunter, Robert Downey Jr., Anne Bancroft, Charles Durning|USA|Jodie Foster|Comedy, Drama, Romance|English|6.6|1995|Passport
+718|Hanna Allsaar, Jan-Erik Aruvald, Inna Hallik, Marta Hang|Estonia|Davide Abbatescianni|Documentary, Short|Estonian|N/A|2014|N/A
+719|John Candy, Alan Alda, Rhea Perlman, Kevin Pollak|USA|Michael Moore|Comedy|English|5.9|1995|MGM Home Entertainment
+720|Sean Connery, Richard Gere, Julia Ormond, Ben Cross|USA, UK|Jerry Zucker|Action, Adventure, Romance|English|5.9|1995|Sony Pictures Home Entertainment
+721|Shannen Doherty, Jeremy London, Jason Lee, Claire Forlani|USA|Kevin Smith|Comedy, Romance|English|7.2|1995|MCA Universal Home Video
+722|Hugh Grant, Julianne Moore, Tom Arnold, Joan Cusack|USA|Chris Columbus|Comedy, Romance|English, Russian|5.4|1995|Twentieth Century Fox Home Entertainment
+723|Whoopi Goldberg, Mary-Louise Parker, Drew Barrymore, Matthew McConaughey|USA, France|Herbert Ross|Comedy, Drama|English|6.4|1995|Warner Home Video
+724|Chris O'Donnell, Minnie Driver, Geraldine O'Rawe, Saffron Burrows|Ireland, USA, UK|Pat O'Connor|Drama, Romance|English|6.6|1995|HBO Video
+725|Dana Delany, Paul Mercurio, Rosie O'Donnell, Dan Aykroyd|USA|Garry Marshall|Comedy, Crime, Romance|English|4.1|1994|HBO Video
+726|Samuel L. Jackson, Matthew Modine, Nancy Travis, Eric Stoltz|USA|Carlo Carlei|Drama, Family, Fantasy|English|6.7|1995|MGM Home Entertainment
+728|Arnold Schwarzenegger, Danny DeVito, Emma Thompson, Frank Langella|USA|Ivan Reitman|Comedy, Romance, Sci-Fi|English|4.5|1994|MCA Universal Home Video
+729|Jodie Foster, Liam Neeson, Natasha Richardson, Richard Libertini|USA|Michael Apted|Drama|English|6.5|1994|Twentieth Century Fox Home Entertainment
+731|Noreen Hennessey, Lucy Webb, Erica Yohn, Tina Majorino|USA|Jessie Nelson|Comedy, Drama, Romance|English|6.5|1994|Turner Home Entertainment
+732|Kevin Kline, Sigourney Weaver, Frank Langella, Kevin Dunn|USA|Ivan Reitman|Comedy, Romance|English, Spanish|6.8|1993|Warner Bros.
+733|V.S. Brodie, Guinevere Turner, T. Wendy McMillan, Migdalia Melendez|USA|Rose Troche|Drama, Romance|English|5.6|1994|Hallmark Entertainment
+734|Whoopi Goldberg, Ted Danson, Will Smith, Nia Long|USA, France|Richard Benjamin|Comedy|English|4.9|1993|Phase 4 Films
+735|Tom Hanks, Denzel Washington, Roberta Maxwell, Buzz Kilman|USA|Jonathan Demme|Drama|English|7.7|1993|Sony Pictures Home Entertainment
+736|Julian Fellowes, Roddy Maude-Roxby, Michael Denison, Andrew Seear|UK|Richard Attenborough|Biography, Drama, Romance|English|7.4|1993|Savoy Pictures
+737|Hugh Grant, Tara Fitzgerald, Sam Neill, Elle Macpherson|Australia, UK|John Duigan|Comedy, Drama, Romance|English|5.8|1993|Miramax
+738|Lara Flynn Boyle, Stephen Baldwin, Josh Charles, Alexis Arquette|USA|Andrew Fleming|Comedy, Romance, Drama|English|6.2|1994|Sony Pictures Home Entertainment
+739|Richard Gere, Julia Roberts, Ralph Bellamy, Jason Alexander|USA|Garry Marshall|Comedy, Romance|English|6.9|1990|Buena Vista
+740|Mia Wasikowska, Jamie Bell, Su Elliot, Holliday Grainger|UK, USA|Cary Joji Fukunaga|Drama, Romance|English, French|7.4|2011|Focus Features
+742|Mel Gibson, Rene Russo, Brawley Nolte, Gary Sinise|USA|Ron Howard|Crime, Thriller|English|6.6|1996|Touchstone Pictures
+744|Ian Hart, Julia Roberts, Richard Ingram, Liam Neeson|UK, Ireland, USA|Neil Jordan|Biography, Drama, Thriller|English|7.1|1996|Warner Bros.
+746|Val Kilmer, Gabriel Jarret, Michelle Meyrink, William Atherton|USA|Martha Coolidge|Comedy, Romance, Sci-Fi|English|7.0|1985|Sony Pictures Home Entertainment
+747|Nate Prochnau|Canada|Brad MacPherson|Short|English|8.8|2006|N/A
+748|Simon Dutton, Gayle Hunnicutt, David Ryall, Simon Rouse|Canada, UK|Ian Toynton|Action, Crime, Drama|English|6.7|1989|N/A
+750|Morgan Freeman, Nigel Hawthorne, Anthony Hopkins, Djimon Hounsou|USA|Steven Spielberg|Drama, History|English, Mende, Spanish, Portuguese|7.2|1997|Dreamworks Distribution LLC
+751|Pierce Brosnan, Jonathan Pryce, Michelle Yeoh, Teri Hatcher|UK, USA|Roger Spottiswoode|Action, Adventure, Thriller|English, German, Danish, Mandarin, Cantonese|6.5|1997|MGM Home Entertainment
+753|Oleg Menshikov, Nikita Mikhalkov, Ingeborga Dapkunaite, Nadezhda Mikhalkova|Russia, France|Nikita Mikhalkov|Drama, War|Russian, French|8.0|1994|Sony Pictures Home Entertainment
+754|Richard Gere, Bai Ling, Bradley Whitford, Byron Mann|USA|Jon Avnet|Crime, Drama, Thriller|English, Mandarin|6.2|1997|MGM Home Entertainment
+755|Robin Williams, Jonathan Hyde, Kirsten Dunst, Bradley Pierce|USA|Joe Johnston|Action, Adventure, Family|English, French|6.9|1995|Sony Pictures Home Entertainment
+756|Steve Martin, Diane Keaton, Martin Short, Kimberly Williams-Paisley|USA|Charles Shyer|Comedy, Family, Romance|English|5.9|1995|Disney
+757|Peter Reznick, John McDonough, Avi Hoffman, Victor Steinbach|USA|Stephen Low|Adventure, Drama, Family|English, Russian|6.4|1995|Sony Pictures Classics
+758|Patrick Bergin, Matt Frewer, Austin O'Brien, Ely Pouget|USA|Farhad Mann|Action, Sci-Fi, Thriller|English|2.4|1996|New Line Home Entertainment
+759|Naomi Watts, Sonya Davison, Vanessa Chong, Anand Tiwari|USA, United Arab Emirates|Doug Liman|Biography, Drama, Thriller|English, Arabic, French|6.8|2010|Summit Entertainment
+760|Peter Weller, Roy Dupuis, Jennifer Rubin, Andrew Lauer|Canada, USA, Japan|Christian Duguay|Sci-Fi, Thriller|English|6.4|1995|Sony Pictures Home Entertainment
+761|Johnny Depp, Courtney Chase, Charles S. Dutton, Christopher Walken|USA|John Badham|Action, Crime, Drama|English|6.3|1995|Paramount Home Video
+762|Matt Dillon, Noah Emmerich, Annabeth Gish, Lauren Holly|USA|Ted Demme|Comedy, Drama, Romance|English|7.2|1996|Miramax Films
+763|Adam Sandler, Christopher McDonald, Julie Bowen, Frances Bay|USA|Dennis Dugan|Comedy, Family, Sport|English|7.0|1996|MCA Universal Home Video
+764|Sarah Jessica Parker, Eric Schaeffer, Ben Stiller, Elle Macpherson|USA|Eric Schaeffer|Comedy, Romance|English|4.9|1996|Sony Pictures Home Entertainment
+765|Eddie Murphy, Robin Givens, Halle Berry, David Alan Grier|USA|Reginald Hudlin|Comedy, Drama, Romance|English, French|5.4|1992|Paramount Pictures
+766|Robin Williams, Christopher Walken, Laura Linney, Lewis Black|USA|Barry Levinson|Comedy, Drama, Romance|English|6.2|2006|Universal Pictures
+767|Amy Eakins Casterline, Cylk Cozart, David Dwyer, Mark Field|USA|Travis Daniels|Documentary|English|N/A|2013|N/A
+768|Chauncey Leopardi, Spencer Vrooman, Malachi Pearson, Cathy Moriarty|USA|Brad Silberling|Comedy, Family, Fantasy|English|6.0|1995|Universal Pictures
+769|Laura Linney, Dylan Walsh, Ernie Hudson, Tim Curry|USA|Frank Marshall|Action, Adventure, Mystery|English, American Sign Language|5.1|1995|Paramount Home Video
+770|Denzel Washington, Tom Sizemore, Jennifer Beals, Don Cheadle|USA|Carl Franklin|Crime, Drama, Mystery|English|6.7|1995|TriStar
+771|Keanu Reeves, Dina Meyer, Ice-T, Takeshi Kitano|Canada, USA|Robert Longo|Action, Crime, Sci-Fi|English, Japanese|5.6|1995|Sony Pictures Home Entertainment
+772|Leo Fitzpatrick, Sarah Henderson, Justin Pierce, Joseph Chan|USA|Larry Clark|Drama|English|7.0|1995|Shining Excalibur Pictures
+773|Marina Zudina, Fay Ripley, Evan Richards, Oleg Yankovskiy|Russia, UK, Germany|Anthony Waller|Horror, Thriller|English, Russian|6.8|1995|Sony Pictures Home Entertainment
+774|N/A|N/A|N/A|N/A|N/A|N/A|1993|N/A
+776|Patrick Swayze, Mary Elizabeth Mastrantonio, Joseph Mazzello, Seth Mumy|USA|Martha Coolidge|Drama, Fantasy|English|6.2|1995|HBO Video
+777|Jeffrey Combs, Barbara Crampton, Jonathan Fuller, Jessica Dollarhide|USA|Stuart Gordon|Drama, Horror, Mystery|English, Italian, Swedish|5.9|1995|Full Moon
+779|Wesley Snipes, Gary Busey, Yancy Butler, Michael Jeter|USA|John Badham|Action, Adventure, Thriller|English|5.6|1994|Paramount
+780|Jim Carrey, Jeff Daniels, Lauren Holly, Mike Starr|USA|Peter Farrelly, Bobby Farrelly|Comedy|English, Swedish, German|7.3|1994|Warner Bros
+781|Meg Ryan, Kevin Kline, Timothy Hutton, Jean Reno|UK, USA|Lawrence Kasdan|Comedy, Drama, Romance|English, French|6.5|1995|Twentieth Century Fox Home Entertainment
+782|Tim Roth, Edward Furlong, Moira Kelly, Vanessa Redgrave|USA|James Gray|Crime, Drama|English|6.8|1994|Live Home Video
+783|Melanie Griffith, Ed Harris, Michael Patrick Carter, Malcolm McDowell|USA|Richard Benjamin|Comedy, Romance|English|5.5|1994|Paramount Home Video
+784|Craig Fairbrass, Elizabeth Hurley, Keith Allen, Anita Dobson|UK|Vadim Jean|Comedy, Horror|English|3.4|1994|Metrodome Films
+785|Marisa Tomei, Robert Downey Jr., Bonnie Hunt, Joaquim de Almeida|USA, Italy|Norman Jewison|Comedy, Romance|English, Italian|6.5|1994|Sony Pictures Home Entertainment
+787|Peter Falk, D.B. Sweeney, Julianne Moore, Ellen Burstyn|USA|Peter Yates|Comedy, Drama|English|6.4|1995|Buena Vista
+788|Darlanne Fluegel, Martin Neufeld, James Brolin, Denise Crosby|Canada|George Mihalka|Drama, Horror, Thriller|English|5.7|1994|Republic Pictures Home Video
+789|Kevin Spacey, Frank Whaley, Michelle Forbes, Benicio Del Toro|USA|George Huang|Comedy, Crime|English|7.1|1994|Trimark
+790|Chris Farley, David Spade, Brian Dennehy, Bo Derek|USA|Peter Segal|Adventure, Comedy|English|7.0|1995|Paramount Home Video
+792|John Cusack, Dianne Wiest, Jennifer Tilly, Chazz Palminteri|USA|Woody Allen|Comedy, Crime|English|7.5|1994|Miramax Films
+793|Alfre Woodard, Delroy Lindo, David Patrick Kelly, Zelda Harris|USA|Spike Lee|Comedy, Drama|English|6.9|1994|MCA Universal Home Video
+794|Nicolas Cage, Bridget Fonda, Rosie Perez, Wendell Pierce|USA|Andrew Bergman|Comedy, Drama, Romance|English|6.3|1994|Sony Pictures Home Entertainment
+796|Michael Keaton, Geena Davis, Christopher Reeve, Bonnie Bedelia|USA|Ron Underwood|Comedy, Romance|English|5.7|1994|MGM Home Entertainment
+797|Jean-Claude Van Damme, Mia Sara, Ron Silver, Bruce McGill|Canada, USA, Japan|Peter Hyams|Action, Crime, Sci-Fi|English|5.8|1994|MCA Universal Home Video
+798|Anthony Hopkins, Chris Rock, Peter Stormare, Gabriel Macht|USA, Czech Republic|Joel Schumacher|Action, Adventure, Comedy|English|5.6|2002|Touchstone Pictures
+802|Chuck Pfarrer, Robert Apisa, Arnold Vosloo, Lance Henriksen|USA|John Woo|Action, Thriller|English|6.1|1993|MCA Universal Home Video
+803|Cate Blanchett, Giovanni Ribisi, Remo Girone, Stefania Rocca|Germany, Italy, USA, France, UK|Tom Tykwer|Crime, Drama, Romance|Italian, English|7.1|2002|Miramax Films
+804|Joe Pesci, Christian Slater, Victoria Abril, Jason Beghe|USA|Barry Levinson|Crime, Comedy, Drama|English|5.3|1994|Paramount Home Video
+805|Woody Allen, Diane Keaton, Jerry Adler, Lynn Cohen|USA|Woody Allen|Comedy, Mystery|English|7.4|1993|TriStar Pictures
+806|Tyrin Turner, Larenz Tate, June Kyoto Lu, Toshi Toda|USA|Albert Hughes, Allen Hughes|Crime, Drama, Thriller|English|7.5|1993|Warner Bros.
+809|Sean Connery, Wesley Snipes, Harvey Keitel, Cary-Hiroyuki Tagawa|USA|Philip Kaufman|Action, Crime, Drama|English, Japanese|6.2|1993|Twentieth Century Fox Home Entertainment
+810|N/A|Canada|Rudy Buttignol, David Way|Documentary, Short|N/A|8.3|1999|N/A
+812|Tina Majorino, Chelsea Field, Shane Meier, Aidan Pendleton|USA|George Miller|Adventure, Drama, Family|English|5.7|1994|Paramount Home Video
+815|Michelle Pfeiffer, George Clooney, Mae Whitman, Alex D. Linz|USA|Michael Hoffman|Comedy, Drama, Romance|English, Spanish|6.5|1996|Twentieth Century Fox Home Entertainment
+816|Tony Todd, Kelly Rowan, William O'Leary, Bill Nunn|USA, UK|Bill Condon|Horror|English|5.2|1995|PolyGram Video
+817|Michael Gunther, Craig Chester, Michael Stock, Raoul O'Connell|USA|Todd Verow|Drama, Thriller|English|4.9|1995|Strand Releasing
+818|Theresa Randle, Isaiah Washington, Spike Lee, Jenifer Lewis|USA|Spike Lee|Comedy, Drama|English|5.0|1996|Anchor Bay Entertainment
+819|Whoopi Goldberg, Frank Langella, Dennis Farina, Richard Jenkins|USA|Steve Rash|Comedy, Sport|English, Russian|5.1|1996|Hollywood Pictures
+820|Michael Jordan, Wayne Knight, Theresa Randle, Manner Washington|USA|Joe Pytka|Animation, Adventure, Comedy|English|6.3|1996|Warner Home Video
+821|Shirley MacLaine, Ricki Lake, Brendan Fraser, Miguel Sandoval|USA|Richard Benjamin|Comedy, Drama, Romance|English|6.2|1996|Sony Pictures Home Entertainment
+822|John Marley, Gena Rowlands, Lynn Carlin, Fred Draper|USA|John Cassavetes|Drama|English|7.7|1968|Criterion Collection
+823|Nick Nolte, Melanie Griffith, Chazz Palminteri, Michael Madsen|USA|Lee Tamahori|Crime, Drama, Mystery|English|6.2|1996|MGM Home Entertainment
+825|Alison Becker, Jodie Sweetin|USA|N/A|N/A|English|N/A|2006|N/A
+826|Min-su Choi, Woo-sung Jung, Kyung-gu Sol, Byeon-chul Min|South Korea|Byung-chun Min|Action, Thriller|Korean|6.0|1999|N/A
+827|Sylvester Stallone, Amy Brenneman, Viggo Mortensen, Dan Hedaya|USA|Rob Cohen|Action, Adventure, Drama|English|5.8|1996|MCA Universal Home Video
+828|Thora Birch, Vincent Kartheiser, Dirk Benedict, Charlton Heston|USA|Fraser C. Heston|Adventure, Family|English|5.7|1996|Sony Pictures Home Entertainment
+829|Laurence Fishburne, Stephen Baldwin, Will Patton, Robert John Burke|USA|Kevin Hooks|Action, Adventure, Crime|English|5.3|1996|MGM Home Entertainment
+830|Eric Roberts, Lisa Thornhill, Jason Gedrick, Jack Betts|USA|Jaime Hellman|Action, Mystery, Thriller|English|4.6|1996|N/A
+831|Kurt Russell, Steve Buscemi, Peter Fonda, Cliff Robertson|USA|John Carpenter|Action, Adventure, Sci-Fi|English|5.7|1996|Paramount Pictures
+833|Damon Wayans, Adam Sandler, James Caan, Jeep Swenson|USA|Ernest R. Dickerson|Action, Comedy, Crime|English|5.8|1996|MCA Universal Home Video
+834|Donald Pleasence, Paul Rudd, Marianne Hagan, Mitchell Ryan|USA|Joe Chappelle|Horror, Thriller|English|5.0|1995|Lyrick
+836|Greta Garbo, Melvyn Douglas, Ina Claire, Bela Lugosi|USA|Ernst Lubitsch|Comedy, Romance|English, Russian|8.0|1939|Warner Bros. Pictures
+837|Gary Cooper, Barbara Stanwyck, Edward Arnold, Walter Brennan|USA|Frank Capra|Comedy, Drama, Romance|English|7.7|1941|Madacy Entertainment
+839|Ted Danson, Joely Richardson, Ian Holm, Harris Yulin|UK, USA|John Henderson|Adventure, Drama, Fantasy|English|5.4|1996|PolyGram Video
+840|Bruce Willis, Bruce Dern, William Sanderson, Christopher Walken|USA|Walter Hill|Action, Crime, Drama|English, Spanish|6.4|1996|Academy Entertainment
+842|Hayley Mills, Jane Wyman, Richard Egan, Karl Malden|USA|David Swift|Drama, Family|English|7.3|1960|Walt Disney Productions
+844|Kiefer Sutherland, Reese Witherspoon, Bokeem Woodbine, Paul Perri|USA, France|Matthew Bright|Comedy, Crime, Drama|English|6.9|1996|Republic Pictures Home Video
+845|Tom Everett Scott, Liv Tyler, Johnathon Schaech, Steve Zahn|USA|Tom Hanks|Comedy, Drama, Music|English|6.9|1996|20th Century Fox
+846|Peter Gallagher, Michelle Pfeiffer, Claire Danes, Laurie Fortier|USA|Michael Pressman|Drama, Fantasy, Romance|English|5.8|1996|Sony Pictures Home Entertainment
+847|Penelope Allen, Gordon MacDonald, Madison Arnold, Vincent Angell|USA|Al Pacino|Documentary, Drama|English|7.4|1996|Columbia Pictures
+848|Dick Powell, Claire Trevor, Anne Shirley, Otto Kruger|USA|Edward Dmytryk|Crime, Drama, Film-Noir|English|7.6|1944|Warner Home Video
+849|Tom Cruise, Nicole Kidman, Robert Duvall, Randy Quaid|USA|Tony Scott|Action, Drama, Sport|English, French|5.9|1990|Paramount Home Video
+854|Terry Potter, Pete O'Herne, Craig Smith, Mike Minett|New Zealand|Peter Jackson|Comedy, Horror, Sci-Fi|English|6.7|1987|WingNut Films
+856|Gena Rowlands, Winona Ryder, Lisanne Falk, Alan Randolph Scott|France, UK, Germany, USA, Japan|Jim Jarmusch|Comedy, Drama|English, French, Finnish, Italian, German|7.8|1991|Criterion Collection
+857|Juliet Stevenson, Maureen All, Gillian Hanna, Margaret Robertson|UK|Greta Schiller|Documentary|English|7.6|1996|Franco London Films
+858|Robin Thomas, Starr Andreeff, Allen Cutler, Rachel Duncan|USA|Steve White|Horror|English|4.1|1996|Republic Pictures Home Video
+859|Jay Baker, Pat Barlow, Lloyd Berry, Deborah Foreman|USA, Canada|Fred Walton|Horror, Mystery|English|6.2|1986|N/A
+860|George Stanchev, L.B. Fisher, Jeff Geddis, Aaron Lohr|Canada, USA|Neill Fearnley|Biography, Drama, Music|English|6.0|2000|Pebblenut Productions
+862|Arnold Schwarzenegger, Sinbad, Phil Hartman, Rita Wilson|USA|Brian Levant|Comedy, Family|English|5.5|1996|20th Century Fox
+864|Jack Lemmon, James Garner, Dan Aykroyd, John Heard|USA|Peter Segal|Adventure, Comedy|English, Spanish|6.5|1996|Warner Home Video
+865|Ted Barton, Yelena Berezhnaya, Sandra Bezic, Sonia Bianchetti|Canada|Richard Martyn|Documentary|English|7.1|2006|N/A
+866|John Travolta, Andie MacDowell, William Hurt, Bob Hoskins|USA|Nora Ephron|Comedy, Drama, Fantasy|English, Portuguese|5.7|1996|WARNER BROTHERS PICTURES
+868|Tin Chan, Chau Diem, Ngo Dinh Diem, John Foster Dulles|USA|Peter Davis|Documentary, War|English, French, Vietnamese|8.3|1974|Rialto
+871|Chevy Chase, Beverly D'Angelo, Randy Quaid, Ethan Embry|USA|Stephen Kessler|Comedy|English|5.9|1997|WARNER BROTHERS PICTURES
+872|Larenz Tate, Nia Long, Isaiah Washington, Lisa Nicole Carson|USA|Theodore Witcher|Drama, Romance|English|7.4|1997|New Line Home Entertainment
+873|Jennifer Aniston, Jay Mohr, Kevin Bacon, Olympia Dukakis|USA|Glenn Gordon Caron|Comedy, Drama, Romance|English|5.5|1997|Twentieth Century Fox Home Entertainment
+874|Katrin Cartlidge, Lynda Steadman, Kate Byers, Mark Benton|UK, France|Mike Leigh|Drama|English|7.2|1997|Twentieth Century Fox Home Entertainment
+875|Sean Penn, James Gandolfini, Robin Wright, John Travolta|France, USA|Nick Cassavetes|Drama, Romance|English|5.9|1997|Miramax
+876|Chris Tucker, Charlie Sheen, Heather Locklear, Elise Neal|USA|Brett Ratner|Action, Comedy, Crime|English, French|6.2|1997|New Line Home Entertainment
+877|Alicia Silverstone, Benicio Del Toro, Christopher Walken, Jack Thompson|USA|Marco Brambilla|Action, Comedy, Crime|English|5.3|1997|Sony Pictures Home Entertainment
+878|Hayley Mills, Dean Jones, Dorothy Provine, Roddy McDowall|USA|Robert Stevenson|Comedy, Crime, Family|English, French|6.7|1965|Walt Disney Productions
+880|Vanessa Williams, Vivica A. Fox, Nia Long, Michael Beach|USA|George Tillman Jr.|Comedy, Drama|English|6.9|1997|20th Century Fox
+881|Chris Tucker, Charlie Sheen, Heather Locklear, Elise Neal|USA|Brett Ratner|Action, Comedy, Crime|English, French|6.2|1997|New Line Home Entertainment
+882|Jennifer Jason Leigh, Albert Finney, Maggie Smith, Ben Chaplin|USA|Agnieszka Holland|Drama, Romance|English, French|6.7|1997|Hollywood Pictures
+883|Kevin Bacon, Brad Renfro, Maximilian Schell, Calista Flockhart|USA|Guy Ferland|Drama, Music|English|6.3|1997|Winstar
+884|Ralph Molina, Frank 'Pancho' Sampedro, Billy Talbot, Neil Young|USA|Jim Jarmusch|Documentary, Music|English|6.6|1997|Shakey Pictures
+885|Peter O'Toole, Rose McGowan, Joanna Going, Liev Schreiber|USA, Japan|Joe Chappelle|Horror, Sci-Fi, Thriller|English|5.4|1998|Miramax
+887|Jurnee Smollett-Bell, Meagan Good, Lynn Whitfield, Samuel L. Jackson|USA|Kasi Lemmons|Drama|English|7.3|1997|Lions Gate Films
+888|Wesley Snipes, Nastassja Kinski, Kyle MacLachlan, Ming-Na Wen|USA|Mike Figgis|Drama, Romance|English|5.9|1997|New Line Home Entertainment
+890|Robin Shou, Talisa Soto, James Remar, Sandra Hess|USA|John R. Leonetti|Action, Adventure, Fantasy|English|3.7|1997|New Line Home Entertainment
+891|Mick Jagger, Clive Owen, Brian Webber, Nikolaj Coster-Waldau|UK, Japan|Sean Mathias|Drama, History, Romance|English|7.3|1997|MGM Pictures
+892|Robin Williams, Marcia Gay Harden, Christopher McDonald, Ted Levine|USA|Les Mayfield|Comedy, Family, Sci-Fi|English|5.2|1997|Disney
+893|Tim Allen, Kirstie Alley, Jay O. Sanders, Michael Lerner|USA|Bryan Spicer|Comedy|English|5.7|1997|Universal Pictures
+894|Alex D. Linz, Olek Krupa, Rya Kihlstedt, Lenny von Dohlen|USA|Raja Gosnell|Comedy, Crime, Family|English, Polish|4.3|1997|20th Century Fox
+895|Jada Pinkett Smith, Omar Epps, Paulette Patterson, Rasila Schroeder|USA|Wes Craven|Horror, Mystery|English|6.1|1997|Miramax Films
+897|Rocky Patterson, Dorenda Moore, Tyler Mason, Jeffrey Combs|USA|Bret McCormick|Sci-Fi|English|4.4|1997|N/A
+900|Tenzin Thuthob Tsarong, Gyurme Tethong, Tulku Jamyang Kunga Tenzin, Tenzin Yeshi Paichang|USA|Martin Scorsese|Biography, Drama, History|English, Tibetan, Mandarin|7.0|1997|Buena Vista Internationa
+901|Leslie Nielsen, Kelly Lynch, Matt Keeslar, Nick Chinlund|USA|Stanley Tong|Adventure, Comedy, Family|English|3.9|1997|Walt Disney Productions
+903|Nick Nolte, Julie Christie, Lara Flynn Boyle, Jonny Lee Miller|USA|Alan Rudolph|Comedy, Drama, Romance|English, French|6.2|1997|Elysian Dreams
+906|Peter Riegert, Chazz Palminteri, Joey Travolta, Paul Greco|USA|John Landis|Comedy, Crime|English, Italian|6.4|1991|Touchstone Pictures
+907|Damon Gameau, Dale Johnson-Green, Amanda Muggleton, Matthew Whittet|Australia|Dean Francis|Short, Drama|English|5.9|2006|N/A
+909|Catherine McCormack, Rufus Sewell, Oliver Platt, Fred Ward|USA|Marshall Herskovitz|Biography, Drama, Romance|English|7.3|1998|Warner Home Video
+910|Ray Winstone, Kathy Burke, Charlie Creed-Miles, Laila Morse|UK, France|Gary Oldman|Drama|English|7.4|1997|Sony Pictures Home Entertainment
+911|Kristen Stewart, Sarah Clarke, Matt Bushell, Billy Burke|USA|Catherine Hardwicke|Drama, Fantasy, Romance|English|5.2|2008|Summit Entertainment
+913|John Hurt, Jason Priestley, Fiona Loewi, Sheila Hancock|UK, Canada|Richard Kwietniowski|Comedy, Drama|English|7.1|1997|Universal Pictures
+914|Kevin Bacon, Matt Dillon, Neve Campbell, Theresa Russell|USA|John McNaughton|Crime, Drama, Mystery|English|6.5|1998|Sony Pictures Home Entertainment
+915|John Travolta, Emma Thompson, Billy Bob Thornton, Kathy Bates|France, UK, Germany, USA, Japan|Mike Nichols|Comedy, Drama|English|6.7|1998|Universal
+916|William Hurt, Mimi Rogers, Heather Graham, Lacey Chabert|USA|Stephen Hopkins|Action, Adventure, Family|English|5.1|1998|New Line Home Entertainment
+917|Bruce Willis, Alec Baldwin, Miko Hughes, Chi McBride|USA|Harold Becker|Action, Crime, Drama|English|6.1|1998|Universal Pictures
+918|Nicolas Cage, Meg Ryan, Andre Braugher, Dennis Franz|Germany, USA|Brad Silberling|Drama, Fantasy, Romance|English|6.7|1998|N/A
+920|Jerry Barone, Mary Elizabeth Mastrantonio, Al Pacino, Patrick Borriello|USA|James Foley|Drama|English|6.3|1995|MVD Music Video
+922|Johnny Depp, Gary Farmer, Crispin Glover, Lance Henriksen|USA, Germany, Japan|Jim Jarmusch|Drama, Fantasy, Western|English, Cree|7.7|1995|Miramax
+923|Li Gong, Saifei He, Cuifen Cao, Jingwu Ma|China, Hong Kong, Taiwan|Yimou Zhang|Drama, History, Romance|Mandarin|8.2|1991|China Film Co-Production Corporation
+924|Jeff Bridges, Caroline Goodall, John Savage, Scott Wolf|USA, UK|Ridley Scott|Adventure, Drama|English, Danish, Spanish|6.6|1996|Hollywood Pictures
+926|Kelsey Grammer, Lauren Holly, Rob Schneider, Harry Dean Stanton|USA|David S. Ward|Comedy|English|6.0|1996|Twentieth Century Fox Home Entertainment
+928|N/A|USA|Jeff Smith|Documentary|English|N/A|2015|N/A
+929|Michelle Trachtenberg, Gregory Smith, Vanessa Lee Chester, Rosie O'Donnell|USA|Bronwen Hughes|Comedy, Drama, Family|English|5.9|1996|Paramount Pictures
+930|Keanu Reeves, Morgan Freeman, Rachel Weisz, Fred Ward|USA|Andrew Davis|Action, Drama, Sci-Fi|English|5.6|1996|Twentieth Century Fox Home Entertainment
+932|Sinbad, Brock Pierce, Blake Boyd, Timothy Busfield|USA|David M. Evans|Family, Comedy|English|5.1|1996|Caravan Pictures
+935|Glenn Close, Frances McDormand, Pauline Collins, Cate Blanchett|Australia, USA|Bruce Beresford|Drama, History, War|English, Japanese, Dutch, Malay|6.8|1997|Twentieth Century Fox Home Entertainment
+936|Pete Postlethwaite, Tara Fitzgerald, Ewan McGregor, Stephen Tompkinson|UK, USA|Mark Herman|Comedy, Drama, Romance|English|7.1|1996|Miramax Films
+939|Christian Slater, Kevin Bacon, Gary Oldman, Embeth Davidtz|USA, France|Marc Rocco|Drama, Thriller|English|7.3|1995|Warner Bros. Pictures
+940|Brendan Fraser, Steve Buscemi, Adam Sandler, Chris Farley|USA|Michael Lehmann|Comedy, Crime, Music|English|6.1|1994|Fox
+941|Joe Pesci, Brendan Fraser, Moira Kelly, Patrick Dempsey|USA|Alek Keshishian|Comedy, Drama|English|6.7|1994|Warner Home Video
+943|Eric Stoltz, Martin Raymond, Eric Pascal Chaltiel, Julie Delpy|France, USA|Roger Avary|Crime, Thriller|English, French|6.5|1993|Live Entertainment
+944|Danny DeVito, Gregory Hines, James Remar, Ed Begley Jr.|USA|Penny Marshall|Comedy, Drama|English|6.1|1994|Buena Vista
+945|Cary Grant, Audrey Hepburn, Walter Matthau, James Coburn|USA|Stanley Donen|Comedy, Mystery, Romance|English, French, German, Italian|8.0|1963|Madacy Entertainment
+948|Jamie Foxx, Tommy Davidson, Amy Monique Waddell, Wiley Moore|USA|Jeff Pollack|Comedy, Romance|English|5.3|1997|Sony Pictures Home Entertainment
+949|Kaelynn Craddick, Sara Craddick, Kate Capshaw, Adam Baldwin|USA|Jocelyn Moorhouse|Comedy, Drama, Romance|English|6.2|1995|MCA Universal Home Video
+950|Jennifer Jason Leigh, Mare Winningham, Ted Levine, Max Perlich|USA, France|Ulu Grosbard|Drama, Music|English, Hebrew|6.5|1995|LionsGate Entertainment
+952|Lou Reed, Michael J. Fox, Roseanne Barr, Mel Gorham|USA|Paul Auster, Wayne Wang, Harvey Wang|Comedy|English|6.7|1995|Miramax
+953|Andie MacDowell, John Turturro, Michael Richards, Maury Chaykin|USA|Diane Keaton|Comedy, Drama|English|6.8|1995|Hollywood Pictures
+954|Roseanne Barr, Sandra Bernhard, Robert Best, Natane Boudreau|USA|Douglas Keeve|Documentary|English, French|6.4|1995|Miramax Films
+956|Paul Newman, Jessica Tandy, Bruce Willis, Melanie Griffith|USA|Robert Benton|Comedy, Drama|English|7.4|1994|Paramount Home Video
+957|Sihung Lung, Lai Wang, Bo Z. Wang, Deb Snyder|Taiwan|Ang Lee|Comedy, Drama|Mandarin, English|7.3|1992|N/A
+958|You Ge, Li Gong, Ben Niu, Wu Jiang|China, Hong Kong|Yimou Zhang|Drama, History, War|Mandarin|8.3|1994|Hallmark Entertainment
+959|Jason London, Joey Lauren Adams, Milla Jovovich, Shawn Andrews|USA|Richard Linklater|Comedy|English|7.7|1993|Gramercy Pictures
+960|David Thewlis, Lesley Sharp, Katrin Cartlidge, Greg Cruttwell|UK|Mike Leigh|Comedy, Drama|English|7.9|1993|N/A
+961|Tilda Swinton, Quentin Crisp, Jimmy Somerville, John Bott|UK, Russia, Italy, France, Netherlands|Sally Potter|Biography, Drama, Fantasy|English, French|7.2|1992|Sony Pictures Classics
+962|Ashley Judd, Todd Field, Bentley Mitchum, Allison Dean|USA|Victor Nunez|Drama, Romance|English|7.1|1993|October Films
+963|Billy Bob Thornton, Molly Ringwald, J.T. Walsh, Jefferson Mays|USA|George Hickenlooper|Short, Drama, Thriller|English|7.6|1994|Vanguard
+965|Audrey Hepburn, Fred Astaire, Kay Thompson, Michel Auclair|USA|Stanley Donen|Comedy, Musical, Romance|English, French|7.1|1957|Paramount Pictures
+967|Ricky Schroder, Alec Guinness, Eric Porter, Colin Blakely|UK|Jack Gold|Drama, Family, Romance|English|7.4|1980|United Artists
+969|Sebastian Cabot, Sterling Holloway, John Fiedler, Jon Walmsley|USA|Wolfgang Reitherman|Animation, Short, Family|English|8.0|1968|N/A
+971|Diego Abatantuono, Claudio Bigagli, Giuseppe Cederna, Claudio Bisio|Italy|Gabriele Salvatores|Comedy, Drama, War|Italian, English, Greek, Turkish|7.4|1991|Silvio Berlusconi Communications
+972|Mary McDonnell, Angela Bassett, Lenore Banks, Will Mahoney|USA|John Sayles|Drama|English|7.5|1992|Sony Pictures Home Entertainment
+973|N/A|UK|Paul McCartney|Documentary, Short, Music|English|7.3|1995|N/A
+974|Sally Field, Ed Harris, Olivia Burnette, Alexandra Kyle|USA|John Schlesinger|Crime, Drama, Thriller|English, French, Spanish, Korean|6.1|1996|Leo Films
+975|Mark Wahlberg, Reese Witherspoon, William Petersen, Amy Brenneman|USA|James Foley|Drama, Thriller|English|6.2|1996|Universal Pictures
+976|Mario Van Peebles, Barry Corbin, William Sadler, Jaime Gomez|Mexico, USA|Norberto Barba|Action, Sci-Fi, Thriller|English, Spanish|3.9|1996|Sony Pictures Home Entertainment
+978|Alec Baldwin, Kelly Lynch, Mary Stuart Masterson, Eric Roberts|USA, UK|Phil Joanou|Drama, Mystery, Thriller|English|5.7|1996|New Line Home Entertainment
+980|Nick Nolte, Sheryl Lee, Alan Arkin, Bernard Behrens|USA|Keith Gordon|Drama, Romance, War|English, German, Yiddish|7.2|1996|New Line Home Entertainment
+981|Thokozani Nkosi, Ron Smerczak, Wilson Dunster, Ice Cube|USA, South Africa|Darrell Roodt|Action, Crime, Drama|English, Zulu|4.5|1997|New Line Home Entertainment
+982|Jean-Claude Van Damme, Natasha Henstridge, Jean-Hugues Anglade, Zach Grenier|USA|Ringo Lam|Action, Crime, Mystery|English|5.4|1996|Sony Pictures Home Entertainment
+984|Charlie Sheen, Donald Sutherland, Linda Hamilton, Stephen Lang|USA|George P. Cosmatos|Action, Thriller|English|4.9|1997|Hollywood Pictures
+985|Leonardo DiCaprio, Djimon Hounsou, Jennifer Connelly, Kagiso Kuypers|Germany, USA|Edward Zwick|Adventure, Drama, Thriller|English, Mende, Afrikaans|8.0|2006|Warner Bros. Pictures
+986|Ray Liotta, Lauren Holly, Brendan Gleeson, Hector Elizondo|USA|Robert Butler|Action, Thriller|English|4.8|1997|HBO Video
+987|Kate Beckinsale, Scott Speedman, Michael Sheen, Shane Brolly|USA, UK, Germany, Hungary|Len Wiseman|Action, Fantasy, Thriller|English|7.0|2003|Sony Screen Gems
+989|Scott Bakula, Jasmine Guy, Natalie Cole, Ashley Peldon|USA|Mark Dindal|Animation, Comedy, Family|English|6.9|1997|Warner Bros. Pictures
+990|Matthew Macfadyen, Eric MacLennan, Kelly Macdonald, Theo Morrissey|UK|Joe Wright|Drama, Romance|English|6.6|2012|Focus Features
+991|Eric Stoltz, James Spader, Deborah Kara Unger, Joanna Going|USA, UK|Leslie Greif|Crime, Drama, Thriller|English|5.2|1997|PolyGram Video
+992|Harvey Keitel, Cameron Diaz, Craig Sheffer, Billy Zane|USA|Jim Wilson|Comedy, Thriller|English|6.0|1996|N/A
+993|Tate Donovan, Josh Keaton, Roger Bart, Danny DeVito|USA|Ron Clements, John Musker|Animation, Adventure, Comedy|English, Spanish, Greek|7.2|1997|Buena Vista Internationa
+995|Nick Scotti, Anthony Barrile, Anthony DeSando, Craig Chester|USA|Tony Vitale|Comedy|English|6.1|1997|Paramount Home Video
+997|Al Franken, Laura San Giacomo, Vincent D'Onofrio, Shirley Knight|Germany, USA|Harold Ramis|Comedy, Drama|English|5.3|1995|Paramount Home Video
+998|Chris Elliott, Ritch Brinkley, James Gammon, Brian Doyle-Murray|USA|Adam Resnick|Adventure, Comedy, Romance|English|5.1|1994|Buena Vista Pictures
+999|Dana Carvey, Valeria Golino, James Earl Jones, Kevin Pollak|USA|Mick Jackson|Comedy, Mystery|English|5.6|1994|MGM Home Entertainment
+1000|Paul Hogan, Cuba Gooding Jr., Beverly D'Angelo, Kamala Lopez|USA, Australia|Simon Wincer|Comedy, Western|English|5.4|1994|HBO Video
+1003|Hayley Mills, Dean Jones, Dorothy Provine, Roddy McDowall|USA|Robert Stevenson|Comedy, Crime, Family|English, French|6.7|1965|Walt Disney Productions
+1004|Jason Patric, Gene Hackman, Robert Duvall, Wes Studi|USA|Walter Hill|Drama, History, Western|English|6.5|1993|Sony Pictures Home Entertainment
+1006|Solveig Dommartin, Pietro Falcone, Enzo Turrin, Chick Ortega|Germany, France, Australia, USA|Wim Wenders|Action, Drama, Sci-Fi|English, French, Italian, Japanese, German|6.8|1991|Warner Home Video
+1007|Deborah Theaker, Michael Hitchcock, Scott Williamson, Larry Miller|USA|Christopher Guest|Comedy|English|7.6|1996|Sony Pictures Classics
+1008|Lili Taylor, Jared Harris, Martha Plimpton, Lothaire Bluteau|UK, USA|Mary Harron|Biography, Drama|English|6.6|1996|Hallmark Entertainment
+1010|Jeffrey Wright, Michael Wincott, Benicio Del Toro, Claire Forlani|USA|Julian Schnabel|Biography, Drama|English, Spanish|6.9|1996|N/A
+1011|Danny Aiello, Greg Cruttwell, Jeff Daniels, Teri Hatcher|USA|John Herzfeld|Comedy, Crime, Thriller|English, Vietnamese|6.5|1996|HBO Video
+1012|Howard Stern, Robin Quivers, Mary McCormack, Fred Norris|USA|Betty Thomas|Biography, Comedy, Drama|English|6.8|1997|WARNER BROTHERS PICTURES
+1013|Jennifer Lopez, Ice Cube, Jon Voight, Eric Stoltz|USA, Brazil, Peru|Luis Llosa|Action, Adventure, Horror|English|4.7|1997|Sony Pictures Home Entertainment
+1014|Mira Sorvino, Lisa Kudrow, Janeane Garofalo, Alan Cumming|USA|David Mirkin|Comedy|English|6.1|1997|Touchstone Pictures
+1015|Scott Wilson, Blake Heron, Bonnie Bartlett, Rod Steiger|USA|Dale Rosenbloom|Drama, Family|English|6.4|1996|WARNER BROTHERS PICTURES
+1016|Colm Meaney, Mykelti Williamson, Nick Chinlund, Renoly Santiago|USA|Simon West|Action, Crime, Thriller|English|6.8|1997|Disney
+1017|Carol Kane, Mark Boone Junior, Steve Buscemi, Bronson Dudley|USA|Steve Buscemi|Comedy, Drama|English|7.2|1996|Live Home Video
+1020|Charles Boyer, Ingrid Bergman, Joseph Cotten, Dame May Whitty|USA|George Cukor|Crime, Drama, Film-Noir|English|7.9|1944|MGM
+1021|Trip Cullman, Paul Albe, Ellen Pompeo, Susan Grace|USA|David Licata|Comedy, Short|English|6.5|1999|N/A
+1023|Robin Williams, Billy Crystal, Julia Louis-Dreyfus, Nastassja Kinski|USA|Ivan Reitman|Comedy, Romance|English|5.1|1997|WARNER BROTHERS PICTURES
+1024|Vanessa Redgrave, Natascha McElhone, Michael Kitchen, Alan Cox|UK, USA, Netherlands|Marleen Gorris|Drama, Romance|English|6.9|1997|BMG
+1027|James McQuaide, Mark Neveldine, Ekkehart Pollack, Ted Schilowitz|USA|N/A|Documentary, Short|English|8.0|2010|N/A
+1029|Pauly Shore, Tia Carrere, Stanley Tucci, Brian Doyle-Murray|USA|John Fortenberry|Comedy|English|4.1|1995|Sony Pictures Home Entertainment
+1031|Tom Guiry, Helen Slater, Jon Tenney, Brittany Boyd|USA|Daniel Petrie|Family, Adventure|English|5.9|1994|Paramount Pictures
+1032|Luke Edwards, Timothy Busfield, John Ashton, Ashley Crow|USA|Andrew Scheinman|Comedy, Family, Sport|English|6.0|1994|Sony Pictures Home Entertainment
+1033|Michael J. Fox, Sally Field, Ralph Waite, Al Michaels|USA|David R. Ellis|Adventure, Comedy, Family|English|5.9|1996|N/A
+1034|Aaron Ginn-Forsberg, Davina Joy, Tamara McDaniel, James Ray|USA|Jon Bonnell|Sci-Fi|English|1.5|2009|N/A
+1035|Leon, Doug E. Doug, Rawle D. Lewis, Malik Yoba|USA|Jon Turteltaub|Adventure, Comedy, Family|English, German, Russian|6.9|1993|Disney
+1036|Phoebe Cates, Rik Mayall, Marsha Mason, Tim Matheson|USA, UK|Ate de Jong|Comedy, Drama, Fantasy|English|5.8|1991|New Line Cinema
+1037|Maxwell Caulfield, Michelle Pfeiffer, Lorna Luft, Maureen Teefy|USA|Patricia Birch|Comedy, Drama, Musical|English|4.2|1982|Paramount Home Video
+1038|Claudia Stedelin, Ian Nelson, Brent Hinkley, R. Lee Ermey|USA|Jeb Stuart|Crime, Mystery, Thriller|English|6.4|1997|Paramount Home Video
+1039|Riz Abbasi, Richard Attenborough, David Blair, Brian Blessed|UK, USA|Kenneth Branagh|Drama|English|7.8|1996|Sony Pictures Classics
+1040|Denis Leary, Sandra Bullock, Stephen Dillane, Yaphet Kotto|USA|Bill Bennett|Comedy, Crime, Romance|English|5.2|1996|Warner Home Video
+1041|Billy Crystal, Debra Winger, Joe Mantegna, Cynthia Stevenson|USA|Billy Crystal|Comedy, Romance|English|6.4|1995|Sony Pictures Home Entertainment
+1042|Sean Connery, Laurence Fishburne, Kate Capshaw, Blair Underwood|USA|Arne Glimcher|Action, Crime, Drama|English|6.4|1995|Warner Home Video
+1043|Leslie Nielsen, Christopher Lloyd, Matt McCoy, Sherry Miller|USA, Canada|Fred Gerber|Drama, Family, Comedy|English|5.4|1995|Republic Pictures Home Video
+1045|Jet Li, Li Sun, Yong Dong, Yun Qu|China, Hong Kong|Ronny Yu|Action, Biography, Drama|English, Mandarin|7.7|2006|N/A
+1046|Alec Baldwin, Nicole Kidman, Bill Pullman, Bebe Neuwirth|Canada, USA|Harold Becker|Crime, Mystery, Thriller|English|6.4|1993|Sony Pictures Home Entertainment
+1047|Michael Keaton, Andie MacDowell, Zack Duhame, Katie Schlossberg|USA|Harold Ramis|Comedy, Romance, Sci-Fi|English|6.0|1996|Sony Pictures Home Entertainment
+1048|John Mahoney, Edward Burns, Michael McGlone, Maxine Bahns|USA|Edward Burns|Comedy, Drama, Romance|English|6.1|1996|Twentieth Century Fox Home Entertainment
+1049|Kyle Howard, Herbert Russell, Jamie Lee Curtis, Kevin Pollak|USA|Harry Winer|Comedy, Family|English|5.7|1996|HBO Video
+1052|Leslie Nielsen, Peter MacNicol, Steven Weber, Amy Yasbeck|USA, France|Mel Brooks|Comedy, Fantasy, Horror|English, German|5.8|1995|WARNER BROTHERS PICTURES
+1053|Christina Ricci, Rosie O'Donnell, Thora Birch, Melanie Griffith|USA|Lesli Linka Glatter|Comedy, Drama, Romance|English|6.8|1995|New Line Home Entertainment
+1054|Ellen DeGeneres, Bill Pullman, Joan Cusack, Dean Stockwell|USA|Nick Castle|Comedy|English|3.8|1996|Mandeville Films
+1056|Federico Luppi, Ron Perlman, Claudio Brook, Margarita Isabel|Mexico|Guillermo del Toro|Horror|Spanish, English|6.7|1993|Trimark
+1058|Robert Firth|UK|Patrick King|History|English|N/A|1996|N/A
+1059|Shawn Wayans, Marlon Wayans, Tracey Cherelle Jones, Chris Spencer|USA|Paris Barclay|Comedy, Crime|English, Spanish|6.6|1996|Miramax
+1064|Robert Young, Robert Mitchum, Robert Ryan, Gloria Grahame|USA|Edward Dmytryk|Crime, Drama, Film-Noir|English|7.4|1947|WARNER BROTHERS PICTURES
+1065|Lou Dobbs, Ted Koppel|USA|Godfrey Reggio|Documentary, Music|None|8.3|1982|New Cinema
+1066|Kevin Bacon, Bob Hoskins, Bridget Fonda, Jim Cummings|USA|Simon Wells|Animation, Adventure, Drama|English|7.1|1995|MCA Universal Home Video
+1067|Luke Wilson, Owen Wilson, Ned Dowd, Shea Fowler|USA|Wes Anderson|Comedy, Crime, Drama|English, Spanish|7.1|1996|Columbia Pictures
+1070|Steve Buscemi, Catherine Keener, Dermot Mulroney, Danielle von Zerneck|USA|Tom DiCillo|Comedy, Drama|English|7.6|1995|Sony Pictures Home Entertainment
+1073|Kerry Fox, Christopher Eccleston, Ewan McGregor, Ken Stott|UK|Danny Boyle|Crime, Thriller|English|7.4|1994|PolyGram Video
+1074|Winona Ryder, Ethan Hawke, Janeane Garofalo, Steve Zahn|USA|Ben Stiller|Comedy, Drama, Romance|English|6.6|1994|MCA Universal Home Video
+1079|Jerry O'Connell, Megan Ward, Billy West, Reginald Hudlin|USA|John Payson|Comedy, Fantasy, Musical|English, Spanish|5.4|1996|Warner Home Video
+1081|William Baldwin, Angela Jones, Bruce Ramsay, Lois Chiles|USA|Reb Braddock|Comedy, Crime, Thriller|English, Spanish|5.9|1996|Miramax
+1082|Tilda Swinton, Amy Madigan, Karen Sillas, Frances Fisher|Germany, USA|Susan Streitfeld|Drama, Thriller|English|5.5|1996|Trimark
+1083|Matt Dillon, Faye Dunaway, Gary Sinise, William Fichtner|USA, France|Kevin Spacey|Crime, Drama, Thriller|English|6.1|1996|Miramax
+1084|Kenneth Branagh, Janny Brandes-Brilslijper, Glenn Close, Rose De Liema|UK, USA, Netherlands|Jon Blair|Documentary, Biography, War|English|8.1|1995|Sony Pictures Home Entertainment
+1085|Dennis Hopper, Amy Irving, Amy Locane, Julie Harris|USA|Bruno Barreto|Drama, Romance|English|6.4|1996|WARNER BROTHERS PICTURES
+1086|Margaret Cho, Bruce Davison, Lee Grant, Devon Gummersall|USA|Randal Kleiser|Drama|English|7.1|1996|MGM Home Entertainment
+1087|Daniel Bernhardt, Pat Morita, Donald Gibb, James Hong|USA|Alan Mehrez|Action, Sport|English|4.8|1996|FM Entertainment
+1088|Jean-Claude Van Damme, Dennis Rodman, Mickey Rourke, Paul Freeman|USA|Hark Tsui|Action, Comedy, Sci-Fi|English, Italian|4.7|1997|Sony Pictures Home Entertainment
+1089|Sandra Bullock, Jason Patric, Willem Dafoe, Temuera Morrison|USA|Jan de Bont|Action, Adventure, Crime|English, American Sign Language, Portuguese|3.7|1997|Fox
+1090|Sharon Stone, William Baldwin, Tom Berenger, Polly Walker|USA|Phillip Noyce|Drama, Thriller|English|4.9|1993|Paramount Home Video
+1091|Bryce Dallas Howard, Robert Redford, Oakes Fegley, Oona Laurence|USA|David Lowery|Adventure, Family, Fantasy|English|6.8|2016|Walt Disney Pictures
+1092|Greg Kinnear, Laurie Metcalf, Maria Pitillo, Tim Conway|USA|Garry Marshall|Comedy|English|5.3|1996|Paramount
+1093|Dana Delany, Kim Cattrall, Cynthia Stevenson, Laila Robins|USA|Julianna Lavin|Comedy|English|5.4|1995|Republic Pictures Home Video
+1095|Jon Lovitz, Tia Carrere, Louise Fletcher, Mekhi Phifer|USA|Hart Bochner|Comedy, Crime, Romance|English|5.5|1996|Sony Pictures Home Entertainment
+1096|Aidan Quinn, Courteney Cox, Anthony LaPaglia, Shirl Bernheim|USA|Daniel Taplitz|Comedy, Drama, Romance|English|5.6|1997|MCA Universal Home Video
+1097|Heath Ledger, Julia Stiles, Joseph Gordon-Levitt, Larisa Oleynik|USA|Gil Junger|Comedy, Drama, Romance|English, French|7.2|1999|Buena Vista Pictures
+1099|Jing Ning, Gang Wu, Xiaorui Zhao, Yang Gao|China, Hong Kong|Ping He|Drama, Romance|Mandarin|7.0|1994|Hallmark Entertainment
+1100|Karen Sillas, Tom Noonan|USA|Tom Noonan|Comedy, Drama, Romance|English|7.1|1994|Hallmark Entertainment
+1101|Stockard Channing, Will Smith, Donald Sutherland, Ian McKellen|USA|Fred Schepisi|Comedy, Drama, Mystery|English|6.9|1993|MGM Home Entertainment
+1102|Antonio Banderas, Melanie Griffith, Daryl Hannah, Danny Aiello|Spain, USA|Fernando Trueba|Comedy, Romance|English|5.4|1996|Touchstone Pictures
+1103|Clive Owen, Catherine Keener, Liana Liberato, Jason Clarke|USA|David Schwimmer|Crime, Drama, Thriller|English|7.0|2010|Millenium Entertainment
+1105|Howie Long, Scott Glenn, William Forsythe, Suzy Amis|USA|Dean Semler|Thriller, Action|English|4.6|1998|Twentieth Century Fox Home Entertainment
+1107|Patricia Arquette, U Aung Ko, Frances McDormand, Spalding Gray|UK, USA|John Boorman|Action, Drama|English|6.6|1995|Sony Pictures Home Entertainment
+1108|Embeth Davidtz, Tom Bell, Gemma Jones, James Purefoy|USA, UK|Christopher Menaul|Crime, Drama, Mystery|English|6.4|1995|Touchstone Pictures
+1109|Sigourney Weaver, Ben Kingsley, Stuart Wilson, Krystia Mova|UK, France, USA|Roman Polanski|Drama, Mystery, Thriller|English|7.3|1994|Fine Line Features
+1110|Lori Petty, Ice-T, Naomi Watts, Don Harvey|USA|Rachel Talalay|Action, Comedy, Sci-Fi|English|5.2|1995|MGM Home Entertainment
+1111|Sandra Oh, Stephen Chang, Alannah Ong, Donald Fong|Canada|Mina Shum|Drama, Romance|English, Cantonese|7.2|1994|First Generation
+1112|Tommy Lee Jones, Robert Wuhl, Lolita Davidovich, Ned Bellamy|USA|Ron Shelton|Biography, Drama, Sport|English|6.5|1994|Warner Home Video
+1113|Jennifer Jason Leigh, Campbell Scott, Matthew Broderick, Peter Gallagher|USA, Canada|Alan Rudolph|Biography, Drama|English|6.4|1994|Miramax
+1114|Cher, Chazz Palminteri, Ryan O'Neal, Paul Mazursky|USA|Paul Mazursky|Comedy, Crime, Drama|English|5.9|1996|New Line Home Entertainment
+1115|Alec McCowen, Robert Hardy, Felicity Kendal, Annette Crosbie|UK|John Gorrie|Comedy, Drama, Romance|English|8.1|1980|N/A
+1117|Anthony Hopkins, Natascha McElhone, Julianne Moore, Joss Ackland|USA|James Ivory|Biography, Drama, Romance|English|6.4|1996|Warner Home Video
+1118|Cheech Marin, Tommy Chong, Strother Martin, Edie Adams|USA|Lou Adler, Tommy Chong|Comedy, Music|English, Spanish|7.0|1978|N/A
+1119|Eric Stoltz, Mary Stuart Masterson, Lea Thompson, Craig Sheffer|USA|Howard Deutch|Drama, Romance|English|7.1|1987|Paramount Home Video
+1120|Walter Matthau, Ossie Davis, Amy Irving, Craig T. Nelson|USA|Herb Gardner|Comedy|English|6.6|1996|Universal Pictures
+1122|John Garfield, The 'Dead End' Kids, Claude Rains, Ann Sheridan|USA|Busby Berkeley|Crime, Drama, Film-Noir|English|7.0|1939|Warner Bros.
+1125|Viv Moore, Dave Tomlinson|Canada|Ed Sinclair|Documentary|Arabic, English|N/A|2006|N/A
+1128|Nick Broomfield, Nina Xining Zuo, Madam Alex, Corinne Bohrer|UK, Germany, USA, Canada|Nick Broomfield|Documentary, Biography|English|6.6|1995|BMG
+1129|Brigitte Lin, Tony Chiu-Wai Leung, Faye Wong, Takeshi Kaneshiro|Hong Kong|Kar-Wai Wong|Comedy, Drama, Romance|Cantonese, English, Japanese, Hindi, Mandarin|8.1|1994|Miramax
+1130|Maggie Cogan, Katina Pendleton|USA|Michel Negroponte|Documentary, Biography, Mystery|English|7.2|1995|N/A
+1131|Jason Statham, Catherine Chan, Robert John Burke, James Hong|USA|Boaz Yakin|Action, Crime, Thriller|English, Mandarin, Russian|6.5|2012|Lionsgate Films
+1132|Keanu Reeves, Cameron Diaz, Vincent D'Onofrio, Delroy Lindo|USA|Steven Baigelman|Comedy, Crime, Drama|English|5.4|1996|New Line Home Entertainment
+1133|Eddie Albert, Ray Milland, Donald Pleasence, Kim Richards|USA|John Hough|Adventure, Family, Fantasy|English|6.4|1975|Buena Vista
+1134|Richard Belzer, De'aundre Bonds, Andre Braugher, Thomas Jefferson Byrd|USA|Spike Lee|Drama, History|English|6.8|1996|Sony Pictures Home Entertainment
+1135|Robby Krieger, Ray Manzarek, John Densmore, Jim Morrison|USA|Ray Manzarek|Documentary, Music|English|8.0|1991|N/A
+1136|Alec Baldwin, James Woods, Virginia Madsen, Whoopi Goldberg|USA|Rob Reiner|Drama, History|English|6.7|1996|Sony Pictures Home Entertainment
+1137|Meera Syal, Martin Walsh, Steven M. Martin, Andrew Fraser|UK|Hettie Macdonald|Comedy, Drama, Romance|English|7.7|1996|N/A
+1138|Dean Cain, Andy Dick, Sean Patrick Flanery, Mitchell Whitfield|USA, UK|Tamra Davis|Action, Comedy, Crime|English|5.7|1997|Orion Home Video
+1139|Jonny Lee Miller, Angelina Jolie, Jesse Bradford, Matthew Lillard|USA|Iain Softley|Comedy, Crime, Drama|English, Italian, Japanese, Russian|6.2|1995|MGM Home Entertainment
+1142|Muhammad Ali, George Foreman, Don King, James Brown|USA|Leon Gast|Documentary, Sport|English|8.0|1996|Gramercy Pictures
+1143|Philip Baker Hall, John C. Reilly, Gwyneth Paltrow, Samuel L. Jackson|USA|Paul Thomas Anderson|Crime, Drama|English|7.3|1996|MGM
+1145|Nick Nolte, Mary McDonnell, J.T. Walsh, Ed O'Neill|USA|William Friedkin|Drama, Sport|English|6.1|1994|Paramount Home Video
+1146|Jason Priestley, Gabriel Olds, Jerry O'Connell, Joe Pantoliano|USA|John Whitesell|Drama, Comedy|English|5.0|1993|Sony Pictures Home Entertainment
+1149|Jenny Agutter, Luc Roeg, David Gulpilil, John Meillon|UK, Australia|Nicolas Roeg|Adventure, Drama|English, Aboriginal, Czech, French|7.7|1971|20th Century Fox
+1150|Sharon Stone, Rob Morrow, Randy Quaid, Peter Gallagher|USA|Bruce Beresford|Drama, Thriller|English|5.8|1996|Touchstone Pictures
+1151|Fred Williamson, Jim Brown, Pam Grier, Paul Winfield|USA|Larry Cohen, Fred Williamson|Action, Crime, Drama|English|5.7|1996|Orion Home Video
+1152|Mackenzie Astin, Chris O'Donnell, Margot Steinberg, Sandra Bullock|USA|Richard Attenborough|Biography, Drama, Romance|English, Italian|6.0|1996|New Line Home Entertainment
+1153|Sheryl Lee, Stephen Dorff, Ian Hart, Gary Bakewell|UK, Germany|Iain Softley|Biography, Drama, Music|English, German, French, Russian|6.7|1994|Gramercy Pictures
+1154|Eddie Constantine, Anna Karina, Akim Tamiroff|France, Italy|Jean-Luc Godard|Drama, Mystery, Sci-Fi|French|7.2|1965|Rialto Pictures
+1159|Alisa Freyndlikh, Aleksandr Kaydanovskiy, Anatoliy Solonitsyn, Nikolay Grinko|Soviet Union|Andrei Tarkovsky|Drama, Sci-Fi|Russian|8.1|1979|Zweites Deutsches Fernsehen
+1160|Jason Alexander, Stephen Spinella, Stephen Bogardus, Randy Becker|USA|Joe Mantello|Comedy, Drama, Romance|English|6.8|1997|New Line Home Entertainment
+1161|William Forsythe, Vincent Gallo, Adam Trese, Gareth Williams|USA|Alan Taylor|Comedy, Crime|English|6.6|1995|Evergreen
+1162|Jermaine 'Huggy' Hopkins, Claudia Kaleem, Candice Merideth, Alma Collins|USA|Doug Ellin|Comedy|English|3.9|1996|Live Home Video
+1164|Steve Guttenberg, Kathleen Quinlan, Arnold Vosloo, Dawn McMillan|USA|George Miller|Adventure, Comedy, Family|English|5.2|1997|HBO Video
+1165|Rick Moranis, Tom Arnold, Julianne Phillips, Carol Kane|USA|Steve Miner|Comedy, Thriller|English|4.5|1996|Warner Home Video
+1168|Keanu Reeves, Ruocheng Ying, Chris Isaak, Alex Wiesendanger|Italy, France, Liechtenstein, UK|Bernardo Bertolucci|Drama|English|6.0|1993|Miramax
+1169|Sean Nelson, Giancarlo Esposito, Samuel L. Jackson, N'Bushe Wright|USA, France|Boaz Yakin|Crime, Drama, Thriller|English|7.7|1994|Miramax
+1170|Jeremy Davies, Elizabeth Newett, Benjamin Hendrickson, Alberta Watson|USA|David O. Russell|Comedy, Drama|English|6.3|1994|Sony Pictures Home Entertainment
+1172|Howard Keel, Stanley Donen, Saul Chaplin, Michael Kidd|USA|Scott Benson|Short, Documentary, Music|English|7.8|1997|N/A
+1175|Alyssa Milano, Mark Boone Junior, Malcolm McDowell, Brendan Dawson|USA|Robert Downey Sr.|Comedy, Romance|English|5.2|1997|Wellspring Media Inc.
+1176|Stephen Dillane, Woody Harrelson, Marisa Tomei, Emira Nusevic|UK, USA|Michael Winterbottom|Drama, War|English, Serbian, Bosnian|6.9|1997|Miramax
+1177|Jason Alexander, Faye Dunaway, Eric Lloyd, Rupert Everett|USA|Ken Kwapis|Comedy, Adventure, Family|English, French|5.3|1996|Twentieth Century Fox Home Entertainment
+1178|Damon Wayans, Michael Ironside, Scott Bigelow, Joseph Blaire|USA|Nick Castle|Adventure, Comedy, Family|English, Vietnamese|6.1|1995|MCA Universal Home Video
+1180|Nick Nolte, Julia Roberts, Saul Rubinek, James Rebhorn|USA|Charles Shyer|Action, Comedy, Romance|English|5.2|1994|Buena Vista
+1182|Chevy Chase, Jack Palance, Dianne Wiest, Robert Davi|USA|Michael Ritchie|Comedy, Crime, Thriller|English|5.0|1994|Sony Pictures Home Entertainment
+1185|Pauly Shore, Andy Dick, Lori Petty, David Alan Grier|USA|Daniel Petrie Jr.|Comedy, War|English|4.8|1994|Buena Vista
+1186|Carl Reiner|USA|N/A|Documentary|English|7.7|2008|N/A
+1187|Robbie Lee, Joanne Nail, Monica Gayle, Asher Brauner|USA|Jack Hill|Action, Crime, Drama|English|6.6|1975|Rolling Thunder Pictures
+1188|Emilio Estevez, Kiefer Sutherland, Lou Diamond Phillips, Christian Slater|USA|Geoff Murphy|Action, Western|English|6.4|1990|20th Century Fox
+1189|Jared Leto, R. Lee Ermey, Ed O'Neill, Breckin Meyer|USA|Steve James|Biography, Drama, Romance|English|6.8|1997|Hollywood Pictures
+1190|Bette Midler, Dennis Farina, Paula Marshall, Gail O'Grady|USA|Carl Reiner|Comedy, Romance|English|6.1|1997|MCA Universal Home Video
+1194|Rena Owen, Temuera Morrison, Mamaengaroa Kerr-Bell, Julian Arahanga|New Zealand|Lee Tamahori|Crime, Drama|English, Maori, Spanish|7.9|1994|New Zealand Film Commission
+1200|Errol Flynn, Dean Stockwell, Paul Lukas, Robert Douglas|USA|Victor Saville|Adventure, Drama, Family|English, Russian|6.6|1950|MGM Home Entertainment
+1201|Marlene Dietrich, Maria Riva, David Riva, Steven Bach|UK, USA|Chris Hunt|Documentary|English|7.1|1996|N/A
+1203|Fred Astaire, Ginger Rogers, Edward Everett Horton, Erik Rhodes|USA|Mark Sandrich|Comedy, Musical, Romance|English, Italian|7.8|1935|Turner Home Entertainment
+1204|Carole Lombard, Jack Benny, Robert Stack, Felix Bressart|USA|Ernst Lubitsch|Comedy, War|English, German|8.2|1942|United Artists
+1206|Kirk Douglas, Elizabeth Montgomery, Dorothy McGuire, Pat Morita|USA|Michael Tuchner|Drama|English|7.0|1985|Bryna Productions
+1207|David Caruso, Linda Fiorentino, Chazz Palminteri, Richard Crenna|USA|William Friedkin|Crime, Drama, Thriller|English|5.2|1995|Paramount
+1208|David Caruso, Samuel L. Jackson, Nicolas Cage, Helen Hunt|USA|Barbet Schroeder|Action, Crime, Thriller|English|5.9|1995|Twentieth Century Fox Home Entertainment
+1209|Steve Martin, Madeline Kahn, Robert Klein, Anthony LaPaglia|USA|Nora Ephron|Comedy, Drama|English|5.3|1994|Sony Pictures Home Entertainment
+1210|Denzel Washington, Kelly Lynch, Russell Crowe, Stephen Spinella|USA|Brett Leonard|Action, Crime, Sci-Fi|English|5.5|1995|Paramount Home Video
+1211|Jessica Lange, Tommy Lee Jones, Powers Boothe, Carrie Snodgress|USA|Tony Richardson|Drama, Romance|English, French|6.4|1994|Orion Home Video
+1213|Rebecca De Mornay, Don Johnson, Stephen Lang, Jack Warden|USA|Sidney Lumet|Crime, Drama, Thriller|English|5.6|1993|Buena Vista
+1215|Amir AboulEla, Adriana Alexander, David Andriole, Vanessa Lee Asher|USA|David Hogan|Action, Sci-Fi|English, French, German|3.2|1996|PolyGram Video
+1216|Molly Parker, Peter Outerbridge, Jay Brazeau, Natasha Morley|Canada|Lynne Stopkewich|Drama, Romance|English|6.5|1996|British Columbia Films
+1217|Sylvester Stallone, Antonio Banderas, Julianne Moore, Anatoli Davydov|France, USA|Richard Donner|Action, Crime, Thriller|English, Dutch, Spanish|6.3|1995|Warner Home Video
+1218|Ice Cube, Chris Tucker, Nia Long, Tommy 'Tiny' Lister|USA|F. Gary Gray|Comedy, Drama|English|7.3|1995|Zebra
+1220|Omar Epps, Kristy Swanson, Michael Rapaport, Jennifer Connelly|USA|John Singleton|Crime, Drama, Romance|English|6.5|1995|Sony Pictures Home Entertainment
+1221|Andy Garcia, Meg Ryan, Ellen Burstyn, Tina Majorino|USA|Luis Mandoki|Drama, Romance|English, Vietnamese|6.5|1994|Touchstone Pictures
+1222|Emilio Estevez, Cuba Gooding Jr., Denis Leary, Stephen Dorff|USA, Japan|Stephen Hopkins|Action, Crime, Drama|English|6.6|1993|Universal Pictures
+1224|Henry Nicols|USA|Michael Ryan, Ellen Stokes|Documentary|English|N/A|1995|N/A
+1225|Perry Anzilotti, Kathy Bates, Robert Curtis Brown, Kevin Connolly|UK, France, Germany, USA|Patrick Read Johnson|Comedy, Drama|English|6.7|1995|Turner Home Entertainment
+1226|Andy Garcia, Ian Holm, James Gandolfini, Lena Olin|USA|Sidney Lumet|Crime, Drama|English|6.6|1996|Republic Pictures Home Video
+1228|Steven Seagal, Eric Bogosian, Everett McGill, Katherine Heigl|USA|Geoff Murphy|Action, Thriller|English|5.4|1995|Warner Home Video
+1229|Alyssa Milano, Johnathon Schaech, Xander Berkeley, Belinda Bauer|USA|Anne Goursaud|Drama, Thriller|English|4.4|1996|New Line Home Entertainment
+1230|Marcello Mastroianni, Sophia Loren, Jean-Pierre Cassel, Kim Basinger|USA|Robert Altman|Comedy, Drama|English, French, Italian, Russian, Spanish|5.0|1994|Miramax
+1231|Steven Seagal, Basil Wallace, Keith David, Tom Wright|USA|Dwight H. Little|Action, Adventure, Crime|English|5.9|1990|Twentieth Century Fox Home Entertainment
+1232|Madonna, Donna DeLory, Niki Harris, Luis Camacho|USA|Alek Keshishian|Documentary, Music|English|6.1|1991|Miramax Films
+1234|Scott 'Carrot Top' Thompson, Courtney Thorne-Smith, Larry Miller, Raquel Welch|USA|Alex Zamm|Comedy|English|2.3|1998|Trimark
+1235|Lorenzo di Bonaventura, Joseph Gordon-Levitt, Sienna Miller, Rachel Nichols|USA|N/A|Short, Action|English|5.6|2009|N/A
+1236|Lothaire Bluteau, Anna Levine, David Speck, April Turner|USA, UK|David Rocksavage|Drama|English|6.3|1995|Artistic License
+1237|Ashley Judd, Samuel L. Jackson, Andy Garcia, David Strathairn|Germany, USA|Philip Kaufman|Crime, Drama, Mystery|English, Italian, Spanish|5.2|2004|Paramount Pictures
+1239|Geena Davis, Matthew Modine, Frank Langella, Maury Chaykin|USA, France, Italy, Germany|Renny Harlin|Action, Adventure, Comedy|English|5.6|1995|Live Home Video
+1241|Paul Holbrook, Neil Maggs|UK|Paul Holbrook|Short, Comedy|English|N/A|2016|N/A
+1243|Miguel Ferrer, Julie Entwisle, Dan Monahan, Michael H. Moss|USA, Italy|Mark Pavia|Fantasy, Horror, Mystery|English|6.0|1997|New Line Home Entertainment
+1244|Eddie Murphy, Kim Miyori, Art Evans, James Carpenter|USA|Thomas Carter|Action, Comedy, Crime|English|5.5|1997|Touchstone Pictures
+1245|Tupac Shakur, Tim Roth, Thandie Newton, Charles Fleischer|USA|Vondie Curtis-Hall|Comedy, Crime, Drama|English|7.0|1997|Gramercy Pictures
+1246|Daniel Stern, Jon Polito, Brad Sullivan, Ann Dowd|USA|Greg Beeman|Adventure, Comedy, Crime|English|5.5|1995|20th Century Fox Film Corporation
+1247|Madeleine Stowe, Mary Stuart Masterson, Andie MacDowell, Drew Barrymore|USA|Jonathan Kaplan|Romance, Western|English, Spanish|5.1|1994|Twentieth Century Fox Home Entertainment
+1248|Madeleine Stowe, Aidan Quinn, James Remar, Peter Friedman|USA|Michael Apted|Crime, Drama, Mystery|English|6.2|1993|Sony Pictures Home Entertainment
+1249|Michael J. Fox, Gabrielle Anwar, Anthony Higgins, Michael Tucker|USA|Barry Sonnenfeld|Comedy, Drama, Romance|English|6.1|1993|MCA Universal Home Video
+1250|Phillip Rhee, Christopher McDonald, Gina Gershon, Mark Rolston|USA|Phillip Rhee|Action, Crime, Drama|English|4.8|1995|Miramax
+1251|Pierre Richard, Micheline Presle, Nino Kirtadze, Jean-Yves Gautier|France, Georgia, Ukraine, Belgium, Russia|Nana Dzhordzhadze|Comedy, Romance|Russian, French, Georgian|6.9|1996|N/A
+1252|Brigitte Bardot, Fritz Lang, Jack Palance, Giorgia Moll|France, Italy|Jean-Luc Godard|Drama|French, English, German, Italian|7.7|1963|Rialto Pictures
+1254|Joe Pesci, Danny Glover, Rosanna Arquette, Lynn Whitfield|USA|Christopher Cain|Comedy, Crime|English|4.7|1997|Hollywood Pictures
+1255|Parker Posey, Drea de Matteo, Tim Guinee, Gena Rowlands|USA, France, Japan|Zoe R. Cassavetes|Comedy, Drama, Romance|English, French|6.4|2007|Magnolia Pictures
+1258|Michael Richards, Jeff Daniels, Charlize Theron, Jessica Steen|USA|Jonathan Lynn|Comedy, Romance|English|5.7|1997|New Line Home Entertainment
+1259|Josh Charles, Anne Heche, John Goodman, Christine Lahti|USA|Bryan Gordon|Comedy, Romance|English|5.9|1996|New Line Cinema
+1260|Leonardo DiCaprio, David Thewlis, Romane Bohringer, Dominique Blanc|UK, France, Belgium|Agnieszka Holland|Biography, Drama, Romance|English|6.6|1995|New Line Home Entertainment
+1262|Amy Braverman, Miranda Rhyne, Catherine Keener, Anne Heche|UK, USA, Germany|Nicole Holofcener|Comedy, Drama, Romance|English|6.8|1996|Miramax
+1263|Hedy Burress, Angelina Jolie, Jenny Lewis, Jenny Shimizu|USA|Annette Haywood-Carter|Drama|English|6.1|1996|Rysher Entertainment
+1264|Martin Lawrence, Tim Robbins, John C. McGinley, Giancarlo Esposito|USA|Steve Oedekerk|Action, Adventure, Comedy|English|6.7|1997|Touchstone Pictures
+1265|Douglas Spain, Efrain Figueroa, Kandeyce Jorden, Martha Velez|USA|Miguel Arteta|Comedy, Drama|English, Spanish|5.9|1997|Twentieth Century Fox Home Entertainment
+1266|Nino Manfredi, Paolo Turco, Ugo D'Alessio, Tano Cimarosa|Italy|Franco Brusati|Comedy, Drama|Italian, German, English, French, Greek, Spanish|7.6|1974|CIC
+1267|Harvey Keitel, John Turturro, Delroy Lindo, Mekhi Phifer|USA|Spike Lee|Crime, Drama, Mystery|English|6.9|1995|MCA Universal Home Video
+1268|Peter Coyote, Emmanuelle Seigner, Hugh Grant, Kristin Scott Thomas|France, UK, USA|Roman Polanski|Drama, Romance, Thriller|English, French|7.1|1992|Lionsgate
+1269|Gary Cooper, Audrey Hepburn, Maurice Chevalier, John McGiver|USA|Billy Wilder|Comedy, Crime, Drama|English, French|7.3|1957|Twentieth Century Fox Home Entertainment
+1270|Michael J. Fox, Christina Vidal, Nathan Lane, Cyndi Lauper|USA|James Lapine|Comedy, Family|English|5.5|1993|Buena Vista
+1271|Elijah Wood, Jason Alexander, Julia Louis-Dreyfus, Marc Shaiman|USA|Rob Reiner|Adventure, Comedy, Drama|English|4.4|1994|New Line/Columbia Tristar
+1272|Kim Wayans, Daniel Beer, Daria Lynn, Randy Powell|USA|Aaron Speiser|Comedy, Drama, Romance|English|6.1|1994|N/A
+1274|Robert John Burke, Mario Machado, Remy Ryan, Jodi Long|USA|Fred Dekker|Action, Crime, Sci-Fi|English, Japanese|3.9|1993|MGM
+1275|Jason Statham, Clive Owen, Robert De Niro, Dominic Purcell|UK, Australia|Gary McKendry|Action, Crime, Thriller|English, Arabic, French, Spanish|6.5|2011|Open Road Films
+1276|Rhea Perlman, Fredro Starr, Carol Kane, Terrence Howard|USA|Steve Gomer|Drama, Sport|English|5.9|1996|Sony Pictures Home Entertainment
+1277|Jada Pinkett Smith, Queen Latifah, Vivica A. Fox, Kimberly Elise|USA|F. Gary Gray|Action, Crime, Drama|English|6.8|1996|New Line Home Entertainment
+1278|Jennifer Lopez, Jackie Guerra, Constance Marie, Alex Meneses|USA|Gregory Nava|Biography, Drama, Music|English, Spanish|6.7|1997|Warner Home Video
+1279|Jonathan Taylor Thomas, Devon Sawa, Scott Bairstow, Frances Fisher|USA|William Dear|Action, Adventure, Comedy|English|6.3|1997|Warner Bros. Pictures
+1280|Jim Belushi, Tupac Shakur, Lela Rochon, Dennis Quaid|USA|Jim Kouf|Action, Crime, Drama|English|6.5|1997|MGM Home Entertainment
+1281|Jimmy Kimmel, Sardo Mejia, Liam Neeson, Jinkee Pacquiao|USA, Philippines|Leon Gast, Ryan Moore|Documentary, Biography, Sport|English|7.2|2014|Gravitas Ventures
+1283|Jack Lemmon, Walter Matthau, Dyan Cannon, Gloria DeHaven|USA|Martha Coolidge|Comedy, Romance|English, Italian, Japanese, Spanish|6.0|1997|Twentieth Century Fox Home Entertainment
+1284|Meryl Streep, Liam Neeson, Edward Furlong, Julia Weldon|USA|Barbet Schroeder|Crime, Drama, Mystery|English|6.1|1996|Disney
+1285|Jim Broadbent, Phoebe Cates, Wendy Hughes, Kevin Kline|UK, USA|Michael Austin|Comedy, Drama, History|English|6.0|1994|Sony Pictures Home Entertainment
+1288|Tim Daly, Caroleen Feeney, Dan Gunther, Dana Wheeler-Nicholson|USA|Hal Salwen|Comedy|English|6.8|1995|Sony Pictures Home Entertainment
+1290|Sam Neill, Greta Scacchi, John Hargreaves, Kerry Fox|Australia|Michael Blakemore|Drama, Romance|English|6.9|1994|Miramax
+1291|Damon Wayans, Daniel Stern, Dan Aykroyd, Gail O'Grady|USA|Tom DeCerchio|Comedy, Sport|English|5.2|1996|Buena Vista Pictures
+1293|Joseph Mazzello, Richard Gilliland, Corinne Bohrer, Alex Daniels|USA|Manny Coto|Adventure, Sci-Fi, Family|English|5.4|1997|Trimark
+1294|Sharon Gless, Michael S. Berliner, Harry Binswanger, Sylvia Bokor|USA|Michael Paxton|Documentary, Biography|English|6.8|1997|Strand Releasing
+1295|Kevin Corrigan, Linda Fiorentino, Michael Rapaport, Lili Taylor|USA|Matthew Harrison|Comedy, Crime, Drama|English|3.7|1997|October Films
+1296|Alan Arkin, Matt Craven, Diane Lane, Bill Paxton|Canada, USA|Mike Binder|Comedy, Drama, Romance|English|6.4|1993|Buena Vista
+1297|Warren Beatty, Annette Bening, Katharine Hepburn, Garry Shandling|USA|Glenn Gordon Caron|Comedy, Drama, Romance|English|5.9|1994|Warner Home Video
+1299|Irene Dunne, Cary Grant, Beulah Bondi, Edgar Buchanan|USA|George Stevens|Drama, Romance|English|7.1|1941|Columbia Pictures
+1300|John Plumpis, Janel Moloney, Yvonne Zima, Christine Ebersole|USA|Scott Winant|Romance, Comedy|English|4.8|1997|Paramount Pictures
+1301|Bill Murray, Harold Ramis, Warren Oates, P.J. Soles|USA|Ivan Reitman|Action, Comedy, War|English, Russian, Polish|6.9|1981|Columbia Pictures
+1306|Audie England, Costas Mandylor, Eric Da Silva, Raven Snow|USA|Zalman King|Drama|English|4.5|1995|New Line Home Entertainment
+1307|Cynthia Adler, Eric Barreto, Mario Cunha, Alice Faye|UK, Brazil|Helena Solberg|Documentary, Biography, Music|English, Portuguese|7.9|1995|International Cinema Corporation
+1308|Victoria Foyt, Matt Salinger, Frances Fisher, Eric Roberts|USA|Victoria Foyt, Henry Jaglom|Comedy, Drama|English|5.4|1994|Wellspring Media Inc.
+1311|Whitney Houston, Angela Bassett, Loretta Devine, Lela Rochon|USA|Forest Whitaker|Comedy, Drama, Romance|English|5.7|1995|Twentieth Century Fox Home Entertainment
+1314|Ice-T, Rutger Hauer, Charles S. Dutton, Gary Busey|USA|Ernest R. Dickerson|Action, Adventure, Crime|English|6.1|1994|Sony Pictures Home Entertainment
+1315|Joaquin Phoenix, Billy Crudup, Will Patton, Kathy Baker|USA|Pat O'Connor|Drama, Romance|English|6.4|1997|Twentieth Century Fox Home Entertainment
+1320|Blythe Danner, Frank Whaley, Sheryl Lee, Danny Nucci|USA|Ross Kagan Marks|Drama, Thriller|English|5.9|1995|Arrow
+1321|Martin Lawrence, Ashton Kutcher, Gary Sinise, Debra Messing|USA|Roger Allers, Jill Culton, Anthony Stacchi|Animation, Adventure, Comedy|English|6.2|2006|Sony Pictures
+1322|N/A|USA|Josh Oreck|Documentary, Short|English|N/A|2015|N/A
+1324|Jesse Metcalfe, Corey Large, Monica Keena, Nathalie Kelley|USA|Alan Pao|Action, Crime, Drama|English|4.6|2008|GoDigital Manly Movies
+1325|Josh Hartnett, Naomie Harris, Adam Scott, Robin Tunney|USA|Austin Chick|Drama|English|5.4|2008|Original Media
+1326|Gijs Blom, Ko Zandvliet, Jonas Smulders, Ton Kas|Netherlands|Mischa Kamp|Drama, Romance|Dutch, English|7.5|2014|Pupkin Film
+1327|Julia Ormond, Tim Roth, Keith Allen, Siobhan Redmond|UK|Angela Pope|Crime, Drama, Romance|English|6.4|1994|Miramax
+1328|Antonio Banderas, Jennifer Connelly, Stefania Sandrelli, Diego Wallraff|Argentina, USA|Betty Kaplan|Drama|English|5.1|1994|Miramax
+1330|Kristin Scott Thomas, Claudiu Bleont, Olga Tudorache, George Constantin|Romania, France|Lucian Pintilie|Drama, Romance, War|Romanian, French, English|7.5|1994|N/A
+1333|Alex Del Rosario, Gandong Cervantes, Lawrence David, Luis Cortes|Philippines|Mel Chionglo|Crime, Drama|Filipino, Tagalog, English|5.7|1994|N/A
+1334|Rosie Perez, Harvey Keitel, Anthony Quinn, Michael DeLorenzo|USA|Alexandre Rockwell|Comedy, Drama|English|5.2|1994|N/A
+1335|Dustin Hoffman, Dennis Franz, Sean Nelson|UK, USA|Michael Corrente|Drama|English|5.7|1996|Hallmark Entertainment
+1336|Shaquille O'Neal, Francis Capra, Ally Walker, James Acheson|USA|Paul Michael Glaser|Comedy, Family, Fantasy|English|2.8|1996|Touchstone Pictures
+1337|Jerry Adler, Bill Murray, Richard Alan Baker, Richie Allan|USA|Howard Franklin|Comedy, Family|English|5.5|1996|MGM Home Entertainment
+1338|Sonia Braga, Patrick Malahide, Ion Caramitru, Sevilla Delofski|UK|Nicolas Roeg|Drama, War|English|6.7|1995|BBC
+1339|Maurizio Nichetti, Elena Sofia Ricci, Amanda Sandrelli, Caterina Sylos Labini|Italy|Maurizio Nichetti|Comedy, Drama|Italian, French|6.7|1993|N/A
+1341|Huw Garmon, Catrin Fychan, Ceri Cunnington, Llio Silyn|UK|Paul Turner|Drama, Romance, War|Welsh, English|7.2|1992|N/A
+1343|Lawrence Gilliard Jr., Wendell Holmes, Barbara Gonzalez, Suzanne Costollos|USA|John Rubino|Drama|English|7.0|1995|Cinepix
+1346|Colin Friels, Miles Davis, Helen Buday, Joe Petruzzi|Australia, France|Rolf de Heer|Drama, Music|English|7.0|1991|Australian Film Finance Corporation
+1348|Damian de Montemas, Adeline Harvey, Benjamin Winspear, Matt Zeremes|Australia|Tim Slade|Short, Drama|English|7.3|2008|N/A
+1349|Carla Benedetti, Matteo Fadda, Giacomo Fadda, Stefano Masciarelli|Italy|Leone Pompucci|Comedy, Romance|Italian|6.8|1993|N/A
+1351|Billy Campbell, Jennifer Grey, Tim Curry, Adam Baldwin|USA|Peter Shaner|Comedy, Romance|English|4.7|1995|Showcase Entertainment
+1353|Ariane Schluter, Ad van Kempen|Netherlands|Theo van Gogh|Romance, Drama|Dutch|6.3|1994|N/A
+1354|Henry Jaglom, Nelly Alard, Melissa Leo, Suzanne Bertish|USA|Henry Jaglom|Drama|English|6.3|1992|New Video Group
+1355|Matthew Broderick, Jeffrey Force, Peter Riegert, David Drew Gallagher|USA|Matthew Broderick|Biography, Drama|English|6.2|1996|BMG
+1356|Matt Ross, Catherine Curtin, Timothy Pilato, Ramon Moses|USA|John Walsh|Romance, Comedy|English|6.4|1996|Orion Home Video
+1357|Russell Crowe, Christianne Hirt, Wanda Cannon, Scott Kraft|Canada|Aaron Kim Johnston|Romance, War, Drama|English|6.3|1993|Canadian Broadcasting Corporation
+1362|Scott Plank, Melora Walters, John Savage, Brion James|USA|Michael Covert|Action, Comedy|English|5.4|1996|A-Pix
+1371|Noam Chomsky, Tim Commerford, Zack De La Rocha, Tom Morello|USA|Joe DeMaio|Documentary, Music|English|8.3|2001|N/A
+1372|Colin Baker, Louise Jameson, David Troughton, John Wadmore|UK|Bill Baggs|Sci-Fi, Thriller|English|6.6|1994|N/A
+1374|Elliott Gould, Susannah York, Kaye Ballard, Stuart Paul|USA|Steven Paul|Drama, Romance|English|5.3|1980|Simitar
+1376|Rodney Dangerfield, Debi Mazar, David Ogden Stiers, Burt Reynolds|USA, Japan|Peter Baldwin|Comedy|English|5.2|1997|Trimark
+1377|Aden Young, Saffron Burrows, Simon Bossell, Pippa Grandison|Australia|Craig Rosenberg|Comedy, Drama, Romance|English, French|6.4|1996|Warner Elektra Atlantic
+1378|B-Real, Kurtis Blow, Da Brat, Chuck D.|USA|Peter Spirer|Documentary, Music|English|7.5|1997|Miramax
+1379|Matt Day, Matthew Dyktynski, Alice Garner, Frances O'Connor|Australia|Emma-Kate Croghan|Comedy, Romance|English|6.4|1996|Twentieth Century Fox
+1380|Sam Bould, Martin Donovan, Ian Hart, Joely Richardson|UK, Germany, Spain, France|Angela Pope|Drama|English|7.4|1996|Channel 4
+1381|Helen Mirren, Kyra Sedgwick, Beau Bridges, Michael Yarmush|USA|Kevin Bacon|Drama|English|6.8|1996|Evergreen
+1383|Jamie Williams, Billy Campbell, Roddy McDowall, David Paul Francis|USA|Dee McLachlan|Adventure, Comedy, Drama|English|4.5|1997|TriStar Pictures
+1384|Tyrone Burton, Eddie Cutanda, Phuong Duong, Geoffrey Rhue|USA|Robert Patton-Spruill|Crime, Drama|English|6.0|1997|Miramax
+1385|Jean Reno, Mercedes Ruehl, Polly Walker, Mark Frankel|USA, Italy|Paul Weiland|Comedy, Romance, Drama|English|7.2|1997|New Line Home Entertainment
+1386|Tomorowo Taguchi, Shin'ya Tsukamoto, Nobu Kanaoka, Sujin Kim|Japan|Shin'ya Tsukamoto|Horror, Sci-Fi|Japanese|6.4|1992|N/A
+1387|Eric Schaeffer, Amanda De Cadenet, Rudolf Martin, Francie Swift|USA|Eric Schaeffer|Drama, Romance|English|6.0|1997|Orion Home Video
+1388|Abbas Sayah, Shaghayeh Djodat, Hossein Moharami, Rogheih Moharami|Iran, France|Mohsen Makhmalbaf|Drama, Mystery, Romance|Persian|7.0|1996|MK2 Productions
+1389|Ovidiu Balan, Philippe Petit, Pierrette Fesch, Jerry Smith|France|Tony Gatlif|Drama|French|7.3|1995|N/A
+1392|Dan Cortese, David Keith, Kirk B.R. Woller, Jeff Fahey|USA|Ian Gilmour|Drama, Horror, Sci-Fi|English|3.3|2005|Unified Film Organization
+1395|Brendan Sexton III, Antoine McLean, Mtume Gant, Carlo Alban|USA|Morgan J. Freeman|Crime, Drama, Romance|English|6.5|1997|MGM Home Entertainment
+1396|Jeremy Irvine, Jonny Beauchamp, Joey King, Caleb Landry Jones|USA|Roland Emmerich|Drama|English|4.7|2015|Roadside Attractions
+1397|Leslie Howard, Bette Davis, Frances Dee, Kay Johnson|USA|John Cromwell|Drama, Romance|English|7.3|1934|RKO Pictures
+1398|Mark Strong, Saskia Reeves, Richard Dillane, Indira Varma|Spain, USA, UK, France|Jorge Dorado|Drama, Mystery, Thriller|English|6.5|2013|Vertical Entertainment
+1401|Jeremy Irons, John Lone, Barbara Sukowa, Ian Richardson|USA|David Cronenberg|Drama, Romance|English|6.8|1993|N/A
+1403|Nanni Moretti, Giovanna Bozzolo, Sebastiano Nardone, Antonio Petrocelli|Italy, France|Nanni Moretti|Biography, Comedy, Drama|Italian, English, Mandarin|7.3|1993|N/A
+1408|Doug Stone, Kristy Young, James Donadio, Deborah Hobart|USA|Mark Lewis|Comedy, Drama, Family|English|3.9|1995|Miramax
+1409|Michelle Nicastro, Brian Nissen, Katja Zoch, Joseph Medrano|USA|Richard Rich|Animation, Family, Fantasy|English|5.7|1998|Sony Pictures Home Entertainment
+1410|Massimo Girotti, Amedeo Nazzari, Vivi Gioi, Elisa Cegani|Italy|Carmine Gallone|N/A|Italian|5.5|1943|N/A
+1411|Jane Fonda, John Phillip Law, Anita Pallenberg, Milo O'Shea|France, Italy|Roger Vadim|Adventure, Comedy, Fantasy|English|5.9|1968|Universal Pictures
+1412|Scott McAfee, Candace Hutson, Heather Hogan, Jeff Bennett|USA|Roy Allen Smith|Animation, Adventure, Family|English|5.6|1995|MCA Universal Home Video
+1413|Jean-Claude Van Damme, Raul Julia, Ming-Na Wen, Damian Chapa|Japan, USA|Steven E. de Souza|Action, Adventure, Comedy|English, Japanese, Esperanto|3.8|1994|MCA Universal Home Video
+1414|Jason Priestley, Kimberly Williams-Paisley, Peter Riegert, Robert Loggia|USA|Wallace Wolodarsky|Action, Comedy, Thriller|English|6.8|1995|Universal Pictures
+1416|Owen Wilson, Lake Bell, Sterling Jerins, Claire Geare|USA|John Erick Dowdle|Action, Thriller|English, French, Thai, Khmer|6.8|2015|The Weinstein Company
+1422|Dennis Haysbert, Mel Harris, Sab Shimono, Dina Merrill|USA|Scott McGehee, David Siegel|Drama, Thriller|English|6.7|1993|Hallmark Entertainment
+1423|Greg Nicotero, Robert Kirkman, Scott M. Gimple, Denise M. Huth|USA|N/A|Documentary, Drama, Horror|English|9.2|2016|N/A
+1425|Nick Nolte, Whittni Wright, Albert Brooks, Julie Kavner|USA|James L. Brooks|Comedy, Drama|English|5.6|1994|Sony Pictures Home Entertainment
+1426|Illeana Douglas, Sissy Boyd, Christina Pickles, Jill Sobule|USA|Allison Anders|Comedy, Drama, Music|English|6.7|1996|MCA Universal Home Video
+1427|Richard Lewis, Liza Harris, Liam Ahern, George Martin|USA|Peter Cohn|Drama|English|6.3|1995|Winstar
+1428|Jayce Bartok, Amie Carey, Nicky Katt, Ajay Naidu|USA|Richard Linklater|Drama|English|6.8|1996|WARNER BROTHERS PICTURES
+1429|Gwyneth Paltrow, John Hannah, John Lynch, Jeanne Tripplehorn|UK, USA|Peter Howitt|Comedy, Drama, Fantasy|English|6.8|1998|Miramax
+1430|Djimon Hounsou, Akosua Busia, De'aundre Bonds, Eartha Kitt|USA|Joel B. Marsden|Drama, History|English|5.0|1997|Xenon
+1431|Lela Rochon, Jeffrey Dean Morgan, Phil Morris, Cheryl Francis Harrington|USA|Monika Harris|Thriller|English|3.7|1997|Gravy Train Pictures
+1433|Kaela Dobkin, Raymond Serra, Austin Pendleton, Tony Cucci|Canada|George Mendeluk|Action, Drama|English|6.1|1999|N/A
+1434|Rowena Cooper, Scott Charles, Antonia Corrigan, Myles Anderson|UK|Stefan Schwartz|Comedy, Crime, Romance|English|6.6|1997|Twentieth Century Fox Home Entertainment
+1435|Andy Garcia, Alan Arkin, Rachel Ticotin, Joe Pantoliano|USA|Andrew Davis|Comedy|English|4.8|1995|HBO Video
+1436|Richard Gere, Lena Olin, Anne Bancroft, Tom Irwin|USA|Mike Figgis|Drama, Romance|English|5.8|1993|Sony Pictures Home Entertainment
+1437|Christopher Reid, Christopher Martin, David Edwards, Angela Means|USA|Eric Meza|Comedy, Music, Romance|English|4.1|1994|Sony Pictures Home Entertainment
+1438|Kadeem Hardison, Bokeem Woodbine, Joe Don Baker, Courtney B. Vance|UK, USA|Mario Van Peebles|Drama|English|6.4|1995|PolyGram Video
+1439|Allen Payne, Jada Pinkett Smith, Bokeem Woodbine, Anthony 'Treach' Criss|USA|Doug McHenry|Crime, Drama, Romance|English|6.6|1994|PolyGram Video
+1440|Duane Martin, Leon, Tupac Shakur, David Bailey|USA|Jeff Pollack|Crime, Drama, Sport|English|6.6|1994|New Line Home Entertainment
+1441|Elizabeth Perkins, Whoopi Goldberg, Shadia Simmons, Erica Luttrell|UK, USA|David Anspaugh|Comedy, Drama, Romance|English|5.8|1995|PolyGram Video
+1443|James Rebhorn, Cameron Finley, Carrie Snodgress, Dustin Mayfield|USA|John G. Avildsen|Biography, Drama, Sport|English|6.5|1994|Sony Pictures Home Entertainment
+1444|Hayley Mills, Dean Jones, Dorothy Provine, Roddy McDowall|USA|Robert Stevenson|Comedy, Crime, Family|English, French|6.7|1965|Walt Disney Productions
+1445|Crissy Rock, Vladimir Vega, Sandie Lavelle, Mauricio Venegas|UK|Ken Loach|Drama|English|7.5|1994|Hallmark Entertainment
+1446|Jason Altman, Susan Kirby, Kyla Schoer|USA|Jose Val Bal|Short, Drama|English|N/A|2011|N/A
+1447|Charles Dance, Clive Owen, Miranda Richardson, Robert Stephens|UK|Stephen Poliakoff|Drama, Romance|English|6.4|1993|N/A
+1449|Kanu Bannerjee, Karuna Bannerjee, Chunibala Devi, Uma Das Gupta|India|Satyajit Ray|Drama|Bengali|8.4|1955|Sony Pictures Classics
+1450|Ray Milland, Marlene Dietrich, Murvyn Vye, Bruce Lester|USA|Mitchell Leisen|Adventure, Romance, War|English, German|6.7|1947|Paramount Pictures
+1451|Joel McCrea, Laraine Day, Herbert Marshall, George Sanders|USA|Alfred Hitchcock|Action, Romance, Thriller|English, Dutch, Latvian|7.6|1940|Warner Home Video
+1452|Barbara Stanwyck, Michael O'Shea, J. Edward Bromberg, Iris Adrian|USA|William A. Wellman|Comedy, Music, Mystery|English|6.4|1943|United Artists
+1453|Paul Muni, Anne Baxter, Claude Rains, Onslow Stevens|USA|Archie Mayo|Comedy, Fantasy, Romance|English|6.9|1946|VCI Entertainment
+1454|John Wayne, Gail Russell, Harry Carey, Bruce Cabot|USA|James Edward Grant|Romance, Western|English|7.0|1947|Republic Pictures
+1456|Humphrey Bogart, Jennifer Jones, Gina Lollobrigida, Robert Morley|UK, Italy, USA|John Huston|Action, Adventure, Comedy|English, Italian|6.6|1953|American Pop Classics
+1460|Alexa PenaVega, Mika Boorem, Jane Lynch, Sam Huntington|USA|Joe Nussbaum|Comedy, Romance|English|5.3|2004|MGM
+1461|George Burns, Gracie Allen, George Barbier, Betty Furness|USA|Norman Z. McLeod|Comedy, Music|English|6.3|1935|Paramount Pictures
+1465|Victoria Foyt, Viveca Lindfors, Jon Robin Baitz, Savannah Smith Boucher|USA|Henry Jaglom|Comedy, Drama|English|6.1|1995|Live Home Video
+1466|Helena Bonham Carter, Clive Russell, Craig Anthony Olejnik, Kate Nelligan|Canada, UK|Mort Ransen|Drama|English, Scottish Gaelic, Cantonese|7.3|1995|Cabin Fever Entertainment
+1468|Mirjana Karanovic, Leon Lucev, Petra Vukelic, Franjo Dijak|Switzerland, Croatia, Bosnia and Herzegovina|Andrea Staka|Drama, Mystery, Thriller|Swiss German, Croatian, German|5.6|2014|N/A
+1469|Jonathan Taylor Thomas, Brad Renfro, Eric Schweig, Charles Rocket|USA|Peter Hewitt|Adventure, Comedy, Drama|English|5.6|1995|Buena Vista
+1470|Dal McKennon, Art Clokey, Gloria Clokey, Manny La Carruba|USA|Art Clokey|Animation, Action, Adventure|English|6.2|1995|Arrow Releasing Inc.
+1471|Jeff Goldblum, Christine Lahti, Alicia Silverstone, Jeremy Sisto|USA|Brett Leonard|Fantasy, Horror, Thriller|English|5.3|1995|Sony Pictures Home Entertainment
+1474|Laura San Giacomo, Paul Rhys, Michael O'Keefe, Cristi Conaway|USA|Alan Jacobs|Comedy, Romance|English|5.7|1994|Sony Pictures Home Entertainment
+1475|Kim Vithana, Jimmi Harkishin, Sarita Khajuria, Akbar Kurtha|UK|Gurinder Chadha|Comedy, Drama|English, Panjabi|6.5|1993|Sony Pictures Home Entertainment
+1476|Arnold Schwarzenegger, Kathryn Harrold, Sam Wanamaker, Paul Shenar|USA, Netherlands|John Irvin|Action, Crime, Thriller|English|5.5|1986|HBO Video
+1477|Anais Evans, Ewan McGregor, Nick Nolte, Erich Anderson|USA|Ole Bornedal|Drama, Horror, Thriller|English|6.2|1997|Miramax
+1480|Helen Hayes, Ken Berry, Stefanie Powers, John McIntire|USA|Robert Stevenson|Comedy, Family, Fantasy|English|5.6|1974|Disney
+1481|Stephen Dorff, Reese Witherspoon, Jake Busey, Joey Lauren Adams|USA|Jefery Levy|Comedy, Drama|English|5.9|1994|Gramercy Pictures
+1486|Erika Eleniak, William McNamara, Michael Lerner, Bud Cort|USA|Lucas Platt|Adventure, Crime, Drama|English|6.2|1995|Prism Entertainment
+1487|Uma Thurman, Lorraine Bracco, Pat Morita, Angie Dickinson|USA|Gus Van Sant|Comedy, Drama, Romance|English, German|4.3|1993|Fine Line Features
+1488|Miou-Miou, Renaud, Jean Carmet, Judith Henry|France, Belgium, Italy|Claude Berri|Drama, Romance|French|7.1|1993|Sony Pictures Home Entertainment
+1489|Tom Berenger, William McNamara, Erika Eleniak, Crispin Glover|USA|Dennis Hopper|Comedy|English|5.0|1994|Warner Home Video
+1491|Billy Blanks, Roddy Piper, Richard Norton, Charles Kahlenberg|USA|Steve Cohen|Action, Drama, Thriller|English|5.9|1995|N/A
+1495|Paul Austin, Robert John Burke, Martin Donovan, Erica Gimpel|USA, Germany, Japan|Hal Hartley|Drama, Romance|English, Japanese, German|6.3|1995|New Video Group
+1496|Tom Arnold, David Paymer, Rhea Perlman, Rod Steiger|USA|Arthur Hiller|Comedy|English|4.9|1996|Warner Home Video
+1498|John Peterson, Anna Nielsen, John Edwards, Lester Peterson|USA|Taggart Siegel|Documentary|English|7.5|2005|Cavu Pictures
+1499|Sigrid Bouaziz|France|Camille Henrot|Short|English|8.2|2013|N/A
+1500|Hulk Hogan, Don Stark, Robin Curtis, Garrett Morris|USA|John Murlowski|Comedy|English|2.4|1996|Cabin Fever Entertainment
+1501|Oleg Menshikov, Sergey Bodrov, Jemal Sikharulidze, Susanna Mekhraliyeva|Russia, Kazakhstan|Sergei Bodrov|Drama, War|Russian, Turkish, Georgian, Chechen|7.7|1996|Caravan Pictures
+1502|Eric Stoltz, Mary-Louise Parker, Ralph Macchio, Jill Clayburgh|USA|Daniel Algrant|Comedy, Romance|English|5.7|1993|Sony Pictures Home Entertainment
+1503|Christina Ricci, Anna Chlumsky, Polly Draper, Brian Kerwin|Canada, USA|Kevin James Dobson|Adventure, Drama, Family|English|6.0|1995|MCA Universal Home Video
+1505|James Woods, Robert Sean Leonard, Ellen Greene, Cara Buono|USA|Tim Metcalfe|Biography, Crime, Drama|English|6.4|1995|Spelling Entertainment
+1509|Macaulay Culkin, Ted Danson, Glenne Headly, Saul Rubinek|USA|Howard Deutch|Comedy, Crime, Family|English|4.6|1994|MGM Home Entertainment
+1510|Ellen Barkin, Gabriel Byrne, Richard Dreyfuss, Jeff Goldblum|USA|Larry Bishop|Comedy, Crime, Drama|English|5.5|1996|MGM/United Artists
+1511|Judy Davis, Sam Neill, F. Murray Abraham, Richard Roxburgh|Australia|Peter Duncan|Comedy, Drama, Romance|English|6.3|1996|Miramax
+1513|Tisha Campbell-Martin, Rusty Cundieff, Paula Jai Parker, Joe Torry|USA|Rusty Cundieff|Comedy, Romance|English|5.0|1997|Trimark
+1514|David Arquette, Brad Hunt, Cathy Moriarty, Kathryn Erbe|USA|Finn Taylor|Comedy, Drama|English|7.0|1997|3 Ring Circus Films
+1515|Craig Sheffer, Tom Hulce, Elizabeth McGovern, Val Kilmer|USA, France|Jean-Jacques Annaud|Adventure, Romance|English|6.5|1995|Sony Pictures Entertainment
+1517|Halle Berry, Jim Belushi, Bill Hunter, Casey Affleck|USA|Charles T. Kanganis|Adventure, Comedy, Drama|English, Hawaiian, Russian|5.3|1996|Sony Pictures Home Entertainment
+1518|Jessica Lange, Halle Berry, David Strathairn, Cuba Gooding Jr.|USA|Stephen Gyllenhaal|Drama|English|6.4|1995|Paramount Home Video
+1519|Shar-Ron Corley, Gabriel Casseus, Saul Stein, Gwen McGee|USA|Nick Gomez|Crime, Drama|English|6.7|1995|MCA Universal Home Video
+1521|Matt Dillon, Annabella Sciorra, Mary-Louise Parker, William Hurt|USA|Anthony Minghella|Comedy, Romance|English|5.9|1993|Warner Home Video
+1522|Joanne Whalley, Armand Assante, Gabriel Byrne, William Hurt|USA|Heywood Gould|Thriller, Crime, Drama|English|5.3|1994|Warner Home Video
+1526|Harrison Ford, Kelly McGillis, Josef Sommer, Lukas Haas|USA|Peter Weir|Crime, Drama, Romance|English, German|7.4|1985|Paramount Pictures
+1527|Marlon Wayans, Brad Dourif, Esther Scott, Debra Jo Rupp|USA|Penelope Spheeris|Comedy, Romance|English|6.0|1998|Miramax
+1528|James Duval, Rachel True, Nathan Bexton, Chiara Mastroianni|USA, France|Gregg Araki|Comedy, Drama, Sci-Fi|English|6.4|1997|New Line Home Entertainment
+1529|Predrag 'Miki' Manojlovic, Lazar Ristovski, Mirjana Jokovic, Slavko Stimac|Federal Republic of Yugoslavia, France, Germany, Bulgaria, Czech Republic, Hungary|Emir Kusturica|Comedy, Drama, War|Serbian, German, French, English, Russian|8.1|1995|CiBy 2000
+1530|Nick Nolte, Gwyneth Paltrow, Estelle Eonnet, Thandie Newton|USA, France|James Ivory|Biography, Drama, History|English, French|5.7|1995|Franco London Films
+1531|Mimi Rogers, Bruce Davison, Jesse Bradford, Tom Bower|USA|Phillip Borsos|Adventure, Family|English|6.4|1995|Kagan Company Radio Telegraph
+1532|Robin Givens, Marco Hofschneider, Rick Johnson, Charlotte Ross|Netherlands, USA, France, Italy, UK|Eva Sereny|Drama|English|5.8|1994|Universal Pictures
+1534|Llyr Ifans, Rhys Ifans, Dorien Thomas, Dougray Scott|UK|Kevin Allen|Comedy, Drama|English|6.7|1997|Gramercy Pictures
+1537|Ben Mendelsohn, Barry Otto, Toni Collette, Rachel Griffiths|Australia|Mark Joffe|Comedy, Drama, Music|English|6.8|1996|Miramax Films
+1538|Alison Folland, Tara Subkoff, Cole Hauser, Wilson Cruz|USA|Alex Sichel|Crime, Drama, Romance|English|6.6|1997|New Line Home Entertainment
+1543|David Arquette, Lukas Haas, Tony Epper, John C. McGinley|USA|Scott Silver|Drama, Romance|English|6.3|1996|First Look Pictures
+1544|Kirstie Alley, Steve Guttenberg, Mary-Kate Olsen, Ashley Olsen|USA|Andy Tennant|Comedy, Family, Romance|English|5.7|1995|Warner Home Video
+1545|Corban Walker, Niall Toibin, Owen Roe, Gabriel Byrne|France, UK, Ireland, USA|Michael Lindsay-Hogg|Drama, Romance, War|English|6.7|1995|New Line Home Entertainment
+1546|Ben Carruthers, Lelia Goldoni, Hugh Hurd, Anthony Ray|USA|John Cassavetes|Drama, Romance|English|7.4|1959|Criterion Collection
+1547|J.G. Quintel, William Salyers, Sam Marin, Mark Hamill|USA|J.G. Quintel|Animation, Action, Adventure|English|7.4|2015|Cartoon Network Studios
+1550|Dylan McDermott, Nancy Travis, James Le Gros, Quentin Tarantino|USA|Jack Baran|Crime, Comedy, Fantasy|English|4.5|1995|HBO Video
+1552|Matt Bomer|USA|Ben Steele|Documentary|Russian, English|7.4|2014|N/A
+1553|Paul Maslansky, George Gaynes, Michael Winslow, Leslie Easterbrook|USA|N/A|Documentary, Short|English|4.5|2004|N/A
+1554|Susan Sarandon, Nick Stahl, Sam Shepard, Marcia Gay Harden|USA|Robert Allan Ackerman|Drama|English|6.4|1994|Turner Home Entertainment
+1557|Leon Schuster, John Matshikiza, Wilson Dunster, Terri Treas|South Africa|Gray Hofmeyr|Comedy, Drama|English, Afrikaans|6.5|1993|N/A
+1558|Kamala Adhikari, Lalchand Banerjee, Kali Bannerjee, Kanu Bannerjee|India|Satyajit Ray|Drama|Bengali, English|8.2|1956|N/A
+1559|Tia Carrere, Rigg Kennedy, Lisa Dean Ryan, Tricia Leigh Fisher|USA|Catherine Cyran|Action, Drama, Thriller|English, Spanish|4.1|1995|WarnerVision
+1560|Dana Carvey, Valeria Golino, James Earl Jones, Kevin Pollak|USA|Mick Jackson|Comedy, Mystery|English|5.6|1994|MGM Home Entertainment
+1563|Mike Appel, Roy Bittan, Clarence Clemons, Obie Dziedzic|USA|Thom Zimny|Documentary, Music|English|7.7|2010|Home Box Office (HBO)
+1564|Patricia Royce, Lorraine Devon Wilke, JD Souther, Wade Madsen|USA|Barry Caillier|Comedy|English|5.4|1991|Simitar
+1567|Kyle McCulloch, Gosia Dobrowolska, Sarah Neville, Brent Neale|Canada|Guy Maddin|Comedy, Drama, Romance|English|7.2|1992|Zeitgeist Films
+1568|George Thrush, Marya Cohn, Ann O'Brien, Euclid Farnham|USA|John O'Brien|Comedy|English|6.5|1992|Zeitgeist Films
+1570|Pauline Andela, Jimmy Biyona, Essindi Mindja, Sandrine Ola'a|Cameroon, France|Jean-Pierre Bekolo|Comedy|N/A|6.8|1992|N/A
+1573|Brigitte Bardot, Alain Delon, Jane Fonda, Terence Stamp|France, Italy|Federico Fellini, Louis Malle, Roger Vadim|Horror, Mystery|French, Italian, English|6.6|1968|Cocinor
+1574|Chris Cooper, Patricia Clarkson, Kris Kristofferson, Robert Joy|USA|Robby Henson|Western|English|7.0|1995|Lionsgate
+1582|Dennis O'Keefe, Mary Meade, Alfred Ryder, Wallace Ford|USA|Anthony Mann|Crime, Film-Noir, Thriller|English, Italian|7.0|1947|Edward Small Productions
+1585|Jesse Jackson, Juan Munoz, Ray Rogers, Nina Xining Zuo|USA, UK|Barbara Kopple, Cathy Caplan, Thomas Haneke, Lawrence Silk|Documentary|English|8.0|1990|Prestige
+1587|Sterling Hayden, Sebastian Cabot, Carol Kelly, Eugene Mazzola|USA|Joseph H. Lewis|Western|English, Spanish|6.8|1958|United Artists
+1589|Miles Hardy|USA|Steven Soderbergh|Comedy, Fantasy, Mystery|English, Japanese, Italian, French|7.1|1996|Criterion Collection
+1592|N/A|Canada|N/A|Drama|N/A|N/A|2014|N/A
+1593|Sam Neill, Zoe Carides, John Clarke, Yvonne Lawley|Australia|John Ruane|Comedy, Crime, Thriller|English|6.6|1990|Sony Pictures Home Entertainment
+1595|Sadie Frost, Jude Law, Sean Pertwee, Fraser James|UK, Japan|Paul W.S. Anderson|Action, Crime, Drama|English|5.4|1994|N/A
+1596|Sue Price, Chad Stahelski, Tina Cote, Earl White|USA|Albert Pyun|Action, Sci-Fi, Thriller|English|4.7|1995|Imperial Entertainment Corp
+1597|Russell Crowe, Daniel Pollock, Jacqueline McKenzie, Alex Scott|Australia|Geoffrey Wright|Crime, Drama|English, Vietnamese, German, Japanese, Portuguese|6.8|1992|Seon Films
+1598|Harvey Keitel, Stephen Dorff, Timothy Hutton, Famke Janssen|USA|John Irvin|Crime, Drama, Thriller|English|6.2|1997|Orion Home Video
+1601|Carol Kane, Molly Ringwald, Jeanne Tripplehorn, Barbara Sukowa|USA|Cindy Sherman|Comedy, Horror, Thriller|English|4.9|1997|Miramax
+1603|Miranda Rhyne, Charlotte Eve Blythe, Anna Levine, John Ventimiglia|USA|Rebecca Miller|Drama|English|6.5|1995|Tree Farm Productions
+1604|Richard Basehart, Scott Brady, Roy Roberts, Whit Bissell|USA|Alfred L. Werker, Anthony Mann|Crime, Film-Noir, Thriller|English, Spanish, Chinese|7.2|1948|Eagle-Lion
+1605|Miranda Otto, Rebecca Frith, George Shevtsov, John Alansu|Australia|Shirley Barrett|Comedy, Crime, Drama|English|7.0|1996|Miramax
+1607|Brendan Sexton III, Antoine McLean, Mtume Gant, Carlo Alban|USA|Morgan J. Freeman|Crime, Drama, Romance|English|6.5|1997|MGM Home Entertainment
+1608|Nicolai Cleve Broch, Aksel Hennie, Anders Baasmo Christiansen, Pia Tjelta|Norway|Morten Tyldum|Comedy, Drama, Romance|Norwegian|6.9|2003|Happy Endings
+1609|Halle Berry, Martin Landau, Ian Richardson, Natalie Desselle Reid|USA|Robert Townsend|Comedy|English, Italian|4.1|1997|WARNER BROTHERS PICTURES
+1610|Vincent Gallo, Mykelti Williamson, Kiefer Sutherland, Kevin Pollak|USA|Kiefer Sutherland|Action, Crime, Drama|English|6.3|1997|Sony Pictures Home Entertainment
+1611|Julie Walters, Rupert Graves, Matthew Walker, Laura Sadler|Canada, UK|Philip Goodhew|Comedy, Drama|English|6.4|1996|Fox Searchlight Pictures
+1615|Angus Macfadyen, Mario Yedidia, Marley Shelton, Chao Li Chi|USA, China|Ronny Yu|Action, Fantasy, Adventure|English, Mandarin|4.6|1997|MGM Home Entertainment
+1616|Adam Ant, Heather Graham, Jessica Hamilton, Jack Kehler|USA|Michael A. Nickles|Drama, Mystery, Romance|English|5.8|1994|N/A
+1617|Alyssa Milano, Mark Boone Junior, Malcolm McDowell, Brendan Dawson|USA|Robert Downey Sr.|Comedy, Romance|English|5.2|1997|Wellspring Media Inc.
+1618|Christopher Walken, David Caruso, Laurence Fishburne, Victor Argo|Italy, USA, UK|Abel Ferrara|Crime, Thriller|English|7.0|1990|Live Home Video
+1621|Amanda Plummer, Kathy Jamieson, Saskia Reeves, Des McAleer|UK|Michael Winterbottom|Comedy, Drama, Romance|English|6.4|1995|N/A
+1622|Leslie Hope, Peter Outerbridge, Victor Ertmanis, Dan Lett|Canada|Jerry Ciccoritti|Comedy, Drama|English|5.3|1993|A-Pix
+1624|Kate Siegel, John Gallagher Jr., Michael Trucco, Samantha Sloyan|USA|Mike Flanagan|Horror, Thriller|English, American Sign Language|6.6|2016|Intrepid Pictures
+1625|Anais Evans, Ewan McGregor, Nick Nolte, Erich Anderson|USA|Ole Bornedal|Drama, Horror, Thriller|English|6.2|1997|Miramax
+1627|El-Deif Ahmed, Youssef Chaban, Adel Imam, Hussein Ismail|Egypt|Fatin Abdel Wahab|Comedy, Drama, Romance|Arabic|7.2|1966|N/A
+1628|Enrico Lo Verso, Michele Placido, Piro Milkani, Carmelo Di Mazzarelli|Italy, France, Switzerland, Austria|Gianni Amelio|Drama|Albanian, Italian|7.6|1994|Arena Films
+1635|Golshifteh Farahani, Vincent Macaigne, Louis Garrel, Mahaut Adam|France|Louis Garrel|Comedy, Romance|French|6.1|2015|N/A
+1636|Om Puri, Pavan Malhotra, Angeline Ball, Ace Bhatti|UK|Udayan Prasad|Comedy, Drama|English|6.8|1995|N/A
+1637|Lili Taylor, Bruklin Harris, Anna Grace, Aunjanue Ellis|USA|Jim McKay|Comedy, Drama|English|6.2|1996|Hallmark Entertainment
+1638|Ashley Judd, Luke Perry, Bruce A. Young, Jim True-Frost|USA|John McNaughton|Crime, Drama|English|6.2|1996|New Line Home Entertainment
+1641|Jim Pryor, Stephen Beals, Fred Worrell, Edith Meeks|USA|Russ Hexter|Drama|English|7.2|1995|N/A
+1642|Helen Mirren, Fionnula Flanagan, Aidan Gillen, David O'Hara|Ireland, USA|Terry George|Drama, History|English, Irish|7.3|1996|Warner Home Video
+1643|John Lynch, Jacqueline McKenzie, Colin Friels, Deborra-Lee Furness|Australia|Michael Rymer|Drama, Romance|English|7.2|1995|N/A
+1644|Adrienne Shelly, Tim Guinee, Roger Rees, Louise Lasser|USA|Adrienne Shelly|Comedy|English|6.5|1996|Vanguard
+1648|Robin Tunney, Henry Thomas, Michael Parks, Stephen Lang|USA, Canada|Bob Gosse|Drama, Romance|English|7.1|1997|The Shooting Gallery
+1649|Joanna Kerns, Dan Lauria, Bonnie Bartlett, Lindsay Frost|USA|Larry Elikann|Drama|English|6.2|1990|Von Zerneck-Sertner Films
+1652|Leslie Cheung, Li Gong, Kevin Lin, Saifei He|China, Hong Kong|Kaige Chen|Drama, Romance|Mandarin|6.9|1996|Shanghai Film Studios
+1653|Moira Kelly, Martin Sheen, Lenny von Dohlen, Melinda Dillon|USA|Michael Ray Rhodes|Biography, Drama, Romance|English|6.4|1996|Paulist Productions
+1654|Scott 'Carrot Top' Thompson, Courtney Thorne-Smith, Larry Miller, Raquel Welch|USA|Alex Zamm|Comedy|English|2.3|1998|Trimark
+1655|Lorenzo Albacete, Osama bin Laden, Tom Brokaw, John Burnett|USA|David Grubin|Documentary, History, News|English|N/A|2004|N/A
+1656|Jon Bon Jovi, Penelope Ann Miller, Joe Bellan, Robert Elross|USA|Roberto Benabib|Comedy, Romance|English|6.1|1997|Miramax
+1657|Gene Hackman, Matt Dillon, Gayle Hunnicutt, Randy Moore|USA|Arthur Penn|Action, Adventure, Crime|English, French, German|6.0|1985|Warner Bros.
+1659|Dan Aykroyd, Lily Tomlin, Jack Lemmon, Bonnie Hunt|UK, USA|Harvey Miller|Comedy|English|4.5|1996|HBO Video
+1660|Iain Robertson, Joe McFadden, Steven Duffy, Laura Fraser|UK|Gillies MacKinnon|Drama|English|7.1|1996|Hallmark Entertainment
+1661|Thomas Rivas, Julia Harkebusch, Cesar Rivas, Julio Favela|USA|Thomas Rivas|Thriller|English|N/A|2015|N/A
+1662|Bridget Fonda, Russell Crowe, Jim Broadbent, D.W. Moffett|UK, USA, France|Clare Peploe|Comedy, Drama, Romance|English|5.5|1995|Sony Pictures Home Entertainment
+1663|Lotte Verbeek, Stephen Rea, Tom Charlfa, Ann Marie Horan|Ireland, Netherlands|Urszula Antoniak|Drama|English, Dutch, Irish, German|7.1|2009|Olive Films
+1664|Joe Pesci, Andy Comeau, Kristy Swanson, George Hamilton|USA, UK|Tom Schulman|Comedy, Crime|English, Spanish|5.3|1997|Orion Home Video
+1666|Monica Keena, Daisy Eagan, Gordon Currie, Ron Brice|USA|Mo Ogrodnik|Drama, Romance|English|3.8|1996|Trimark
+1668|Illeana Douglas, Paulina Porizkova, Julie Warner, John Corbett|USA|Dana Lustig|Comedy, Romance|English|4.9|1996|BMG
+1669|Joanna Merlin, Kathleen Chalfant, Catherine Kellner, Isa Thomas|USA|Yvonne Rainer|N/A|English|7.0|1996|N/A
+1670|Jason Brouwer, T.J. Timon, Ronnie Walsh, Greg James|USA|Brian Evans|Comedy, Thriller|English|5.3|1998|N/A
+1673|Gregory Peck, Diane Baker, Walter Matthau, Kevin McCarthy|USA|Edward Dmytryk|Mystery, Thriller|English|7.4|1965|Universal
+1674|Anna Magnani, Ettore Garofolo, Franco Citti, Silvana Corsini|Italy|Pier Paolo Pasolini|Drama|Italian|7.9|1962|Criterion Collection
+1677|Michael Imperioli, Mira Sorvino, Joyce Phillips, Paul Calderon|USA|Gary Winick|Drama|English|6.0|1995|Warner Home Video
+1679|Asia Argento, Jared Harris, Rupert Everett, Jonathan Rhys Meyers|UK, USA|Michael Radford|Crime, Drama, Romance|English, Italian, French|6.0|1998|Miramax
+1680|Gwyneth Paltrow, John Hannah, John Lynch, Jeanne Tripplehorn|UK, USA|Peter Howitt|Comedy, Drama, Fantasy|English|6.8|1998|Miramax
+1681|Martin Lawrence|USA|Thomas Schlamme|Documentary, Comedy|English|6.7|1994|HBO Video
+1682|Vittorio Mezzogiorno, Stefan Glowacz, Mathilda May, Al Waxman|Germany, France, Canada, Italy, Argentina|Werner Herzog|Drama|English, Spanish|6.4|1991|Alliance
