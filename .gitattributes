@@ -1,1 +1,3 @@
 *.pkl linguist-generated=true
+*.p linguist-generated=true
+pcs_stored linguist-generated=true
