@@ -1,3 +1,7 @@
 *.pkl linguist-generated=true
 *.p linguist-generated=true
 pcs_stored linguist-generated=true
+
+data/ linguist-generated=true
+hybrid/data/ linguist-generated=true
+
